@@ -27,25 +27,28 @@
       <Argument Key="maxVersionParts" Value="" xmlns="" />
     </TransformComponentArguments>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\Symbiote.Core\bin\Debug\Documentation.XML" />
-      <DocumentationSource sourceFile="..\Symbiote.Core\bin\Debug\Symbiote.exe" />
+      <DocumentationSource sourceFile="..\..\Symbiote.Core\Symbiote.Core\bin\Debug\Symbiote.exe" />
+      <DocumentationSource sourceFile="..\..\Symbiote.Core\Symbiote.SDK\bin\Debug\Symbiote.SDK.dll" />
+      <DocumentationSource sourceFile="..\..\Symbiote.Core\Symbiote.Core\bin\Debug\Symbiote.SDK.xml" />
+      <DocumentationSource sourceFile="..\..\Symbiote.Core\Symbiote.Core\bin\Debug\Symbiote.SDK.dll" />
+      <DocumentationSource sourceFile="..\..\Symbiote.Core\Symbiote.Core\bin\Debug\Symbiote.XML" />
     </DocumentationSources>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>Website</HelpFileFormat>
     <IndentHtml>False</IndentHtml>
     <KeepLogFile>True</KeepLogFile>
     <DisableCodeBlockComponent>False</DisableCodeBlockComponent>
-    <CleanIntermediates>True</CleanIntermediates>
+    <CleanIntermediates>False</CleanIntermediates>
     <HelpFileVersion>0.5.0.0</HelpFileVersion>
     <MaximumGroupParts>2</MaximumGroupParts>
     <NamespaceGrouping>True</NamespaceGrouping>
     <SyntaxFilters>Standard</SyntaxFilters>
     <SdkLinkTarget>Blank</SdkLinkTarget>
-    <RootNamespaceTitle>Symbiote</RootNamespaceTitle>
+    <RootNamespaceTitle>Symbiote Namespaces</RootNamespaceTitle>
     <RootNamespaceContainer>True</RootNamespaceContainer>
-    <PresentationStyle>VS2013</PresentationStyle>
+    <PresentationStyle>VS2010</PresentationStyle>
     <Preliminary>False</Preliminary>
-    <NamingMethod>Guid</NamingMethod>
+    <NamingMethod>MemberName</NamingMethod>
     <HelpTitle>Symbiote</HelpTitle>
     <ContentPlacement>AboveNamespaces</ContentPlacement>
     <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Internals, Privates, PrivateFields, Protected, SealedProtected, ProtectedInternalAsProtected</VisibleItems>
