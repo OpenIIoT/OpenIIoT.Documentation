@@ -1,0 +1,1717 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="5f9eb716-9746-4f65-95c6-c406b2f66b3e" Title="OpenIIoT Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="e3a25046-6a3d-4f42-8f59-47128af3a0e4" Title="OpenIIoT.Core Namespaces" Url="html/G_OpenIIoT_Core.htm">
+      <HelpTOCNode Id="d6a0499f-8634-4eaa-b67a-5529bc30af2f" Title="OpenIIoT.Core" Url="html/N_OpenIIoT_Core.htm">
+        <HelpTOCNode Id="5d09322b-f25b-42e5-8f19-1f3875c4bb62" Title="ApplicationManager Class" Url="html/T_OpenIIoT_Core_ApplicationManager.htm">
+          <HelpTOCNode Title="ApplicationManager Constructor " Url="html/M_OpenIIoT_Core_ApplicationManager__ctor.htm" />
+          <HelpTOCNode Title="ApplicationManager Constructor " Url="html/M_OpenIIoT_Core_ApplicationManager__cctor.htm" />
+          <HelpTOCNode Id="b554c005-226e-4009-ad1c-2d2f62e11f9e" Title="ApplicationManager Properties" Url="html/Properties_T_OpenIIoT_Core_ApplicationManager.htm">
+            <HelpTOCNode Title="InstanceName Property " Url="html/P_OpenIIoT_Core_ApplicationManager_InstanceName.htm" />
+            <HelpTOCNode Title="ManagerDependencies Property " Url="html/P_OpenIIoT_Core_ApplicationManager_ManagerDependencies.htm" />
+            <HelpTOCNode Title="ManagerInstances Property " Url="html/P_OpenIIoT_Core_ApplicationManager_ManagerInstances.htm" />
+            <HelpTOCNode Title="Managers Property " Url="html/P_OpenIIoT_Core_ApplicationManager_Managers.htm" />
+            <HelpTOCNode Title="ManagerTypes Property " Url="html/P_OpenIIoT_Core_ApplicationManager_ManagerTypes.htm" />
+            <HelpTOCNode Title="ProductName Property " Url="html/P_OpenIIoT_Core_ApplicationManager_ProductName.htm" />
+            <HelpTOCNode Title="ProductVersion Property " Url="html/P_OpenIIoT_Core_ApplicationManager_ProductVersion.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="81437dbb-5d4d-49e3-b243-3d2a2dae2a11" Title="ApplicationManager Methods" Url="html/Methods_T_OpenIIoT_Core_ApplicationManager.htm">
+            <HelpTOCNode Title="GetInstance Method " Url="html/M_OpenIIoT_Core_ApplicationManager_GetInstance.htm" />
+            <HelpTOCNode Title="GetInstanceName Method " Url="html/M_OpenIIoT_Core_ApplicationManager_GetInstanceName.htm" />
+            <HelpTOCNode Title="GetManager(T) Method " Url="html/M_OpenIIoT_Core_ApplicationManager_GetManager__1.htm" />
+            <HelpTOCNode Title="GetManagerDependencies(T) Method " Url="html/M_OpenIIoT_Core_ApplicationManager_GetManagerDependencies__1.htm" />
+            <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_ApplicationManager_Instantiate.htm" />
+            <HelpTOCNode Title="InstantiateManager(T) Method " Url="html/M_OpenIIoT_Core_ApplicationManager_InstantiateManager__1.htm" />
+            <HelpTOCNode Title="InstantiateManagers Method " Url="html/M_OpenIIoT_Core_ApplicationManager_InstantiateManagers.htm" />
+            <HelpTOCNode Id="41fead07-08b8-4ff7-b789-ac552bcab9c9" Title="InvokeMethod Method " Url="html/Overload_OpenIIoT_Core_ApplicationManager_InvokeMethod.htm">
+              <HelpTOCNode Title="InvokeMethod Method (MethodInfo, Type, Type, String, Object[])" Url="html/M_OpenIIoT_Core_ApplicationManager_InvokeMethod.htm" />
+              <HelpTOCNode Title="InvokeMethod(T) Method (MethodInfo, Type, Type, String, Object[])" Url="html/M_OpenIIoT_Core_ApplicationManager_InvokeMethod__1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IsManagerRegistered(T) Method " Url="html/M_OpenIIoT_Core_ApplicationManager_IsManagerRegistered__1.htm" />
+            <HelpTOCNode Title="ManagerStateChanged Method " Url="html/M_OpenIIoT_Core_ApplicationManager_ManagerStateChanged.htm" />
+            <HelpTOCNode Title="RegisterManager(T) Method " Url="html/M_OpenIIoT_Core_ApplicationManager_RegisterManager__1.htm" />
+            <HelpTOCNode Title="ResolveManagerDependencies(T) Method " Url="html/M_OpenIIoT_Core_ApplicationManager_ResolveManagerDependencies__1.htm" />
+            <HelpTOCNode Title="SetupManager Method " Url="html/M_OpenIIoT_Core_ApplicationManager_SetupManager.htm" />
+            <HelpTOCNode Title="SetupManagers Method " Url="html/M_OpenIIoT_Core_ApplicationManager_SetupManagers.htm" />
+            <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_ApplicationManager_Shutdown.htm" />
+            <HelpTOCNode Title="StartManager Method " Url="html/M_OpenIIoT_Core_ApplicationManager_StartManager.htm" />
+            <HelpTOCNode Title="StartManagers Method " Url="html/M_OpenIIoT_Core_ApplicationManager_StartManagers.htm" />
+            <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_ApplicationManager_Startup.htm" />
+            <HelpTOCNode Title="StopManager Method " Url="html/M_OpenIIoT_Core_ApplicationManager_StopManager.htm" />
+            <HelpTOCNode Title="StopManagers Method " Url="html/M_OpenIIoT_Core_ApplicationManager_StopManagers.htm" />
+            <HelpTOCNode Title="Terminate Method " Url="html/M_OpenIIoT_Core_ApplicationManager_Terminate.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationManager Events" Url="html/Events_T_OpenIIoT_Core_ApplicationManager.htm" />
+          <HelpTOCNode Id="9185b248-c1e7-4dd7-b5e0-aafb63678e7e" Title="ApplicationManager Fields" Url="html/Fields_T_OpenIIoT_Core_ApplicationManager.htm">
+            <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_ApplicationManager_instance.htm" />
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_ApplicationManager_logger.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="ed766d84-80d5-4bd2-b61d-a5b4edb9426a" Title="Program Class" Url="html/T_OpenIIoT_Core_Program.htm">
+          <HelpTOCNode Title="Program Constructor " Url="html/M_OpenIIoT_Core_Program__ctor.htm" />
+          <HelpTOCNode Title="Program Constructor " Url="html/M_OpenIIoT_Core_Program__cctor.htm" />
+          <HelpTOCNode Id="12114fa7-2a93-4b97-9e57-59ccd1c58bff" Title="Program Methods" Url="html/Methods_T_OpenIIoT_Core_Program.htm">
+            <HelpTOCNode Title="Main Method " Url="html/M_OpenIIoT_Core_Program_Main.htm" />
+            <HelpTOCNode Title="ProcessArguments Method " Url="html/M_OpenIIoT_Core_Program_ProcessArguments.htm" />
+            <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Program_Shutdown.htm" />
+            <HelpTOCNode Title="Start Method " Url="html/M_OpenIIoT_Core_Program_Start.htm" />
+            <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Program_Startup.htm" />
+            <HelpTOCNode Title="Stop Method " Url="html/M_OpenIIoT_Core_Program_Stop.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="74a6cb55-a5bb-41f2-a066-ed386feaca3d" Title="Program Fields" Url="html/Fields_T_OpenIIoT_Core_Program.htm">
+            <HelpTOCNode Title="applicationManager Field" Url="html/F_OpenIIoT_Core_Program_applicationManager.htm" />
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Program_logger.htm" />
+            <HelpTOCNode Title="managers Field" Url="html/F_OpenIIoT_Core_Program_managers.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c500efda-e53b-4266-9a13-a12d92c26006" Title="ProjectInstaller Class" Url="html/T_OpenIIoT_Core_ProjectInstaller.htm">
+          <HelpTOCNode Title="ProjectInstaller Constructor " Url="html/M_OpenIIoT_Core_ProjectInstaller__ctor.htm" />
+          <HelpTOCNode Title="ProjectInstaller Properties" Url="html/Properties_T_OpenIIoT_Core_ProjectInstaller.htm" />
+          <HelpTOCNode Id="9849eea2-e269-4e8b-b1af-38f2d745922c" Title="ProjectInstaller Methods" Url="html/Methods_T_OpenIIoT_Core_ProjectInstaller.htm">
+            <HelpTOCNode Id="8eb1b033-de89-41fa-bad3-d31390a619ce" Title="Dispose Method " Url="html/Overload_OpenIIoT_Core_ProjectInstaller_Dispose.htm">
+              <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_OpenIIoT_Core_ProjectInstaller_Dispose.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="InitializeComponent Method " Url="html/M_OpenIIoT_Core_ProjectInstaller_InitializeComponent.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ProjectInstaller Events" Url="html/Events_T_OpenIIoT_Core_ProjectInstaller.htm" />
+          <HelpTOCNode Id="c1194031-4dc6-4ca1-a126-c6f631f87fe6" Title="ProjectInstaller Fields" Url="html/Fields_T_OpenIIoT_Core_ProjectInstaller.htm">
+            <HelpTOCNode Title="components Field" Url="html/F_OpenIIoT_Core_ProjectInstaller_components.htm" />
+            <HelpTOCNode Title="serviceInstaller Field" Url="html/F_OpenIIoT_Core_ProjectInstaller_serviceInstaller.htm" />
+            <HelpTOCNode Title="serviceProcessInstaller Field" Url="html/F_OpenIIoT_Core_ProjectInstaller_serviceProcessInstaller.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="4d349cb6-58ec-4fe0-b948-f12fbba90eb6" Title="Utility Class" Url="html/T_OpenIIoT_Core_Utility.htm">
+          <HelpTOCNode Id="960a5822-d270-4a13-9375-19e428eeb9c1" Title="Utility Methods" Url="html/Methods_T_OpenIIoT_Core_Utility.htm">
+            <HelpTOCNode Title="DisableLoggingLevel Method " Url="html/M_OpenIIoT_Core_Utility_DisableLoggingLevel.htm" />
+            <HelpTOCNode Id="bdac7d65-09e0-42c3-a182-b21328dafe11" Title="GetSetting Method " Url="html/Overload_OpenIIoT_Core_Utility_GetSetting.htm">
+              <HelpTOCNode Title="GetSetting Method (String)" Url="html/M_OpenIIoT_Core_Utility_GetSetting.htm" />
+              <HelpTOCNode Title="GetSetting Method (String, String)" Url="html/M_OpenIIoT_Core_Utility_GetSetting_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="ModifyService Method " Url="html/M_OpenIIoT_Core_Utility_ModifyService.htm" />
+            <HelpTOCNode Title="PrintLogo Method " Url="html/M_OpenIIoT_Core_Utility_PrintLogo.htm" />
+            <HelpTOCNode Title="PrintLogoFooter Method " Url="html/M_OpenIIoT_Core_Utility_PrintLogoFooter.htm" />
+            <HelpTOCNode Title="PrintModel Method " Url="html/M_OpenIIoT_Core_Utility_PrintModel.htm" />
+            <HelpTOCNode Title="SetLoggingLevel Method " Url="html/M_OpenIIoT_Core_Utility_SetLoggingLevel.htm" />
+            <HelpTOCNode Title="UpdateSetting Method " Url="html/M_OpenIIoT_Core_Utility_UpdateSetting.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="88a7aafb-8d0f-4184-842f-55bcf797bb6d" Title="WindowsService Class" Url="html/T_OpenIIoT_Core_WindowsService.htm">
+          <HelpTOCNode Title="WindowsService Constructor " Url="html/M_OpenIIoT_Core_WindowsService__ctor.htm" />
+          <HelpTOCNode Title="WindowsService Properties" Url="html/Properties_T_OpenIIoT_Core_WindowsService.htm" />
+          <HelpTOCNode Id="bfea71e8-def8-48d1-ae6e-873df8787d8d" Title="WindowsService Methods" Url="html/Methods_T_OpenIIoT_Core_WindowsService.htm">
+            <HelpTOCNode Id="b3e5d2a5-55be-49e6-8cdd-c36ba586ce1d" Title="Dispose Method " Url="html/Overload_OpenIIoT_Core_WindowsService_Dispose.htm">
+              <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_OpenIIoT_Core_WindowsService_Dispose.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="InitializeComponent Method " Url="html/M_OpenIIoT_Core_WindowsService_InitializeComponent.htm" />
+            <HelpTOCNode Title="OnStart Method " Url="html/M_OpenIIoT_Core_WindowsService_OnStart.htm" />
+            <HelpTOCNode Title="OnStop Method " Url="html/M_OpenIIoT_Core_WindowsService_OnStop.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="WindowsService Events" Url="html/Events_T_OpenIIoT_Core_WindowsService.htm" />
+          <HelpTOCNode Id="1213178c-8baf-4d4f-a44f-8f54e5f99d1e" Title="WindowsService Fields" Url="html/Fields_T_OpenIIoT_Core_WindowsService.htm">
+            <HelpTOCNode Title="components Field" Url="html/F_OpenIIoT_Core_WindowsService_components.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="21a18f45-17df-4cc4-8341-1b0cdaa12b23" Title="OpenIIoT.Core.Configuration" Url="html/N_OpenIIoT_Core_Configuration.htm">
+        <HelpTOCNode Id="baf5116a-c617-4c63-b101-a4c4fe474a40" Title="ConfigurationManager Class" Url="html/T_OpenIIoT_Core_Configuration_ConfigurationManager.htm">
+          <HelpTOCNode Title="ConfigurationManager Constructor " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager__ctor.htm" />
+          <HelpTOCNode Title="ConfigurationManager Constructor " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager__cctor.htm" />
+          <HelpTOCNode Id="4530fe91-2ffb-4462-89aa-0ef7a632891b" Title="ConfigurationManager Properties" Url="html/Properties_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm">
+            <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_Core_Configuration_ConfigurationManager_Configuration.htm" />
+            <HelpTOCNode Title="ConfigurationFileName Property " Url="html/P_OpenIIoT_Core_Configuration_ConfigurationManager_ConfigurationFileName.htm" />
+            <HelpTOCNode Title="RegisteredTypes Property " Url="html/P_OpenIIoT_Core_Configuration_ConfigurationManager_RegisteredTypes.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="aeb4f699-91c7-4356-a3b4-efeea49db71e" Title="ConfigurationManager Methods" Url="html/Methods_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm">
+            <HelpTOCNode Id="496a1d5c-3ac4-4900-bc68-c3ae89e614e7" Title="AddInstanceConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_AddInstanceConfiguration.htm">
+              <HelpTOCNode Title="AddInstanceConfiguration(T) Method (Type, Object, String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_AddInstanceConfiguration__1_1.htm" />
+              <HelpTOCNode Title="AddInstanceConfiguration(T) Method (Type, Object, Dictionary(String, Dictionary(String, Object)), String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_AddInstanceConfiguration__1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="BuildNewConfiguration Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_BuildNewConfiguration.htm" />
+            <HelpTOCNode Title="GetConfigurationFileDrive Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_GetConfigurationFileDrive.htm" />
+            <HelpTOCNode Title="GetConfigurationFileName Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_GetConfigurationFileName.htm" />
+            <HelpTOCNode Id="1b64d4a9-86b2-42ef-9529-d4610b6f997e" Title="GetInstanceConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_GetInstanceConfiguration.htm">
+              <HelpTOCNode Title="GetInstanceConfiguration(T) Method (Type, String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_GetInstanceConfiguration__1_1.htm" />
+              <HelpTOCNode Title="GetInstanceConfiguration(T) Method (Type, Dictionary(String, Dictionary(String, Object)), String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_GetInstanceConfiguration__1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_Instantiate.htm" />
+            <HelpTOCNode Title="IsConfigurable Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_IsConfigurable.htm" />
+            <HelpTOCNode Id="aedbdf49-c003-45d5-af6d-5b23c9d4e27d" Title="IsConfigured Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_IsConfigured.htm">
+              <HelpTOCNode Title="IsConfigured Method (Type, String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_IsConfigured_1.htm" />
+              <HelpTOCNode Title="IsConfigured Method (Type, Dictionary(String, Dictionary(String, Object)), String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_IsConfigured.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IsRegistered Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_IsRegistered.htm" />
+            <HelpTOCNode Id="1d6e3049-2588-4f4b-801f-aa0e9f66e3b6" Title="LoadConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_LoadConfiguration.htm">
+              <HelpTOCNode Title="LoadConfiguration Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_LoadConfiguration.htm" />
+              <HelpTOCNode Title="LoadConfiguration Method (String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_LoadConfiguration_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="MoveConfigurationFile Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_MoveConfigurationFile.htm" />
+            <HelpTOCNode Id="309d400f-b511-44fe-9631-b13dd431f4c8" Title="RegisterType Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_RegisterType.htm">
+              <HelpTOCNode Title="RegisterType Method (Type, Boolean)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_RegisterType_1.htm" />
+              <HelpTOCNode Title="RegisterType Method (Type, ConfigurationDefinition, Dictionary(Type, ConfigurationDefinition))" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_RegisterType.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="RegisterTypes Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_RegisterTypes.htm" />
+            <HelpTOCNode Id="5a5285f5-4557-4f35-803d-64c052d30103" Title="RemoveInstanceConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_RemoveInstanceConfiguration.htm">
+              <HelpTOCNode Title="RemoveInstanceConfiguration Method (Type, String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_RemoveInstanceConfiguration_1.htm" />
+              <HelpTOCNode Title="RemoveInstanceConfiguration Method (Type, Dictionary(String, Dictionary(String, Object)), String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_RemoveInstanceConfiguration.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="58bf2e4b-1667-48da-a55e-1fec72ecd3eb" Title="SaveConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_SaveConfiguration.htm">
+              <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_SaveConfiguration.htm" />
+              <HelpTOCNode Title="SaveConfiguration Method (Dictionary(String, Dictionary(String, Object)))" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_SaveConfiguration_1.htm" />
+              <HelpTOCNode Title="SaveConfiguration Method (Dictionary(String, Dictionary(String, Object)), String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_SaveConfiguration_2.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="SetConfigurationFileName Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_SetConfigurationFileName.htm" />
+            <HelpTOCNode Title="Setup Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_Setup.htm" />
+            <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_Shutdown.htm" />
+            <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_Startup.htm" />
+            <HelpTOCNode Id="4b6dbb04-aed0-457c-a286-9bdca11a4cbb" Title="UpdateInstanceConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_UpdateInstanceConfiguration.htm">
+              <HelpTOCNode Title="UpdateInstanceConfiguration Method (Type, Object, String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_UpdateInstanceConfiguration_1.htm" />
+              <HelpTOCNode Title="UpdateInstanceConfiguration Method (Type, Object, Dictionary(String, Dictionary(String, Object)), String)" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_UpdateInstanceConfiguration.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="ed7fbbf2-c376-4176-8850-2e14e816c8ba" Title="ValidateConfiguration Method " Url="html/Overload_OpenIIoT_Core_Configuration_ConfigurationManager_ValidateConfiguration.htm">
+              <HelpTOCNode Title="ValidateConfiguration Method " Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_ValidateConfiguration.htm" />
+              <HelpTOCNode Title="ValidateConfiguration Method (Dictionary(String, Dictionary(String, Object)))" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager_ValidateConfiguration_1.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Title="ConfigurationManager Events" Url="html/Events_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm" />
+          <HelpTOCNode Id="4d7e15b0-328c-4fa6-a34d-73b837f41f9a" Title="ConfigurationManager Fields" Url="html/Fields_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm">
+            <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Configuration_ConfigurationManager_instance.htm" />
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Configuration_ConfigurationManager_logger.htm" />
+            <HelpTOCNode Title="stateLock Field" Url="html/F_OpenIIoT_Core_Configuration_ConfigurationManager_stateLock.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f991970f-61b1-46bc-a33a-a5608abd6bb7" Title="OpenIIoT.Core.Event" Url="html/N_OpenIIoT_Core_Event.htm">
+        <HelpTOCNode Id="7dcf5b34-afa1-4cd9-8f69-57e4df85f8ab" Title="EventManager Class" Url="html/T_OpenIIoT_Core_Event_EventManager.htm">
+          <HelpTOCNode Title="EventManager Constructor " Url="html/M_OpenIIoT_Core_Event_EventManager__ctor.htm" />
+          <HelpTOCNode Title="EventManager Constructor " Url="html/M_OpenIIoT_Core_Event_EventManager__cctor.htm" />
+          <HelpTOCNode Id="a050aa03-3cfe-43ee-abee-32bd2d42ef82" Title="EventManager Properties" Url="html/Properties_T_OpenIIoT_Core_Event_EventManager.htm">
+            <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_Core_Event_EventManager_Configuration.htm" />
+            <HelpTOCNode Title="ConfigurationDefinition Property " Url="html/P_OpenIIoT_Core_Event_EventManager_ConfigurationDefinition.htm" />
+            <HelpTOCNode Title="RegisteredEvents Property " Url="html/P_OpenIIoT_Core_Event_EventManager_RegisteredEvents.htm" />
+            <HelpTOCNode Title="RegisteredProviders Property " Url="html/P_OpenIIoT_Core_Event_EventManager_RegisteredProviders.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="f1872ab4-f23e-4c1e-859d-28d1ac021592" Title="EventManager Methods" Url="html/Methods_T_OpenIIoT_Core_Event_EventManager.htm">
+            <HelpTOCNode Id="124a808e-fdf5-4f17-a81e-7623bdf96e3f" Title="Configure Method " Url="html/Overload_OpenIIoT_Core_Event_EventManager_Configure.htm">
+              <HelpTOCNode Title="Configure Method " Url="html/M_OpenIIoT_Core_Event_EventManager_Configure.htm" />
+              <HelpTOCNode Title="Configure Method (EventManagerConfiguration)" Url="html/M_OpenIIoT_Core_Event_EventManager_Configure_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="GetConfigurationDefinition Method " Url="html/M_OpenIIoT_Core_Event_EventManager_GetConfigurationDefinition.htm" />
+            <HelpTOCNode Title="GetDefaultConfiguration Method " Url="html/M_OpenIIoT_Core_Event_EventManager_GetDefaultConfiguration.htm" />
+            <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_Event_EventManager_Instantiate.htm" />
+            <HelpTOCNode Title="ProviderEventRaised Method " Url="html/M_OpenIIoT_Core_Event_EventManager_ProviderEventRaised.htm" />
+            <HelpTOCNode Id="f67cbacd-86fd-4611-aff9-681685654668" Title="RegisterProvider Method " Url="html/Overload_OpenIIoT_Core_Event_EventManager_RegisterProvider.htm">
+              <HelpTOCNode Title="RegisterProvider Method (Object)" Url="html/M_OpenIIoT_Core_Event_EventManager_RegisterProvider.htm" />
+              <HelpTOCNode Title="RegisterProvider Method (Object, Dictionary(Type, List(String)), Dictionary(Type, List(KeyValuePair(String, String))))" Url="html/M_OpenIIoT_Core_Event_EventManager_RegisterProvider_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="RegisterProviders Method " Url="html/M_OpenIIoT_Core_Event_EventManager_RegisterProviders.htm" />
+            <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_Core_Event_EventManager_SaveConfiguration.htm" />
+            <HelpTOCNode Title="Setup Method " Url="html/M_OpenIIoT_Core_Event_EventManager_Setup.htm" />
+            <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Event_EventManager_Shutdown.htm" />
+            <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Event_EventManager_Startup.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="EventManager Events" Url="html/Events_T_OpenIIoT_Core_Event_EventManager.htm" />
+          <HelpTOCNode Id="c3ac5922-386e-4f7a-8791-a47f3f0501e6" Title="EventManager Fields" Url="html/Fields_T_OpenIIoT_Core_Event_EventManager.htm">
+            <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Event_EventManager_instance.htm" />
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Event_EventManager_logger.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="02181bfe-1264-4de4-97f6-86fd83a76540" Title="EventManagerConfiguration Class" Url="html/T_OpenIIoT_Core_Event_EventManagerConfiguration.htm">
+          <HelpTOCNode Title="EventManagerConfiguration Constructor " Url="html/M_OpenIIoT_Core_Event_EventManagerConfiguration__ctor.htm" />
+          <HelpTOCNode Id="1ce98205-5244-49d7-9b5a-198964903b16" Title="EventManagerConfiguration Properties" Url="html/Properties_T_OpenIIoT_Core_Event_EventManagerConfiguration.htm">
+            <HelpTOCNode Title="Events Property " Url="html/P_OpenIIoT_Core_Event_EventManagerConfiguration_Events.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="EventManagerConfiguration Methods" Url="html/Methods_T_OpenIIoT_Core_Event_EventManagerConfiguration.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2411ecb8-540c-4872-b7c4-8eb019a7d0d1" Title="OpenIIoT.Core.Model" Url="html/N_OpenIIoT_Core_Model.htm">
+        <HelpTOCNode Id="8149ab78-101f-456c-80cf-f4534be1e7e4" Title="ModelBuildResult Class" Url="html/T_OpenIIoT_Core_Model_ModelBuildResult.htm">
+          <HelpTOCNode Title="ModelBuildResult Constructor " Url="html/M_OpenIIoT_Core_Model_ModelBuildResult__ctor.htm" />
+          <HelpTOCNode Id="a284d3d8-7b6a-4741-b8a7-9ab97afe52a1" Title="ModelBuildResult Properties" Url="html/Properties_T_OpenIIoT_Core_Model_ModelBuildResult.htm">
+            <HelpTOCNode Title="DeferredList Property " Url="html/P_OpenIIoT_Core_Model_ModelBuildResult_DeferredList.htm" />
+            <HelpTOCNode Title="Dictionary Property " Url="html/P_OpenIIoT_Core_Model_ModelBuildResult_Dictionary.htm" />
+            <HelpTOCNode Title="Model Property " Url="html/P_OpenIIoT_Core_Model_ModelBuildResult_Model.htm" />
+            <HelpTOCNode Title="ResolvedList Property " Url="html/P_OpenIIoT_Core_Model_ModelBuildResult_ResolvedList.htm" />
+            <HelpTOCNode Title="UnresolvedList Property " Url="html/P_OpenIIoT_Core_Model_ModelBuildResult_UnresolvedList.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ModelBuildResult Methods" Url="html/Methods_T_OpenIIoT_Core_Model_ModelBuildResult.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="483d67aa-37eb-40ff-bd38-9e91347379da" Title="ModelManager Class" Url="html/T_OpenIIoT_Core_Model_ModelManager.htm">
+          <HelpTOCNode Title="ModelManager Constructor " Url="html/M_OpenIIoT_Core_Model_ModelManager__ctor.htm" />
+          <HelpTOCNode Id="f6d01c3b-e4bb-4b10-ac19-170abb5fd3ed" Title="ModelManager Properties" Url="html/Properties_T_OpenIIoT_Core_Model_ModelManager.htm">
+            <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_Core_Model_ModelManager_Configuration.htm" />
+            <HelpTOCNode Title="ConfigurationDefinition Property " Url="html/P_OpenIIoT_Core_Model_ModelManager_ConfigurationDefinition.htm" />
+            <HelpTOCNode Title="Dictionary Property " Url="html/P_OpenIIoT_Core_Model_ModelManager_Dictionary.htm" />
+            <HelpTOCNode Title="ItemProviders Property " Url="html/P_OpenIIoT_Core_Model_ModelManager_ItemProviders.htm" />
+            <HelpTOCNode Title="Model Property " Url="html/P_OpenIIoT_Core_Model_ModelManager_Model.htm" />
+            <HelpTOCNode Title="ProviderRegistry Property " Url="html/P_OpenIIoT_Core_Model_ModelManager_ProviderRegistry.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="c9f28933-a0eb-4136-a4ba-fbe0aff78488" Title="ModelManager Methods" Url="html/Methods_T_OpenIIoT_Core_Model_ModelManager.htm">
+            <HelpTOCNode Id="00a0f0d6-685e-4e58-8392-a8a029b6535f" Title="AddItem Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_AddItem.htm">
+              <HelpTOCNode Title="AddItem Method (Item)" Url="html/M_OpenIIoT_Core_Model_ModelManager_AddItem.htm" />
+              <HelpTOCNode Title="AddItem Method (Item, Dictionary(String, Item), Item, Boolean)" Url="html/M_OpenIIoT_Core_Model_ModelManager_AddItem_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="AttachItem Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_AttachItem.htm" />
+            <HelpTOCNode Title="AttachModel Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_AttachModel.htm" />
+            <HelpTOCNode Id="1e29329b-b4c2-4890-90a1-49430bd01e1a" Title="BuildModel Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_BuildModel.htm">
+              <HelpTOCNode Title="BuildModel Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_BuildModel.htm" />
+              <HelpTOCNode Title="BuildModel Method (String, List(ModelManagerConfigurationItem))" Url="html/M_OpenIIoT_Core_Model_ModelManager_BuildModel_1.htm" />
+              <HelpTOCNode Title="BuildModel Method (String, List(ModelManagerConfigurationItem), ModelBuildResult, Int32)" Url="html/M_OpenIIoT_Core_Model_ModelManager_BuildModel_2.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="2dfbc015-bde5-4982-b893-b4c9b92e6f75" Title="Configure Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_Configure.htm">
+              <HelpTOCNode Title="Configure Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_Configure.htm" />
+              <HelpTOCNode Title="Configure Method (ModelManagerConfiguration)" Url="html/M_OpenIIoT_Core_Model_ModelManager_Configure_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="4fcf2a5b-dc3c-4f15-8f8f-bcbf7ef9f67c" Title="CopyItem Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_CopyItem.htm">
+              <HelpTOCNode Title="CopyItem Method (Item, String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_CopyItem_1.htm" />
+              <HelpTOCNode Title="CopyItem Method (Item, Dictionary(String, Item), Item, String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_CopyItem.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="DeRegisterItemProvider Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_DeRegisterItemProvider.htm" />
+            <HelpTOCNode Title="DiscoverItemProviders Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_DiscoverItemProviders.htm" />
+            <HelpTOCNode Id="e2446678-f274-4512-a7e3-3bb276edd7a4" Title="FindItem Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_FindItem.htm">
+              <HelpTOCNode Title="FindItem Method (String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_FindItem_1.htm" />
+              <HelpTOCNode Title="FindItem Method (Dictionary(String, Item), String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_FindItem.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="57238aae-28b5-49f6-a6f7-fbf56cc86202" Title="FindProviderItem Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_FindProviderItem.htm">
+              <HelpTOCNode Title="FindProviderItem Method (String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_FindProviderItem_1.htm" />
+              <HelpTOCNode Title="FindProviderItem Method (Item)" Url="html/M_OpenIIoT_Core_Model_ModelManager_FindProviderItem.htm" />
+              <HelpTOCNode Title="FindProviderItem Method (String, Boolean)" Url="html/M_OpenIIoT_Core_Model_ModelManager_FindProviderItem_2.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="GetConfigurationDefinition Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_GetConfigurationDefinition.htm" />
+            <HelpTOCNode Title="GetDefaultConfiguration Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_GetDefaultConfiguration.htm" />
+            <HelpTOCNode Title="GetItemNameFromItemFQN Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_GetItemNameFromItemFQN.htm" />
+            <HelpTOCNode Title="GetParentFQNFromItemFQN Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_GetParentFQNFromItemFQN.htm" />
+            <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_Instantiate.htm" />
+            <HelpTOCNode Id="c417ad9f-a5b2-42d0-84d5-c1fadf42edc5" Title="MoveItem Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_MoveItem.htm">
+              <HelpTOCNode Title="MoveItem Method (Item, String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_MoveItem.htm" />
+              <HelpTOCNode Title="MoveItem Method (Dictionary(String, Item), Item, String)" Url="html/M_OpenIIoT_Core_Model_ModelManager_MoveItem_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="RegisterItemProvider Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_RegisterItemProvider.htm" />
+            <HelpTOCNode Id="7f54e5de-5379-48bd-8cc3-d08b45946dfa" Title="RemoveItem Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_RemoveItem.htm">
+              <HelpTOCNode Title="RemoveItem Method (Item)" Url="html/M_OpenIIoT_Core_Model_ModelManager_RemoveItem.htm" />
+              <HelpTOCNode Title="RemoveItem Method (Dictionary(String, Item), Item)" Url="html/M_OpenIIoT_Core_Model_ModelManager_RemoveItem_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="RenameItemInstance Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_RenameItemInstance.htm" />
+            <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_SaveConfiguration.htm" />
+            <HelpTOCNode Id="24d8db7a-c606-484d-b919-9f876c859f65" Title="SaveModel Method " Url="html/Overload_OpenIIoT_Core_Model_ModelManager_SaveModel.htm">
+              <HelpTOCNode Title="SaveModel Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_SaveModel.htm" />
+              <HelpTOCNode Title="SaveModel Method (Item, Result`1(List(ModelManagerConfigurationItem)))" Url="html/M_OpenIIoT_Core_Model_ModelManager_SaveModel_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="SetModelRoot Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_SetModelRoot.htm" />
+            <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_Shutdown.htm" />
+            <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_Startup.htm" />
+            <HelpTOCNode Title="UpdateItem Method " Url="html/M_OpenIIoT_Core_Model_ModelManager_UpdateItem.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ModelManager Events" Url="html/Events_T_OpenIIoT_Core_Model_ModelManager.htm" />
+          <HelpTOCNode Id="263619db-4c01-42ad-aedc-2f88bbe4897e" Title="ModelManager Fields" Url="html/Fields_T_OpenIIoT_Core_Model_ModelManager.htm">
+            <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Model_ModelManager_instance.htm" />
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Model_ModelManager_logger.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="203bf027-0fc8-447e-a177-0f78af089628" Title="ModelManagerConfiguration Class" Url="html/T_OpenIIoT_Core_Model_ModelManagerConfiguration.htm">
+          <HelpTOCNode Title="ModelManagerConfiguration Constructor " Url="html/M_OpenIIoT_Core_Model_ModelManagerConfiguration__ctor.htm" />
+          <HelpTOCNode Id="0b246421-6609-424f-b261-92ef2b6473a7" Title="ModelManagerConfiguration Properties" Url="html/Properties_T_OpenIIoT_Core_Model_ModelManagerConfiguration.htm">
+            <HelpTOCNode Title="Items Property " Url="html/P_OpenIIoT_Core_Model_ModelManagerConfiguration_Items.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ModelManagerConfiguration Methods" Url="html/Methods_T_OpenIIoT_Core_Model_ModelManagerConfiguration.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0f9cda95-7e79-4a12-9347-85b53489279f" Title="ModelManagerConfigurationItem Class" Url="html/T_OpenIIoT_Core_Model_ModelManagerConfigurationItem.htm">
+          <HelpTOCNode Title="ModelManagerConfigurationItem Constructor " Url="html/M_OpenIIoT_Core_Model_ModelManagerConfigurationItem__ctor.htm" />
+          <HelpTOCNode Id="fae8a16d-02f8-48b6-bf2c-289f4db65e21" Title="ModelManagerConfigurationItem Properties" Url="html/Properties_T_OpenIIoT_Core_Model_ModelManagerConfigurationItem.htm">
+            <HelpTOCNode Title="FQN Property " Url="html/P_OpenIIoT_Core_Model_ModelManagerConfigurationItem_FQN.htm" />
+            <HelpTOCNode Title="SourceFQN Property " Url="html/P_OpenIIoT_Core_Model_ModelManagerConfigurationItem_SourceFQN.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="806333a0-be0f-4e81-870d-82db243898d1" Title="ModelManagerConfigurationItem Methods" Url="html/Methods_T_OpenIIoT_Core_Model_ModelManagerConfigurationItem.htm">
+            <HelpTOCNode Title="Clone Method " Url="html/M_OpenIIoT_Core_Model_ModelManagerConfigurationItem_Clone.htm" />
+            <HelpTOCNode Title="Equals Method " Url="html/M_OpenIIoT_Core_Model_ModelManagerConfigurationItem_Equals.htm" />
+            <HelpTOCNode Title="GetHashCode Method " Url="html/M_OpenIIoT_Core_Model_ModelManagerConfigurationItem_GetHashCode.htm" />
+            <HelpTOCNode Title="ToString Method " Url="html/M_OpenIIoT_Core_Model_ModelManagerConfigurationItem_ToString.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="903b47a7-9e1e-4d72-93cf-df6e4892c220" Title="OpenIIoT.Core.Platform Namespaces" Url="html/G_OpenIIoT_Core_Platform.htm">
+        <HelpTOCNode Id="0983690f-d206-444e-af38-151f33dd1ac2" Title="OpenIIoT.Core.Platform" Url="html/N_OpenIIoT_Core_Platform.htm">
+          <HelpTOCNode Id="2e48a821-b822-4a5a-a8f0-d8eb1d7a17a0" Title="Platform Class" Url="html/T_OpenIIoT_Core_Platform_Platform.htm">
+            <HelpTOCNode Title="Platform Constructor " Url="html/M_OpenIIoT_Core_Platform_Platform__ctor.htm" />
+            <HelpTOCNode Title="Platform Constructor " Url="html/M_OpenIIoT_Core_Platform_Platform__cctor.htm" />
+            <HelpTOCNode Id="95831eac-3a34-409f-bb36-c4c0364a114d" Title="Platform Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_Platform.htm">
+              <HelpTOCNode Title="ItemProvider Property " Url="html/P_OpenIIoT_Core_Platform_Platform_ItemProvider.htm" />
+              <HelpTOCNode Title="PlatformType Property " Url="html/P_OpenIIoT_Core_Platform_Platform_PlatformType.htm" />
+              <HelpTOCNode Title="Version Property " Url="html/P_OpenIIoT_Core_Platform_Platform_Version.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="5252bcc3-017a-418c-b5f0-cf37eedcb03a" Title="Platform Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_Platform.htm">
+              <HelpTOCNode Title="ClearDirectory Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ClearDirectory.htm" />
+              <HelpTOCNode Title="ComputeFileChecksum Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ComputeFileChecksum.htm" />
+              <HelpTOCNode Title="CreateDirectory Method " Url="html/M_OpenIIoT_Core_Platform_Platform_CreateDirectory.htm" />
+              <HelpTOCNode Title="CreateZip Method " Url="html/M_OpenIIoT_Core_Platform_Platform_CreateZip.htm" />
+              <HelpTOCNode Title="DeleteDirectory Method " Url="html/M_OpenIIoT_Core_Platform_Platform_DeleteDirectory.htm" />
+              <HelpTOCNode Title="DeleteFile Method " Url="html/M_OpenIIoT_Core_Platform_Platform_DeleteFile.htm" />
+              <HelpTOCNode Title="DirectoryExists Method " Url="html/M_OpenIIoT_Core_Platform_Platform_DirectoryExists.htm" />
+              <HelpTOCNode Title="ExtractZip Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ExtractZip.htm" />
+              <HelpTOCNode Title="ExtractZipFile Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ExtractZipFile.htm" />
+              <HelpTOCNode Title="FileExists Method " Url="html/M_OpenIIoT_Core_Platform_Platform_FileExists.htm" />
+              <HelpTOCNode Title="ListDirectories Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ListDirectories.htm" />
+              <HelpTOCNode Title="ListFiles Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ListFiles.htm" />
+              <HelpTOCNode Title="ListZipFiles Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ListZipFiles.htm" />
+              <HelpTOCNode Title="ReadFile Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ReadFile.htm" />
+              <HelpTOCNode Title="ReadFileLines Method " Url="html/M_OpenIIoT_Core_Platform_Platform_ReadFileLines.htm" />
+              <HelpTOCNode Title="WriteFile Method " Url="html/M_OpenIIoT_Core_Platform_Platform_WriteFile.htm" />
+              <HelpTOCNode Title="WriteFileLines Method " Url="html/M_OpenIIoT_Core_Platform_Platform_WriteFileLines.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="4751008c-8e8e-47ff-8f80-93f0e21bffe3" Title="Platform Fields" Url="html/Fields_T_OpenIIoT_Core_Platform_Platform.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Platform_Platform_logger.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="8678897d-085c-45ce-861c-ddd5edadc78d" Title="PlatformDirectories Class" Url="html/T_OpenIIoT_Core_Platform_PlatformDirectories.htm">
+            <HelpTOCNode Title="PlatformDirectories Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__ctor.htm" />
+            <HelpTOCNode Title="PlatformDirectories Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__cctor.htm" />
+            <HelpTOCNode Id="7ba31641-a368-4490-919d-7b5385ea9916" Title="PlatformDirectories Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_PlatformDirectories.htm">
+              <HelpTOCNode Title="Archives Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Archives.htm" />
+              <HelpTOCNode Title="Data Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Data.htm" />
+              <HelpTOCNode Title="Logs Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Logs.htm" />
+              <HelpTOCNode Title="Persistence Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Persistence.htm" />
+              <HelpTOCNode Title="Plugins Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Plugins.htm" />
+              <HelpTOCNode Title="Root Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Root.htm" />
+              <HelpTOCNode Title="Temp Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Temp.htm" />
+              <HelpTOCNode Title="Web Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Web.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="43f41635-f8cf-4562-901e-6b7fd3a7ab0f" Title="PlatformDirectories Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_PlatformDirectories.htm">
+              <HelpTOCNode Title="ToDictionary Method " Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories_ToDictionary.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="2320253b-94a7-4c25-8f9c-ebf4ea3c44f2" Title="PlatformDirectories Fields" Url="html/Fields_T_OpenIIoT_Core_Platform_PlatformDirectories.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Platform_PlatformDirectories_logger.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="92695924-b04e-4521-87f3-083742b4560a" Title="PlatformManager Class" Url="html/T_OpenIIoT_Core_Platform_PlatformManager.htm">
+            <HelpTOCNode Title="PlatformManager Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformManager__ctor.htm" />
+            <HelpTOCNode Title="PlatformManager Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformManager__cctor.htm" />
+            <HelpTOCNode Id="09d506dd-f9d1-4d57-8be2-120e2ace8d73" Title="PlatformManager Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_PlatformManager.htm">
+              <HelpTOCNode Title="Directories Property " Url="html/P_OpenIIoT_Core_Platform_PlatformManager_Directories.htm" />
+              <HelpTOCNode Title="Platform Property " Url="html/P_OpenIIoT_Core_Platform_PlatformManager_Platform.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="001c8d70-a0e2-4f52-a027-52615e3f6ab0" Title="PlatformManager Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_PlatformManager.htm">
+              <HelpTOCNode Title="CheckDirectories Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_CheckDirectories.htm" />
+              <HelpTOCNode Title="GetDirectories Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_GetDirectories.htm" />
+              <HelpTOCNode Title="GetPlatformType Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_GetPlatformType.htm" />
+              <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_Instantiate.htm" />
+              <HelpTOCNode Title="LoadDirectories Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_LoadDirectories.htm" />
+              <HelpTOCNode Title="Setup Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_Setup.htm" />
+              <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_Shutdown.htm" />
+              <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Platform_PlatformManager_Startup.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="PlatformManager Events" Url="html/Events_T_OpenIIoT_Core_Platform_PlatformManager.htm" />
+            <HelpTOCNode Id="789f8e94-2128-4968-bffe-c40165b9bf76" Title="PlatformManager Fields" Url="html/Fields_T_OpenIIoT_Core_Platform_PlatformManager.htm">
+              <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Platform_PlatformManager_instance.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Platform_PlatformManager_logger.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="1ba85a53-45a2-4e08-b2ca-38569eb61c2a" Title="OpenIIoT.Core.Platform.UNIX" Url="html/N_OpenIIoT_Core_Platform_UNIX.htm">
+          <HelpTOCNode Id="23e9fa33-98b8-4817-967f-c6cff350998b" Title="UNIXPlatform Class" Url="html/T_OpenIIoT_Core_Platform_UNIX_UNIXPlatform.htm">
+            <HelpTOCNode Title="UNIXPlatform Constructor " Url="html/M_OpenIIoT_Core_Platform_UNIX_UNIXPlatform__ctor.htm" />
+            <HelpTOCNode Title="UNIXPlatform Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_UNIX_UNIXPlatform.htm" />
+            <HelpTOCNode Title="UNIXPlatform Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_UNIX_UNIXPlatform.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="35d04c24-0e43-4ecf-9fde-ebfd06f5b961" Title="UNIXPlatformItemProvider Class" Url="html/T_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider.htm">
+            <HelpTOCNode Title="UNIXPlatformItemProvider Constructor " Url="html/M_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider__ctor.htm" />
+            <HelpTOCNode Title="UNIXPlatformItemProvider Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider.htm" />
+            <HelpTOCNode Id="60f4e1a2-83cb-40ac-8b19-688ffd59726f" Title="UNIXPlatformItemProvider Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider.htm">
+              <HelpTOCNode Title="InitializeItems Method " Url="html/M_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_InitializeItems.htm" />
+              <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_Read.htm" />
+              <HelpTOCNode Title="ReadAsync Method " Url="html/M_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_ReadAsync.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="561e296f-8dff-40ad-8f9e-47ce605ec327" Title="UNIXPlatformItemProvider Fields" Url="html/Fields_T_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider.htm">
+              <HelpTOCNode Title="cpuIdle Field" Url="html/F_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_cpuIdle.htm" />
+              <HelpTOCNode Title="cpuUsed Field" Url="html/F_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_cpuUsed.htm" />
+              <HelpTOCNode Title="lastCPUIdle Field" Url="html/F_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_lastCPUIdle.htm" />
+              <HelpTOCNode Title="lastCPUUsed Field" Url="html/F_OpenIIoT_Core_Platform_UNIX_UNIXPlatformItemProvider_lastCPUUsed.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="6b0c9384-50c9-4903-adfb-2bc1c37856fc" Title="OpenIIoT.Core.Platform.Windows" Url="html/N_OpenIIoT_Core_Platform_Windows.htm">
+          <HelpTOCNode Id="ee65b5ec-bbcc-43c3-b701-95fc19135b4f" Title="WindowsPlatform Class" Url="html/T_OpenIIoT_Core_Platform_Windows_WindowsPlatform.htm">
+            <HelpTOCNode Title="WindowsPlatform Constructor " Url="html/M_OpenIIoT_Core_Platform_Windows_WindowsPlatform__ctor.htm" />
+            <HelpTOCNode Title="WindowsPlatform Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_Windows_WindowsPlatform.htm" />
+            <HelpTOCNode Title="WindowsPlatform Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_Windows_WindowsPlatform.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="63217f40-397b-42b0-b445-4c45ad8e5a3d" Title="WindowsPlatformItemProvider Class" Url="html/T_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider.htm">
+            <HelpTOCNode Title="WindowsPlatformItemProvider Constructor " Url="html/M_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider__ctor.htm" />
+            <HelpTOCNode Title="WindowsPlatformItemProvider Properties" Url="html/Properties_T_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider.htm" />
+            <HelpTOCNode Id="11d5bf40-02ce-4e37-83e6-01cc1aee0022" Title="WindowsPlatformItemProvider Methods" Url="html/Methods_T_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider.htm">
+              <HelpTOCNode Title="InitializeItems Method " Url="html/M_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_InitializeItems.htm" />
+              <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_Read.htm" />
+              <HelpTOCNode Title="ReadAsync Method " Url="html/M_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_ReadAsync.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="45357f24-3f24-4ee7-92df-d60f2451da12" Title="WindowsPlatformItemProvider Fields" Url="html/Fields_T_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider.htm">
+              <HelpTOCNode Title="cpuIdle Field" Url="html/F_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_cpuIdle.htm" />
+              <HelpTOCNode Title="cpuUsed Field" Url="html/F_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_cpuUsed.htm" />
+              <HelpTOCNode Title="lastCPUIdle Field" Url="html/F_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_lastCPUIdle.htm" />
+              <HelpTOCNode Title="lastCPUUsed Field" Url="html/F_OpenIIoT_Core_Platform_Windows_WindowsPlatformItemProvider_lastCPUUsed.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4cff9ab2-b5fc-47c3-9483-ac49a901f686" Title="OpenIIoT.Core.Plugin Namespaces" Url="html/G_OpenIIoT_Core_Plugin.htm">
+        <HelpTOCNode Id="69e13abf-99ad-4b90-8a8a-9b81cf9f7499" Title="OpenIIoT.Core.Plugin" Url="html/N_OpenIIoT_Core_Plugin.htm">
+          <HelpTOCNode Id="75f39a9c-2cee-49bf-8d89-99548e18ca1a" Title="InvalidPluginArchive Class" Url="html/T_OpenIIoT_Core_Plugin_InvalidPluginArchive.htm">
+            <HelpTOCNode Title="InvalidPluginArchive Constructor " Url="html/M_OpenIIoT_Core_Plugin_InvalidPluginArchive__ctor.htm" />
+            <HelpTOCNode Id="5d26bcf0-402c-420e-8327-5d56fc3659f7" Title="InvalidPluginArchive Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_InvalidPluginArchive.htm">
+              <HelpTOCNode Title="Message Property " Url="html/P_OpenIIoT_Core_Plugin_InvalidPluginArchive_Message.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="InvalidPluginArchive Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_InvalidPluginArchive.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="9890517d-26f5-455e-89fc-99b05055bd67" Title="IPluginManager Interface" Url="html/T_OpenIIoT_Core_Plugin_IPluginManager.htm">
+            <HelpTOCNode Id="6b52b940-3fd4-4df0-8ba0-da54a18e5038" Title="IPluginManager Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_IPluginManager.htm">
+              <HelpTOCNode Title="InvalidPluginArchives Property " Url="html/P_OpenIIoT_Core_Plugin_IPluginManager_InvalidPluginArchives.htm" />
+              <HelpTOCNode Title="PluginArchives Property " Url="html/P_OpenIIoT_Core_Plugin_IPluginManager_PluginArchives.htm" />
+              <HelpTOCNode Title="PluginAssemblies Property " Url="html/P_OpenIIoT_Core_Plugin_IPluginManager_PluginAssemblies.htm" />
+              <HelpTOCNode Title="PluginInstances Property " Url="html/P_OpenIIoT_Core_Plugin_IPluginManager_PluginInstances.htm" />
+              <HelpTOCNode Title="Plugins Property " Url="html/P_OpenIIoT_Core_Plugin_IPluginManager_Plugins.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="e4f2d269-d2c2-4a94-a64c-a3c6ac63bfb2" Title="IPluginManager Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_IPluginManager.htm">
+              <HelpTOCNode Title="FindPlugin Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_FindPlugin.htm" />
+              <HelpTOCNode Title="FindPluginAssembly Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_FindPluginAssembly.htm" />
+              <HelpTOCNode Title="FindPluginInstance Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_FindPluginInstance.htm" />
+              <HelpTOCNode Title="FindPluginItem Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_FindPluginItem.htm" />
+              <HelpTOCNode Title="InstallPlugin Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_InstallPlugin.htm" />
+              <HelpTOCNode Title="InstallPluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_InstallPluginAsync.htm" />
+              <HelpTOCNode Title="InstantiatePlugin(T) Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_InstantiatePlugin__1.htm" />
+              <HelpTOCNode Title="LoadPluginAssembly Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_LoadPluginAssembly.htm" />
+              <HelpTOCNode Title="ReinstallPlugin Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_ReinstallPlugin.htm" />
+              <HelpTOCNode Title="ReinstallPluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_ReinstallPluginAsync.htm" />
+              <HelpTOCNode Title="ReloadPluginArchives Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_ReloadPluginArchives.htm" />
+              <HelpTOCNode Title="UninstallPlugin Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_UninstallPlugin.htm" />
+              <HelpTOCNode Title="UninstallPluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_UninstallPluginAsync.htm" />
+              <HelpTOCNode Title="UpdatePlugin Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_UpdatePlugin.htm" />
+              <HelpTOCNode Title="UpdatePluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_IPluginManager_UpdatePluginAsync.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IPluginManager Events" Url="html/Events_T_OpenIIoT_Core_Plugin_IPluginManager.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="12c52463-f18f-4326-8212-e55205ffe050" Title="Plugin Class" Url="html/T_OpenIIoT_Core_Plugin_Plugin.htm">
+            <HelpTOCNode Title="Plugin Constructor " Url="html/M_OpenIIoT_Core_Plugin_Plugin__ctor.htm" />
+            <HelpTOCNode Id="1bf2e231-ad1c-43f0-95df-6761948ff16d" Title="Plugin Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_Plugin.htm">
+              <HelpTOCNode Title="Fingerprint Property " Url="html/P_OpenIIoT_Core_Plugin_Plugin_Fingerprint.htm" />
+              <HelpTOCNode Title="FQN Property " Url="html/P_OpenIIoT_Core_Plugin_Plugin_FQN.htm" />
+              <HelpTOCNode Title="Name Property " Url="html/P_OpenIIoT_Core_Plugin_Plugin_Name.htm" />
+              <HelpTOCNode Title="PluginType Property " Url="html/P_OpenIIoT_Core_Plugin_Plugin_PluginType.htm" />
+              <HelpTOCNode Title="Version Property " Url="html/P_OpenIIoT_Core_Plugin_Plugin_Version.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="ab06a095-1d8f-413f-9796-cbe76333c42d" Title="Plugin Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_Plugin.htm">
+              <HelpTOCNode Title="Equals Method " Url="html/M_OpenIIoT_Core_Plugin_Plugin_Equals.htm" />
+              <HelpTOCNode Title="GetHashCode Method " Url="html/M_OpenIIoT_Core_Plugin_Plugin_GetHashCode.htm" />
+              <HelpTOCNode Title="SetFingerprint Method " Url="html/M_OpenIIoT_Core_Plugin_Plugin_SetFingerprint.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="d938beff-643d-4019-b9f0-a84190f93c3e" Title="PluginArchive Class" Url="html/T_OpenIIoT_Core_Plugin_PluginArchive.htm">
+            <HelpTOCNode Title="PluginArchive Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginArchive__ctor.htm" />
+            <HelpTOCNode Id="ee9755cf-b581-42fc-90e7-db94c8476949" Title="PluginArchive Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginArchive.htm">
+              <HelpTOCNode Title="FileName Property " Url="html/P_OpenIIoT_Core_Plugin_PluginArchive_FileName.htm" />
+              <HelpTOCNode Title="Plugin Property " Url="html/P_OpenIIoT_Core_Plugin_PluginArchive_Plugin.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="cfc5dbb2-4081-42db-9b4e-7a23f2d12b04" Title="PluginArchive Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginArchive.htm">
+              <HelpTOCNode Title="SetFileName Method " Url="html/M_OpenIIoT_Core_Plugin_PluginArchive_SetFileName.htm" />
+              <HelpTOCNode Title="SetPlugin Method " Url="html/M_OpenIIoT_Core_Plugin_PluginArchive_SetPlugin.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="7cdfb11b-3c9e-4c02-afc9-36511f3cd2bd" Title="PluginArchiveLoadResult Class" Url="html/T_OpenIIoT_Core_Plugin_PluginArchiveLoadResult.htm">
+            <HelpTOCNode Title="PluginArchiveLoadResult Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginArchiveLoadResult__ctor.htm" />
+            <HelpTOCNode Id="3d19a2e1-a700-4d61-8b48-f82875612e83" Title="PluginArchiveLoadResult Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginArchiveLoadResult.htm">
+              <HelpTOCNode Title="InvalidArchives Property " Url="html/P_OpenIIoT_Core_Plugin_PluginArchiveLoadResult_InvalidArchives.htm" />
+              <HelpTOCNode Title="ValidArchives Property " Url="html/P_OpenIIoT_Core_Plugin_PluginArchiveLoadResult_ValidArchives.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="PluginArchiveLoadResult Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginArchiveLoadResult.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="86f5bcb8-b57b-490d-9d23-e63e00649345" Title="PluginAssembly Class" Url="html/T_OpenIIoT_Core_Plugin_PluginAssembly.htm">
+            <HelpTOCNode Title="PluginAssembly Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginAssembly__ctor.htm" />
+            <HelpTOCNode Id="902fd8f7-4eec-4b71-9cdc-60137748b6e3" Title="PluginAssembly Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginAssembly.htm">
+              <HelpTOCNode Title="Assembly Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_Assembly.htm" />
+              <HelpTOCNode Title="Fingerprint Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_Fingerprint.htm" />
+              <HelpTOCNode Title="FQN Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_FQN.htm" />
+              <HelpTOCNode Title="Name Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_Name.htm" />
+              <HelpTOCNode Title="PluginType Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_PluginType.htm" />
+              <HelpTOCNode Title="Type Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_Type.htm" />
+              <HelpTOCNode Title="Version Property " Url="html/P_OpenIIoT_Core_Plugin_PluginAssembly_Version.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="23d70cb1-1b57-43f9-acbc-be3d3e159c21" Title="PluginAssembly Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginAssembly.htm">
+              <HelpTOCNode Title="SetFingerprint Method " Url="html/M_OpenIIoT_Core_Plugin_PluginAssembly_SetFingerprint.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="bdf65f19-d8d6-432e-a80f-6dd1a9e07fa9" Title="PluginManager Class" Url="html/T_OpenIIoT_Core_Plugin_PluginManager.htm">
+            <HelpTOCNode Title="PluginManager Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginManager__ctor.htm" />
+            <HelpTOCNode Title="PluginManager Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginManager__cctor.htm" />
+            <HelpTOCNode Id="b5b23a1c-aeaf-4f2f-89db-0ad15c6d3e2b" Title="PluginManager Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginManager.htm">
+              <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_Configuration.htm" />
+              <HelpTOCNode Title="ConfigurationDefinition Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_ConfigurationDefinition.htm" />
+              <HelpTOCNode Title="InvalidPluginArchives Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_InvalidPluginArchives.htm" />
+              <HelpTOCNode Title="PluginArchives Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_PluginArchives.htm" />
+              <HelpTOCNode Title="PluginAssemblies Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_PluginAssemblies.htm" />
+              <HelpTOCNode Title="PluginInstances Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_PluginInstances.htm" />
+              <HelpTOCNode Title="Plugins Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManager_Plugins.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="d772c07c-5b64-4523-b9e4-f4a7070711fa" Title="PluginManager Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginManager.htm">
+              <HelpTOCNode Id="5ab8083c-f5ca-4a5d-b4a1-08fe1f86bf07" Title="Configure Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_Configure.htm">
+                <HelpTOCNode Title="Configure Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_Configure.htm" />
+                <HelpTOCNode Title="Configure Method (PluginManagerConfiguration)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_Configure_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="df120526-c7dc-4cf7-a15f-68e4f367ac51" Title="FindPlugin Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_FindPlugin.htm">
+                <HelpTOCNode Title="FindPlugin Method (String)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_FindPlugin.htm" />
+                <HelpTOCNode Title="FindPlugin Method (String, List(IPlugin))" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_FindPlugin_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="b9855384-3ace-41ee-baf2-158d1014507c" Title="FindPluginAssembly Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_FindPluginAssembly.htm">
+                <HelpTOCNode Title="FindPluginAssembly Method (String)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_FindPluginAssembly.htm" />
+                <HelpTOCNode Title="FindPluginAssembly Method (String, List(IPluginAssembly))" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_FindPluginAssembly_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="FindPluginInstance Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_FindPluginInstance.htm" />
+              <HelpTOCNode Title="FindPluginItem Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_FindPluginItem.htm" />
+              <HelpTOCNode Title="GetConfigurationDefinition Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetConfigurationDefinition.htm" />
+              <HelpTOCNode Title="GetDefaultConfiguration Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetDefaultConfiguration.htm" />
+              <HelpTOCNode Title="GetPluginArchiveConfigurationFileName Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetPluginArchiveConfigurationFileName.htm" />
+              <HelpTOCNode Title="GetPluginArchiveExtension Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetPluginArchiveExtension.htm" />
+              <HelpTOCNode Title="GetPluginArchivePayloadFileName Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetPluginArchivePayloadFileName.htm" />
+              <HelpTOCNode Title="GetPluginDirectory Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetPluginDirectory.htm" />
+              <HelpTOCNode Title="GetPluginType Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_GetPluginType.htm" />
+              <HelpTOCNode Id="896c783c-3f52-4c5d-bcf9-787074e9a7f9" Title="InstallPlugin Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_InstallPlugin.htm">
+                <HelpTOCNode Title="InstallPlugin Method (PluginArchive, Boolean)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_InstallPlugin.htm" />
+                <HelpTOCNode Title="InstallPlugin Method (PluginArchive, List(IPlugin), IPlatform, Boolean)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_InstallPlugin_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="InstallPluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_InstallPluginAsync.htm" />
+              <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_Instantiate.htm" />
+              <HelpTOCNode Title="InstantiatePlugin(T) Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_InstantiatePlugin__1.htm" />
+              <HelpTOCNode Id="2c1f2540-0cbc-4b5e-8383-e92259e98742" Title="InstantiatePlugins Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_InstantiatePlugins.htm">
+                <HelpTOCNode Title="InstantiatePlugins Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_InstantiatePlugins.htm" />
+                <HelpTOCNode Title="InstantiatePlugins Method (List(PluginManagerConfigurationPluginInstance), List(IPluginAssembly), IApplicationManager)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_InstantiatePlugins_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="IsPluginLoadable Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_IsPluginLoadable.htm" />
+              <HelpTOCNode Id="2538c527-47f7-4866-a8f4-26c3498f9108" Title="LoadPluginArchives Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_LoadPluginArchives.htm">
+                <HelpTOCNode Title="LoadPluginArchives Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_LoadPluginArchives.htm" />
+                <HelpTOCNode Title="LoadPluginArchives Method (String, String, IPlatform)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_LoadPluginArchives_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="5fcef337-aa42-4b62-a37e-d3b8533d2231" Title="LoadPluginAssemblies Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_LoadPluginAssemblies.htm">
+                <HelpTOCNode Title="LoadPluginAssemblies Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_LoadPluginAssemblies.htm" />
+                <HelpTOCNode Title="LoadPluginAssemblies Method (List(IPlugin))" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_LoadPluginAssemblies_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="fe16f276-1250-4cf3-828d-8d73f3822fac" Title="LoadPluginAssembly Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_LoadPluginAssembly.htm">
+                <HelpTOCNode Title="LoadPluginAssembly Method (IPlugin)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_LoadPluginAssembly.htm" />
+                <HelpTOCNode Title="LoadPluginAssembly Method (IPlugin, List(IPluginAssembly))" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_LoadPluginAssembly_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="1b8a3cd7-071e-43a9-b5de-eba5b0868eed" Title="ParsePluginArchive Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_ParsePluginArchive.htm">
+                <HelpTOCNode Title="ParsePluginArchive Method (String)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ParsePluginArchive.htm" />
+                <HelpTOCNode Title="ParsePluginArchive Method (String, String, String, IPlatform)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ParsePluginArchive_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="ReinstallPlugin Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ReinstallPlugin.htm" />
+              <HelpTOCNode Title="ReinstallPluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ReinstallPluginAsync.htm" />
+              <HelpTOCNode Title="ReloadPluginArchives Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ReloadPluginArchives.htm" />
+              <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_SaveConfiguration.htm" />
+              <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_Shutdown.htm" />
+              <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_Startup.htm" />
+              <HelpTOCNode Id="7ae996ba-2a21-4e7e-83dc-f7ba6ddf9cc8" Title="UninstallPlugin Method " Url="html/Overload_OpenIIoT_Core_Plugin_PluginManager_UninstallPlugin.htm">
+                <HelpTOCNode Title="UninstallPlugin Method (IPlugin)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_UninstallPlugin.htm" />
+                <HelpTOCNode Title="UninstallPlugin Method (IPlugin, List(IPlugin), IPlatform)" Url="html/M_OpenIIoT_Core_Plugin_PluginManager_UninstallPlugin_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="UninstallPluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_UninstallPluginAsync.htm" />
+              <HelpTOCNode Title="UpdatePlugin Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_UpdatePlugin.htm" />
+              <HelpTOCNode Title="UpdatePluginAsync Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_UpdatePluginAsync.htm" />
+              <HelpTOCNode Title="ValidatePluginAssembly Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ValidatePluginAssembly.htm" />
+              <HelpTOCNode Title="ValidatePluginAssemblyName Method " Url="html/M_OpenIIoT_Core_Plugin_PluginManager_ValidatePluginAssemblyName.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="PluginManager Events" Url="html/Events_T_OpenIIoT_Core_Plugin_PluginManager.htm" />
+            <HelpTOCNode Id="538aadc6-07cd-49d4-a24d-4543f13cb858" Title="PluginManager Fields" Url="html/Fields_T_OpenIIoT_Core_Plugin_PluginManager.htm">
+              <HelpTOCNode Title="installationLock Field" Url="html/F_OpenIIoT_Core_Plugin_PluginManager_installationLock.htm" />
+              <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Plugin_PluginManager_instance.htm" />
+              <HelpTOCNode Title="loadablePluginTypes Field" Url="html/F_OpenIIoT_Core_Plugin_PluginManager_loadablePluginTypes.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Plugin_PluginManager_logger.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="fb1e575d-c7b7-46ce-a714-78cf5461630b" Title="PluginManagerConfiguration Class" Url="html/T_OpenIIoT_Core_Plugin_PluginManagerConfiguration.htm">
+            <HelpTOCNode Title="PluginManagerConfiguration Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginManagerConfiguration__ctor.htm" />
+            <HelpTOCNode Id="23d5a9a3-f389-4f8f-8d78-f8cc27c7147e" Title="PluginManagerConfiguration Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginManagerConfiguration.htm">
+              <HelpTOCNode Title="InstalledPlugins Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManagerConfiguration_InstalledPlugins.htm" />
+              <HelpTOCNode Title="Instances Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManagerConfiguration_Instances.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="PluginManagerConfiguration Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginManagerConfiguration.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="5d6bebe5-7206-4921-8e6d-cb03c2fd499b" Title="PluginManagerConfigurationPluginInstance Class" Url="html/T_OpenIIoT_Core_Plugin_PluginManagerConfigurationPluginInstance.htm">
+            <HelpTOCNode Title="PluginManagerConfigurationPluginInstance Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginManagerConfigurationPluginInstance__ctor.htm" />
+            <HelpTOCNode Id="168c5794-ee22-4b58-a8b6-8c20316a5b50" Title="PluginManagerConfigurationPluginInstance Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginManagerConfigurationPluginInstance.htm">
+              <HelpTOCNode Title="AssemblyName Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManagerConfigurationPluginInstance_AssemblyName.htm" />
+              <HelpTOCNode Title="InstanceName Property " Url="html/P_OpenIIoT_Core_Plugin_PluginManagerConfigurationPluginInstance_InstanceName.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="PluginManagerConfigurationPluginInstance Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginManagerConfigurationPluginInstance.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="b38e9993-43fe-41d9-80f7-8ea07775d5ec" Title="PluginTypeManager(T) Class" Url="html/T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm">
+            <HelpTOCNode Title="PluginTypeManager(T) Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__ctor.htm" />
+            <HelpTOCNode Title="PluginTypeManager(T) Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__cctor.htm" />
+            <HelpTOCNode Id="b5d38c98-01d7-48e9-ba86-ca489393bd55" Title="PluginTypeManager(T) Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm">
+              <HelpTOCNode Title="AutomaticRestartPending Property " Url="html/P_OpenIIoT_Core_Plugin_PluginTypeManager_1_AutomaticRestartPending.htm" />
+              <HelpTOCNode Title="ConfiguredInstances Property " Url="html/P_OpenIIoT_Core_Plugin_PluginTypeManager_1_ConfiguredInstances.htm" />
+              <HelpTOCNode Title="Instances Property " Url="html/P_OpenIIoT_Core_Plugin_PluginTypeManager_1_Instances.htm" />
+              <HelpTOCNode Title="State Property " Url="html/P_OpenIIoT_Core_Plugin_PluginTypeManager_1_State.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="9ca38434-9895-43e4-81d0-cb993d5a0f14" Title="PluginTypeManager(T) Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm">
+              <HelpTOCNode Title="IsInState Method " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1_IsInState.htm" />
+              <HelpTOCNode Title="Restart Method " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1_Restart.htm" />
+              <HelpTOCNode Title="Start Method " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1_Start.htm" />
+              <HelpTOCNode Title="Stop Method " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1_Stop.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="bbb599db-903d-4adb-939d-fd36215a8490" Title="PluginTypeManager(T) Events" Url="html/Events_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm">
+              <HelpTOCNode Title="StateChanged Event" Url="html/E_OpenIIoT_Core_Plugin_PluginTypeManager_1_StateChanged.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="a1c6761f-a121-438b-9368-727fa1c37e1d" Title="PluginTypeManager(T) Fields" Url="html/Fields_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Plugin_PluginTypeManager_1_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Plugin_PluginTypeManager_1_manager.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="2900b9b2-6ceb-44d2-b1f9-cb2f03fe231d" Title="OpenIIoT.Core.Plugin.Endpoint" Url="html/N_OpenIIoT_Core_Plugin_Endpoint.htm">
+          <HelpTOCNode Id="aaaee241-5c7e-47f1-8a1e-ea21d7d0786e" Title="IEndpoint Interface" Url="html/T_OpenIIoT_Core_Plugin_Endpoint_IEndpoint.htm">
+            <HelpTOCNode Title="IEndpoint Properties" Url="html/Properties_T_OpenIIoT_Core_Plugin_Endpoint_IEndpoint.htm" />
+            <HelpTOCNode Id="3685d990-8566-4489-9d24-482687fe4be4" Title="IEndpoint Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_Endpoint_IEndpoint.htm">
+              <HelpTOCNode Title="Send Method " Url="html/M_OpenIIoT_Core_Plugin_Endpoint_IEndpoint_Send.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IEndpoint Events" Url="html/Events_T_OpenIIoT_Core_Plugin_Endpoint_IEndpoint.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="03274b44-31d4-44f1-b13a-2e4e1e649cb0" Title="OpenIIoT.Core.Plugin.Repository" Url="html/N_OpenIIoT_Core_Plugin_Repository.htm">
+          <HelpTOCNode Id="0623183e-66e0-448d-9be2-229d8a2c5ea5" Title="RepositoryManager Class" Url="html/T_OpenIIoT_Core_Plugin_Repository_RepositoryManager.htm">
+            <HelpTOCNode Title="RepositoryManager Constructor " Url="html/M_OpenIIoT_Core_Plugin_Repository_RepositoryManager__ctor.htm" />
+            <HelpTOCNode Title="RepositoryManager Methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_Repository_RepositoryManager.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2012a8a6-f5c1-48b7-89f3-90af34ecac5e" Title="OpenIIoT.Core.Scripting" Url="html/N_OpenIIoT_Core_Scripting.htm">
+        <HelpTOCNode Id="e62eaaf3-2085-47df-806d-cbb89c3d58cc" Title="ScriptManager Class" Url="html/T_OpenIIoT_Core_Scripting_ScriptManager.htm">
+          <HelpTOCNode Title="ScriptManager Constructor " Url="html/M_OpenIIoT_Core_Scripting_ScriptManager__ctor.htm" />
+          <HelpTOCNode Title="ScriptManager Methods" Url="html/Methods_T_OpenIIoT_Core_Scripting_ScriptManager.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cb99eef8-2d1b-4976-868d-7ede4a00a57f" Title="OpenIIoT.Core.Service Namespaces" Url="html/G_OpenIIoT_Core_Service.htm">
+        <HelpTOCNode Id="3894df56-ef9b-4ce7-86f1-930cc5bd40b6" Title="OpenIIoT.Core.Service" Url="html/N_OpenIIoT_Core_Service.htm">
+          <HelpTOCNode Id="49de9bdf-3087-4dd4-8c41-9c68986ac52e" Title="IService Interface" Url="html/T_OpenIIoT_Core_Service_IService.htm">
+            <HelpTOCNode Id="ae15bc34-53f9-4854-a1bd-ae20565e323b" Title="IService Properties" Url="html/Properties_T_OpenIIoT_Core_Service_IService.htm">
+              <HelpTOCNode Title="IsRunning Property " Url="html/P_OpenIIoT_Core_Service_IService_IsRunning.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="64402bb4-3591-4b15-981a-cf9e38819d13" Title="IService Methods" Url="html/Methods_T_OpenIIoT_Core_Service_IService.htm">
+              <HelpTOCNode Title="Start Method " Url="html/M_OpenIIoT_Core_Service_IService_Start.htm" />
+              <HelpTOCNode Title="Stop Method " Url="html/M_OpenIIoT_Core_Service_IService_Stop.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="4756f869-8b3b-4498-be38-f2cdefb5c48e" Title="ServiceManager Class" Url="html/T_OpenIIoT_Core_Service_ServiceManager.htm">
+            <HelpTOCNode Title="ServiceManager Constructor " Url="html/M_OpenIIoT_Core_Service_ServiceManager__ctor.htm" />
+            <HelpTOCNode Title="ServiceManager Constructor " Url="html/M_OpenIIoT_Core_Service_ServiceManager__cctor.htm" />
+            <HelpTOCNode Id="81611885-3874-455f-82d6-2bcb2a6cc8f8" Title="ServiceManager Properties" Url="html/Properties_T_OpenIIoT_Core_Service_ServiceManager.htm">
+              <HelpTOCNode Title="Services Property " Url="html/P_OpenIIoT_Core_Service_ServiceManager_Services.htm" />
+              <HelpTOCNode Title="ServiceTypes Property " Url="html/P_OpenIIoT_Core_Service_ServiceManager_ServiceTypes.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="6897c3ff-b081-4542-b5ae-8d7a827fac30" Title="ServiceManager Methods" Url="html/Methods_T_OpenIIoT_Core_Service_ServiceManager.htm">
+              <HelpTOCNode Title="Instantiate Method " Url="html/M_OpenIIoT_Core_Service_ServiceManager_Instantiate.htm" />
+              <HelpTOCNode Id="cbfaae58-e6c6-4be4-9b43-f65e39a34a93" Title="InstantiateServices Method " Url="html/Overload_OpenIIoT_Core_Service_ServiceManager_InstantiateServices.htm">
+                <HelpTOCNode Title="InstantiateServices Method " Url="html/M_OpenIIoT_Core_Service_ServiceManager_InstantiateServices.htm" />
+                <HelpTOCNode Title="InstantiateServices Method (Dictionary(String, Type))" Url="html/M_OpenIIoT_Core_Service_ServiceManager_InstantiateServices_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="169bd60b-34db-4eae-b3fc-358bf404fec8" Title="RegisterServices Method " Url="html/Overload_OpenIIoT_Core_Service_ServiceManager_RegisterServices.htm">
+                <HelpTOCNode Title="RegisterServices Method " Url="html/M_OpenIIoT_Core_Service_ServiceManager_RegisterServices.htm" />
+                <HelpTOCNode Title="RegisterServices Method (IConfigurationManager)" Url="html/M_OpenIIoT_Core_Service_ServiceManager_RegisterServices_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_Core_Service_ServiceManager_Shutdown.htm" />
+              <HelpTOCNode Id="a7d697fd-dcd5-43d2-91b2-8088af1576c4" Title="StartServices Method " Url="html/Overload_OpenIIoT_Core_Service_ServiceManager_StartServices.htm">
+                <HelpTOCNode Title="StartServices Method " Url="html/M_OpenIIoT_Core_Service_ServiceManager_StartServices.htm" />
+                <HelpTOCNode Title="StartServices Method (Dictionary(String, IService))" Url="html/M_OpenIIoT_Core_Service_ServiceManager_StartServices_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_Core_Service_ServiceManager_Startup.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="ServiceManager Events" Url="html/Events_T_OpenIIoT_Core_Service_ServiceManager.htm" />
+            <HelpTOCNode Id="6961033f-58a1-4bb1-9ae6-87726d476766" Title="ServiceManager Fields" Url="html/Fields_T_OpenIIoT_Core_Service_ServiceManager.htm">
+              <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Service_ServiceManager_instance.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_ServiceManager_logger.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c8a5b0a0-4d81-423b-b5b2-bb0781f84a4f" Title="OpenIIoT.Core.Service.Web" Url="html/N_OpenIIoT_Core_Service_Web.htm">
+          <HelpTOCNode Id="6c4f5185-0052-4bab-95a1-6499c8398f48" Title="ApiResult(T) Class" Url="html/T_OpenIIoT_Core_Service_Web_ApiResult_1.htm">
+            <HelpTOCNode Title="ApiResult(T) Constructor " Url="html/M_OpenIIoT_Core_Service_Web_ApiResult_1__ctor.htm" />
+            <HelpTOCNode Id="8465fab5-58bd-4ecf-a832-7b310cdb910b" Title="ApiResult(T) Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_ApiResult_1.htm">
+              <HelpTOCNode Title="RemoteIP Property " Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_RemoteIP.htm" />
+              <HelpTOCNode Title="Request Property " Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_Request.htm" />
+              <HelpTOCNode Title="Response Property " Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_Response.htm" />
+              <HelpTOCNode Title="Route Property " Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_Route.htm" />
+              <HelpTOCNode Title="ShortGuid Property " Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_ShortGuid.htm" />
+              <HelpTOCNode Title="StatusCode Property " Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_StatusCode.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="77d056a7-594f-4208-a2b2-65b6dd519962" Title="ApiResult(T) Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_ApiResult_1.htm">
+              <HelpTOCNode Title="CreateResponse Method " Url="html/M_OpenIIoT_Core_Service_Web_ApiResult_1_CreateResponse.htm" />
+              <HelpTOCNode Title="LogRequest Method " Url="html/M_OpenIIoT_Core_Service_Web_ApiResult_1_LogRequest.htm" />
+              <HelpTOCNode Id="77d25c7c-be24-408e-ba2e-a430b41e2784" Title="LogResult Method " Url="html/Overload_OpenIIoT_Core_Service_Web_ApiResult_1_LogResult.htm">
+                <HelpTOCNode Title="LogResult Method (Action(String), Action(String), Action(String), String)" Url="html/M_OpenIIoT_Core_Service_Web_ApiResult_1_LogResult.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="215380e7-1c26-47be-a003-dfdb6cf0c5fb" Title="OwinStartup Class" Url="html/T_OpenIIoT_Core_Service_Web_OwinStartup.htm">
+            <HelpTOCNode Title="OwinStartup Constructor " Url="html/M_OpenIIoT_Core_Service_Web_OwinStartup__ctor.htm" />
+            <HelpTOCNode Id="cf29ae23-c236-4fb3-96b7-eeb35869c4d7" Title="OwinStartup Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_OwinStartup.htm">
+              <HelpTOCNode Title="WebServiceConfiguration Property " Url="html/P_OpenIIoT_Core_Service_Web_OwinStartup_WebServiceConfiguration.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="45b03636-70f6-4f39-913b-c90974a33327" Title="OwinStartup Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_OwinStartup.htm">
+              <HelpTOCNode Title="Configuration Method " Url="html/M_OpenIIoT_Core_Service_Web_OwinStartup_Configuration.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="153072fe-3c23-4fed-9b8d-1a6b41f15102" Title="OwinStartup Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_OwinStartup.htm">
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_OwinStartup_manager.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="da2babe3-ef06-415a-8d26-793122c62731" Title="WebService Class" Url="html/T_OpenIIoT_Core_Service_Web_WebService.htm">
+            <HelpTOCNode Title="WebService Constructor " Url="html/M_OpenIIoT_Core_Service_Web_WebService__ctor.htm" />
+            <HelpTOCNode Title="WebService Constructor " Url="html/M_OpenIIoT_Core_Service_Web_WebService__cctor.htm" />
+            <HelpTOCNode Id="56db5ed6-df32-4c30-bfaf-bcbca622e38c" Title="WebService Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_WebService.htm">
+              <HelpTOCNode Title="ApiControllers Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_ApiControllers.htm" />
+              <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_Configuration.htm" />
+              <HelpTOCNode Title="ConfigurationDefinition Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_ConfigurationDefinition.htm" />
+              <HelpTOCNode Title="GetConfiguration Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_GetConfiguration.htm" />
+              <HelpTOCNode Title="Hubs Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_Hubs.htm" />
+              <HelpTOCNode Title="IsRunning Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_IsRunning.htm" />
+              <HelpTOCNode Title="URL Property " Url="html/P_OpenIIoT_Core_Service_Web_WebService_URL.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="1ca0cf36-11b2-46cb-9ccc-1de0e2ea141a" Title="WebService Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_WebService.htm">
+              <HelpTOCNode Id="86035a02-0010-4d7a-af23-e98b08a51cdb" Title="Configure Method " Url="html/Overload_OpenIIoT_Core_Service_Web_WebService_Configure.htm">
+                <HelpTOCNode Title="Configure Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_Configure.htm" />
+                <HelpTOCNode Title="Configure Method (WebServiceConfiguration)" Url="html/M_OpenIIoT_Core_Service_Web_WebService_Configure_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="GetConfigurationDefinition Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_GetConfigurationDefinition.htm" />
+              <HelpTOCNode Title="GetDefaultConfiguration Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_GetDefaultConfiguration.htm" />
+              <HelpTOCNode Title="Instance Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_Instance.htm" />
+              <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_SaveConfiguration.htm" />
+              <HelpTOCNode Title="Start Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_Start.htm" />
+              <HelpTOCNode Title="Stop Method " Url="html/M_OpenIIoT_Core_Service_Web_WebService_Stop.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="e0aef6e4-304b-457a-8bc2-f608b0932f18" Title="WebService Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_WebService.htm">
+              <HelpTOCNode Title="configuration Field" Url="html/F_OpenIIoT_Core_Service_Web_WebService_configuration.htm" />
+              <HelpTOCNode Title="instance Field" Url="html/F_OpenIIoT_Core_Service_Web_WebService_instance.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_WebService_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_WebService_manager.htm" />
+              <HelpTOCNode Title="server Field" Url="html/F_OpenIIoT_Core_Service_Web_WebService_server.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="8427a894-94e5-4134-a6e4-e24d032e6c6c" Title="WebServiceConfiguration Class" Url="html/T_OpenIIoT_Core_Service_Web_WebServiceConfiguration.htm">
+            <HelpTOCNode Title="WebServiceConfiguration Constructor " Url="html/M_OpenIIoT_Core_Service_Web_WebServiceConfiguration__ctor.htm" />
+            <HelpTOCNode Id="c0af3268-0bf8-4399-af22-403b79c80be0" Title="WebServiceConfiguration Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_WebServiceConfiguration.htm">
+              <HelpTOCNode Title="Port Property " Url="html/P_OpenIIoT_Core_Service_Web_WebServiceConfiguration_Port.htm" />
+              <HelpTOCNode Title="Root Property " Url="html/P_OpenIIoT_Core_Service_Web_WebServiceConfiguration_Root.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="WebServiceConfiguration Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_WebServiceConfiguration.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9c92efc9-bddc-49fd-a450-4c6dab14e34b" Title="OpenIIoT.Core.Service.Web.API" Url="html/N_OpenIIoT_Core_Service_Web_API.htm">
+          <HelpTOCNode Id="7d99cc6d-a3bd-4edd-af58-8abe44ff59db" Title="BrowseController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_BrowseController.htm">
+            <HelpTOCNode Title="BrowseController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController__ctor.htm" />
+            <HelpTOCNode Title="BrowseController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController__cctor.htm" />
+            <HelpTOCNode Title="BrowseController Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_BrowseController.htm" />
+            <HelpTOCNode Id="eb4a2dbf-11ec-478b-8963-71e47a9fdf4b" Title="BrowseController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_BrowseController.htm">
+              <HelpTOCNode Id="99242012-1e08-47d6-a2e4-d21c2e52a20e" Title="Browse Method " Url="html/Overload_OpenIIoT_Core_Service_Web_API_BrowseController_Browse.htm">
+                <HelpTOCNode Title="Browse Method " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController_Browse.htm" />
+                <HelpTOCNode Title="Browse Method (String)" Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController_Browse_1.htm" />
+                <HelpTOCNode Title="Browse Method (String, String)" Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController_Browse_2.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="30101f53-1c30-489f-97aa-13e30e05dd23" Title="JsonFormatter Method " Url="html/Overload_OpenIIoT_Core_Service_Web_API_BrowseController_JsonFormatter.htm">
+                <HelpTOCNode Title="JsonFormatter Method " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController_JsonFormatter.htm" />
+                <HelpTOCNode Title="JsonFormatter Method (List(String), ContractResolverType)" Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController_JsonFormatter_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="4c2e594c-6b0c-4672-8bf4-8ee3f1c44bf8" Title="BrowseController Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_API_BrowseController.htm">
+              <HelpTOCNode Title="conciseSerializationProperties Field" Url="html/F_OpenIIoT_Core_Service_Web_API_BrowseController_conciseSerializationProperties.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_API_BrowseController_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_API_BrowseController_manager.htm" />
+              <HelpTOCNode Title="model Field" Url="html/F_OpenIIoT_Core_Service_Web_API_BrowseController_model.htm" />
+              <HelpTOCNode Title="verboseSerializationProperties Field" Url="html/F_OpenIIoT_Core_Service_Web_API_BrowseController_verboseSerializationProperties.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="76db3d32-d349-4b68-a25e-37a2cffb5d1f" Title="ConfigurationController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_ConfigurationController.htm">
+            <HelpTOCNode Title="ConfigurationController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_ConfigurationController__ctor.htm" />
+            <HelpTOCNode Title="ConfigurationController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_ConfigurationController__cctor.htm" />
+            <HelpTOCNode Title="ConfigurationController Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_ConfigurationController.htm" />
+            <HelpTOCNode Id="2d5d7629-46a4-4435-be3a-87fee2b1b963" Title="ConfigurationController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_ConfigurationController.htm">
+              <HelpTOCNode Title="GetConfiguration Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ConfigurationController_GetConfiguration.htm" />
+              <HelpTOCNode Title="JsonFormatter Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ConfigurationController_JsonFormatter.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="072be0b1-1d5c-42df-bfc9-3cecd49f99a2" Title="ConfigurationController Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_API_ConfigurationController.htm">
+              <HelpTOCNode Title="configuration Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ConfigurationController_configuration.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ConfigurationController_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ConfigurationController_manager.htm" />
+              <HelpTOCNode Title="serializationProperties Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ConfigurationController_serializationProperties.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="25f5f062-856a-47cc-a2a9-aa2ea88f9de8" Title="IApiController Interface" Url="html/T_OpenIIoT_Core_Service_Web_API_IApiController.htm">
+            <HelpTOCNode Id="aeb62a8e-5b62-45c9-9a67-dcb6b78f556b" Title="IApiController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_IApiController.htm">
+              <HelpTOCNode Title="JsonFormatter Method " Url="html/M_OpenIIoT_Core_Service_Web_API_IApiController_JsonFormatter.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="8349d910-9d51-43fc-ad4e-f27d4456f012" Title="LogController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_LogController.htm">
+            <HelpTOCNode Title="LogController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__ctor.htm" />
+            <HelpTOCNode Title="LogController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__cctor.htm" />
+            <HelpTOCNode Title="LogController Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_LogController.htm" />
+            <HelpTOCNode Id="528daf92-3c7c-4862-a9d0-41e08b4df512" Title="LogController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_LogController.htm">
+              <HelpTOCNode Title="GetLog Method " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController_GetLog.htm" />
+              <HelpTOCNode Title="JsonFormatter Method " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController_JsonFormatter.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="9afd93aa-4088-419d-8dff-c4979d2b58a2" Title="LogController Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_API_LogController.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_API_LogController_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_API_LogController_manager.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="746f0c90-3ec7-4285-a3f0-ab29d0dcab67" Title="PluginController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_PluginController.htm">
+            <HelpTOCNode Title="PluginController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController__ctor.htm" />
+            <HelpTOCNode Title="PluginController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController__cctor.htm" />
+            <HelpTOCNode Title="PluginController Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_PluginController.htm" />
+            <HelpTOCNode Id="f515b5c0-e433-45e0-a8cb-dc9b40f05520" Title="PluginController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_PluginController.htm">
+              <HelpTOCNode Title="DownloadPluginArchive Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_DownloadPluginArchive.htm" />
+              <HelpTOCNode Title="GetPluginArchive Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_GetPluginArchive.htm" />
+              <HelpTOCNode Title="InstallPlugin Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_InstallPlugin.htm" />
+              <HelpTOCNode Title="JsonFormatter Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_JsonFormatter.htm" />
+              <HelpTOCNode Title="ListPluginArchives Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_ListPluginArchives.htm" />
+              <HelpTOCNode Title="ListPlugins Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_ListPlugins.htm" />
+              <HelpTOCNode Title="ReloadPluginArchives Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_ReloadPluginArchives.htm" />
+              <HelpTOCNode Title="UninstallPlugin Method " Url="html/M_OpenIIoT_Core_Service_Web_API_PluginController_UninstallPlugin.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="b2a6b6e2-1a57-470c-bf0d-1b4881885fe3" Title="PluginController Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_API_PluginController.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_API_PluginController_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_API_PluginController_manager.htm" />
+              <HelpTOCNode Title="pluginArchiveSerializationProperties Field" Url="html/F_OpenIIoT_Core_Service_Web_API_PluginController_pluginArchiveSerializationProperties.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="aaec50fb-45bf-4534-aad6-0957f5c23262" Title="ReadController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_ReadController.htm">
+            <HelpTOCNode Title="ReadController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_ReadController__ctor.htm" />
+            <HelpTOCNode Title="ReadController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_ReadController__cctor.htm" />
+            <HelpTOCNode Title="ReadController Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_ReadController.htm" />
+            <HelpTOCNode Id="2612a8c4-9932-4acb-9388-d87d489e98bd" Title="ReadController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_ReadController.htm">
+              <HelpTOCNode Title="JsonFormatter Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ReadController_JsonFormatter.htm" />
+              <HelpTOCNode Id="a2d2ca75-5bb8-4f77-9375-4b726dfd245a" Title="Read Method " Url="html/Overload_OpenIIoT_Core_Service_Web_API_ReadController_Read.htm">
+                <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ReadController_Read.htm" />
+                <HelpTOCNode Title="Read Method (String)" Url="html/M_OpenIIoT_Core_Service_Web_API_ReadController_Read_1.htm" />
+                <HelpTOCNode Title="Read Method (String, Boolean)" Url="html/M_OpenIIoT_Core_Service_Web_API_ReadController_Read_2.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="51307aa5-1554-4e4d-8350-0c9ea8b6041c" Title="ReadController Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_API_ReadController.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ReadController_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ReadController_manager.htm" />
+              <HelpTOCNode Title="model Field" Url="html/F_OpenIIoT_Core_Service_Web_API_ReadController_model.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="9a574234-7fe3-4418-834c-59fb3f3c27bf" Title="ValuesController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_ValuesController.htm">
+            <HelpTOCNode Title="ValuesController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_ValuesController__ctor.htm" />
+            <HelpTOCNode Title="ValuesController Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_ValuesController.htm" />
+            <HelpTOCNode Id="8c1a9c50-76d3-4c2f-b247-ac0b83493ff8" Title="ValuesController Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_ValuesController.htm">
+              <HelpTOCNode Title="Delete Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ValuesController_Delete.htm" />
+              <HelpTOCNode Id="9ddf46d2-1aec-4443-bd48-0ff31a51ba32" Title="Get Method " Url="html/Overload_OpenIIoT_Core_Service_Web_API_ValuesController_Get.htm">
+                <HelpTOCNode Title="Get Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ValuesController_Get.htm" />
+                <HelpTOCNode Title="Get Method (Int32)" Url="html/M_OpenIIoT_Core_Service_Web_API_ValuesController_Get_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="Post Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ValuesController_Post.htm" />
+              <HelpTOCNode Title="Put Method " Url="html/M_OpenIIoT_Core_Service_Web_API_ValuesController_Put.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="ac8389f0-b2b9-4acb-b799-bbcc33d97f59" Title="OpenIIoT.Core.Service.Web.SignalR" Url="html/N_OpenIIoT_Core_Service_Web_SignalR.htm">
+          <HelpTOCNode Id="9df893c9-e60f-4539-bb1e-cac13f2207f4" Title="HubHelper Class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_HubHelper.htm">
+            <HelpTOCNode Title="HubHelper Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper__ctor.htm" />
+            <HelpTOCNode Title="HubHelper Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper__cctor.htm" />
+            <HelpTOCNode Id="91d2aa76-59df-4053-aef8-10cd0020867f" Title="HubHelper Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_SignalR_HubHelper.htm">
+              <HelpTOCNode Title="Hub Property " Url="html/P_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Hub.htm" />
+              <HelpTOCNode Title="Subscriptions Property " Url="html/P_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Subscriptions.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="85f8ee3b-1538-45cb-848e-9ae04c5b54fa" Title="HubHelper Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_SignalR_HubHelper.htm">
+              <HelpTOCNode Id="766881ed-5bc8-40c8-80eb-2f2ea4ac2493" Title="GetClientSubscriptions Method " Url="html/Overload_OpenIIoT_Core_Service_Web_SignalR_HubHelper_GetClientSubscriptions.htm">
+                <HelpTOCNode Title="GetClientSubscriptions Method (String)" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_GetClientSubscriptions.htm" />
+                <HelpTOCNode Title="GetClientSubscriptions Method (String, Dictionary(Object, List(String)))" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_GetClientSubscriptions_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="006983e2-772f-4851-904e-b4d794ad0c84" Title="GetSubscriptions Method " Url="html/Overload_OpenIIoT_Core_Service_Web_SignalR_HubHelper_GetSubscriptions.htm">
+                <HelpTOCNode Title="GetSubscriptions Method (Object)" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_GetSubscriptions.htm" />
+                <HelpTOCNode Title="GetSubscriptions Method (Object, Dictionary(Object, List(String)))" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_GetSubscriptions_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="OnChange Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_OnChange.htm" />
+              <HelpTOCNode Id="ded264ce-f8ac-4937-b4d7-693313183932" Title="Subscribe Method " Url="html/Overload_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Subscribe.htm">
+                <HelpTOCNode Title="Subscribe Method (Object, String)" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Subscribe.htm" />
+                <HelpTOCNode Title="Subscribe Method (Object, String, Dictionary(Object, List(String)))" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Subscribe_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="63c7cc75-d720-454c-a613-c9af5ee25b30" Title="Unsubscribe Method " Url="html/Overload_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Unsubscribe.htm">
+                <HelpTOCNode Title="Unsubscribe Method (Object, String)" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Unsubscribe.htm" />
+                <HelpTOCNode Title="Unsubscribe Method (Object, String, Dictionary(Object, List(String)))" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_HubHelper_Unsubscribe_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="a13340aa-8546-41ca-88e1-03b712ff3c8c" Title="HubHelper Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_SignalR_HubHelper.htm">
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_HubHelper_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_HubHelper_manager.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="2bbdf515-73dc-4548-88ec-adad26a2715a" Title="IHub Interface" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_IHub.htm">
+            <HelpTOCNode Id="ff980c5b-0533-499c-a141-a4dfec457823" Title="IHub Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_SignalR_IHub.htm">
+              <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_IHub_Read.htm" />
+              <HelpTOCNode Title="Subscribe Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_IHub_Subscribe.htm" />
+              <HelpTOCNode Title="Unsubscribe Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_IHub_Unsubscribe.htm" />
+              <HelpTOCNode Title="Write Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_IHub_Write.htm" />
+              <HelpTOCNode Title="WriteToSource Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_IHub_WriteToSource.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="a277a9d8-4b30-43f5-89eb-49ad68001bc7" Title="ItemHub Class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm">
+            <HelpTOCNode Title="ItemHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__ctor.htm" />
+            <HelpTOCNode Title="ItemHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__cctor.htm" />
+            <HelpTOCNode Title="ItemHub Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm" />
+            <HelpTOCNode Id="e5b5c917-b19a-40aa-834b-c5db31c52641" Title="ItemHub Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm">
+              <HelpTOCNode Title="GetLogPrefix Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_GetLogPrefix.htm" />
+              <HelpTOCNode Title="OnConnected Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_OnConnected.htm" />
+              <HelpTOCNode Title="OnDisconnected Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_OnDisconnected.htm" />
+              <HelpTOCNode Title="OnReconnected Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_OnReconnected.htm" />
+              <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_Read.htm" />
+              <HelpTOCNode Title="Subscribe Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_Subscribe.htm" />
+              <HelpTOCNode Title="Unsubscribe Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_Unsubscribe.htm" />
+              <HelpTOCNode Title="Write Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_Write.htm" />
+              <HelpTOCNode Title="WriteToSource Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_WriteToSource.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="3f6b95bc-2662-4f79-b737-7440268bc4cc" Title="ItemHub Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm">
+              <HelpTOCNode Title="hubManager Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_ItemHub_hubManager.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_ItemHub_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_ItemHub_manager.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="67ac512d-f51b-44a9-a032-0d0f9e3170ca" Title="LogHub Class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm">
+            <HelpTOCNode Title="LogHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub__ctor.htm" />
+            <HelpTOCNode Title="LogHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub__cctor.htm" />
+            <HelpTOCNode Title="LogHub Properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm" />
+            <HelpTOCNode Id="9ad3954d-1b6f-432c-b000-b9150e8bdbfd" Title="LogHub Methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm">
+              <HelpTOCNode Title="GetLogPrefix Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_GetLogPrefix.htm" />
+              <HelpTOCNode Title="OnConnected Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_OnConnected.htm" />
+              <HelpTOCNode Title="OnDisconnected Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_OnDisconnected.htm" />
+              <HelpTOCNode Title="OnReconnected Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_OnReconnected.htm" />
+              <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_Read.htm" />
+              <HelpTOCNode Title="Subscribe Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_Subscribe.htm" />
+              <HelpTOCNode Title="Unsubscribe Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_Unsubscribe.htm" />
+              <HelpTOCNode Title="Write Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_Write.htm" />
+              <HelpTOCNode Title="WriteToSource Method " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub_WriteToSource.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="a3c0f3ad-ae26-4596-8d10-ad9fae07e735" Title="LogHub Fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm">
+              <HelpTOCNode Title="hubManager Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_LogHub_hubManager.htm" />
+              <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_LogHub_logger.htm" />
+              <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_LogHub_manager.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a367138c-05c4-4184-a909-75e074d016cf" Title="OpenIIoT.SDK Namespaces" Url="html/G_OpenIIoT_SDK.htm">
+      <HelpTOCNode Id="7fc69b10-6023-4dfc-a424-52228a5408ff" Title="OpenIIoT.SDK" Url="html/N_OpenIIoT_SDK.htm">
+        <HelpTOCNode Id="0d65f9bb-2b60-4ec0-bbf1-81576306b9a6" Title="ApplicationArgumentException Class" Url="html/T_OpenIIoT_SDK_ApplicationArgumentException.htm">
+          <HelpTOCNode Id="b2e0e57e-c8ed-49a6-9772-ad1201e67c2e" Title="ApplicationArgumentException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationArgumentException__ctor.htm">
+            <HelpTOCNode Title="ApplicationArgumentException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationArgumentException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationArgumentException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationArgumentException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationArgumentException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationArgumentException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationArgumentException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
+          <HelpTOCNode Title="ApplicationArgumentException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
+          <HelpTOCNode Title="ApplicationArgumentException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7f0a4263-47d7-49dd-bbd6-04d930d02664" Title="ApplicationInitializationException Class" Url="html/T_OpenIIoT_SDK_ApplicationInitializationException.htm">
+          <HelpTOCNode Id="f8189b76-4962-4758-b176-ac80cb6591e0" Title="ApplicationInitializationException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationInitializationException__ctor.htm">
+            <HelpTOCNode Title="ApplicationInitializationException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationInitializationException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationInitializationException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationInitializationException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationInitializationException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationInitializationException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationInitializationException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
+          <HelpTOCNode Title="ApplicationInitializationException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
+          <HelpTOCNode Title="ApplicationInitializationException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4f82c52a-33bf-4dc6-9483-664886168d90" Title="ApplicationManagerException Class" Url="html/T_OpenIIoT_SDK_ApplicationManagerException.htm">
+          <HelpTOCNode Id="b53edee4-8094-42bc-a9b8-997af5aba89d" Title="ApplicationManagerException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationManagerException__ctor.htm">
+            <HelpTOCNode Title="ApplicationManagerException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationManagerException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationManagerException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationManagerException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationManagerException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationManagerException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationManagerException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationManagerException.htm" />
+          <HelpTOCNode Title="ApplicationManagerException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationManagerException.htm" />
+          <HelpTOCNode Title="ApplicationManagerException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationManagerException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="89fc5eab-e84a-4dc4-a1d2-6cec39279665" Title="ApplicationShutdownRoutineException Class" Url="html/T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm">
+          <HelpTOCNode Id="8278fbd0-3c7a-4892-84a2-d5421afa6559" Title="ApplicationShutdownRoutineException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationShutdownRoutineException__ctor.htm">
+            <HelpTOCNode Title="ApplicationShutdownRoutineException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationShutdownRoutineException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationShutdownRoutineException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationShutdownRoutineException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationShutdownRoutineException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationShutdownRoutineException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationShutdownRoutineException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
+          <HelpTOCNode Title="ApplicationShutdownRoutineException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
+          <HelpTOCNode Title="ApplicationShutdownRoutineException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7c2f3bff-4f21-4cd8-b1f5-f257d80dc06f" Title="ApplicationStartException Class" Url="html/T_OpenIIoT_SDK_ApplicationStartException.htm">
+          <HelpTOCNode Id="c8ae488a-23fe-405d-a941-597731d9cdc3" Title="ApplicationStartException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationStartException__ctor.htm">
+            <HelpTOCNode Title="ApplicationStartException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationStartException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationStartException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationStartException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationStartException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationStartException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationStartException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationStartException.htm" />
+          <HelpTOCNode Title="ApplicationStartException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationStartException.htm" />
+          <HelpTOCNode Title="ApplicationStartException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationStartException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c8977cdb-35eb-4578-9045-8f6fc099ff34" Title="ApplicationStartupRoutineException Class" Url="html/T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm">
+          <HelpTOCNode Id="3688212c-0fb5-4112-ab7e-880b6ea208c7" Title="ApplicationStartupRoutineException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationStartupRoutineException__ctor.htm">
+            <HelpTOCNode Title="ApplicationStartupRoutineException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationStartupRoutineException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationStartupRoutineException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationStartupRoutineException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationStartupRoutineException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationStartupRoutineException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationStartupRoutineException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
+          <HelpTOCNode Title="ApplicationStartupRoutineException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
+          <HelpTOCNode Title="ApplicationStartupRoutineException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="33ea4f48-df7a-49f8-bc77-a214140b112c" Title="ApplicationStopException Class" Url="html/T_OpenIIoT_SDK_ApplicationStopException.htm">
+          <HelpTOCNode Id="c2215a78-2984-488e-a646-35325a9521a8" Title="ApplicationStopException Constructor " Url="html/Overload_OpenIIoT_SDK_ApplicationStopException__ctor.htm">
+            <HelpTOCNode Title="ApplicationStopException Constructor " Url="html/M_OpenIIoT_SDK_ApplicationStopException__ctor.htm" />
+            <HelpTOCNode Title="ApplicationStopException Constructor (String)" Url="html/M_OpenIIoT_SDK_ApplicationStopException__ctor_1.htm" />
+            <HelpTOCNode Title="ApplicationStopException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ApplicationStopException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ApplicationStopException Properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationStopException.htm" />
+          <HelpTOCNode Title="ApplicationStopException Methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationStopException.htm" />
+          <HelpTOCNode Title="ApplicationStopException Events" Url="html/Events_T_OpenIIoT_SDK_ApplicationStopException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c4ffa31c-631f-412c-b046-edadadb440ec" Title="ContractResolver Class" Url="html/T_OpenIIoT_SDK_ContractResolver.htm">
+          <HelpTOCNode Id="d0c56596-6eed-427a-8c11-24a740b6acd0" Title="ContractResolver Constructor " Url="html/Overload_OpenIIoT_SDK_ContractResolver__ctor.htm">
+            <HelpTOCNode Title="ContractResolver Constructor " Url="html/M_OpenIIoT_SDK_ContractResolver__ctor.htm" />
+            <HelpTOCNode Title="ContractResolver Constructor (List(String))" Url="html/M_OpenIIoT_SDK_ContractResolver__ctor_1.htm" />
+            <HelpTOCNode Title="ContractResolver Constructor (List(String), ContractResolverType)" Url="html/M_OpenIIoT_SDK_ContractResolver__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ContractResolver Properties" Url="html/Properties_T_OpenIIoT_SDK_ContractResolver.htm" />
+          <HelpTOCNode Id="573ea618-4744-4184-84d6-4e1d8b719282" Title="ContractResolver Methods" Url="html/Methods_T_OpenIIoT_SDK_ContractResolver.htm">
+            <HelpTOCNode Title="CreateProperties Method " Url="html/M_OpenIIoT_SDK_ContractResolver_CreateProperties.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="4ae0c8e6-6e17-44c4-b2c7-72bc571b3198" Title="ContractResolver Fields" Url="html/Fields_T_OpenIIoT_SDK_ContractResolver.htm">
+            <HelpTOCNode Title="contractResolverType Field" Url="html/F_OpenIIoT_SDK_ContractResolver_contractResolverType.htm" />
+            <HelpTOCNode Title="propertyList Field" Url="html/F_OpenIIoT_SDK_ContractResolver_propertyList.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="ContractResolverType Enumeration" Url="html/T_OpenIIoT_SDK_ContractResolverType.htm" />
+        <HelpTOCNode Id="45da1bcf-4376-43b1-8f63-99fabb5de2a0" Title="DependencyNotResolvedException Class" Url="html/T_OpenIIoT_SDK_DependencyNotResolvedException.htm">
+          <HelpTOCNode Id="22a38863-45d2-410d-9654-4b7e5750ead8" Title="DependencyNotResolvedException Constructor " Url="html/Overload_OpenIIoT_SDK_DependencyNotResolvedException__ctor.htm">
+            <HelpTOCNode Title="DependencyNotResolvedException Constructor " Url="html/M_OpenIIoT_SDK_DependencyNotResolvedException__ctor.htm" />
+            <HelpTOCNode Title="DependencyNotResolvedException Constructor (String)" Url="html/M_OpenIIoT_SDK_DependencyNotResolvedException__ctor_1.htm" />
+            <HelpTOCNode Title="DependencyNotResolvedException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_DependencyNotResolvedException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="DependencyNotResolvedException Properties" Url="html/Properties_T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
+          <HelpTOCNode Title="DependencyNotResolvedException Methods" Url="html/Methods_T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
+          <HelpTOCNode Title="DependencyNotResolvedException Events" Url="html/Events_T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="593738fc-e3bb-4e39-9a03-6a15c8669e26" Title="DiscoverableAttribute Class" Url="html/T_OpenIIoT_SDK_DiscoverableAttribute.htm">
+          <HelpTOCNode Title="DiscoverableAttribute Constructor " Url="html/M_OpenIIoT_SDK_DiscoverableAttribute__ctor.htm" />
+          <HelpTOCNode Title="DiscoverableAttribute Properties" Url="html/Properties_T_OpenIIoT_SDK_DiscoverableAttribute.htm" />
+          <HelpTOCNode Title="DiscoverableAttribute Methods" Url="html/Methods_T_OpenIIoT_SDK_DiscoverableAttribute.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="040d42d5-4f88-401a-8149-03ac3e60d654" Title="Discoverer Class" Url="html/T_OpenIIoT_SDK_Discoverer.htm">
+          <HelpTOCNode Id="90c3b4f6-fb0d-48f8-8f7b-f35847c6aa19" Title="Discoverer Methods" Url="html/Methods_T_OpenIIoT_SDK_Discoverer.htm">
+            <HelpTOCNode Id="67685fad-9ad0-4a2b-aa75-ed3a33312e44" Title="Discover Method " Url="html/Overload_OpenIIoT_SDK_Discoverer_Discover.htm">
+              <HelpTOCNode Title="Discover(T) Method (Object)" Url="html/M_OpenIIoT_SDK_Discoverer_Discover__1.htm" />
+              <HelpTOCNode Title="Discover(T) Method (Object, IList(T))" Url="html/M_OpenIIoT_SDK_Discoverer_Discover__1_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="GetDiscoverableProperties Method " Url="html/M_OpenIIoT_SDK_Discoverer_GetDiscoverableProperties.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="03dcfb93-bd58-4d40-b561-3bf13eb7f6ac" Title="EventAttribute Class" Url="html/T_OpenIIoT_SDK_EventAttribute.htm">
+          <HelpTOCNode Title="EventAttribute Constructor " Url="html/M_OpenIIoT_SDK_EventAttribute__ctor.htm" />
+          <HelpTOCNode Id="db8ceba7-7132-4f0a-9b57-8cf9cc08c048" Title="EventAttribute Properties" Url="html/Properties_T_OpenIIoT_SDK_EventAttribute.htm">
+            <HelpTOCNode Title="Description Property " Url="html/P_OpenIIoT_SDK_EventAttribute_Description.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="EventAttribute Methods" Url="html/Methods_T_OpenIIoT_SDK_EventAttribute.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c52f2b1b-8dc2-410d-9d2a-b1cbabf331db" Title="IApplicationManager Interface" Url="html/T_OpenIIoT_SDK_IApplicationManager.htm">
+          <HelpTOCNode Id="529e892e-a386-4d14-b6d2-ed5099f506c1" Title="IApplicationManager Properties" Url="html/Properties_T_OpenIIoT_SDK_IApplicationManager.htm">
+            <HelpTOCNode Title="InstanceName Property " Url="html/P_OpenIIoT_SDK_IApplicationManager_InstanceName.htm" />
+            <HelpTOCNode Title="Managers Property " Url="html/P_OpenIIoT_SDK_IApplicationManager_Managers.htm" />
+            <HelpTOCNode Title="ProductName Property " Url="html/P_OpenIIoT_SDK_IApplicationManager_ProductName.htm" />
+            <HelpTOCNode Title="ProductVersion Property " Url="html/P_OpenIIoT_SDK_IApplicationManager_ProductVersion.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="9e26f363-a7f6-4010-a4e0-995f3ea1a1bf" Title="IApplicationManager Methods" Url="html/Methods_T_OpenIIoT_SDK_IApplicationManager.htm">
+            <HelpTOCNode Title="GetManager(T) Method " Url="html/M_OpenIIoT_SDK_IApplicationManager_GetManager__1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IApplicationManager Events" Url="html/Events_T_OpenIIoT_SDK_IApplicationManager.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b1f99870-9c9b-4351-9971-61a75820f10c" Title="IEventProvider Interface" Url="html/T_OpenIIoT_SDK_IEventProvider.htm">
+          <HelpTOCNode Id="8cc9c788-04fb-48f8-9676-a8bb0617809d" Title="IEventProvider Properties" Url="html/Properties_T_OpenIIoT_SDK_IEventProvider.htm">
+            <HelpTOCNode Title="EventProviderName Property " Url="html/P_OpenIIoT_SDK_IEventProvider_EventProviderName.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="84caf01e-c5be-4584-ab35-e05fe562ccbe" Title="IExtensible Interface" Url="html/T_OpenIIoT_SDK_IExtensible.htm">
+          <HelpTOCNode Id="c104f549-5fb9-478b-935a-36708a9ac9b7" Title="IExtensible Properties" Url="html/Properties_T_OpenIIoT_SDK_IExtensible.htm">
+            <HelpTOCNode Title="AddedItems Property " Url="html/P_OpenIIoT_SDK_IExtensible_AddedItems.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="2614b0f5-093e-4d63-ac5d-205ea89d3a73" Title="IExtensible Methods" Url="html/Methods_T_OpenIIoT_SDK_IExtensible.htm">
+            <HelpTOCNode Title="AddItem Method " Url="html/M_OpenIIoT_SDK_IExtensible_AddItem.htm" />
+            <HelpTOCNode Title="RemoveItem Method " Url="html/M_OpenIIoT_SDK_IExtensible_RemoveItem.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="49f43484-eff8-48e0-91c5-085c0ff20fd4" Title="IItemProvider Interface" Url="html/T_OpenIIoT_SDK_IItemProvider.htm">
+          <HelpTOCNode Id="2977d335-b268-4294-a102-c7bfc7747ad2" Title="IItemProvider Properties" Url="html/Properties_T_OpenIIoT_SDK_IItemProvider.htm">
+            <HelpTOCNode Title="ItemProviderName Property " Url="html/P_OpenIIoT_SDK_IItemProvider_ItemProviderName.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="393120ae-504a-4539-8b1b-87035b066e96" Title="IItemProvider Methods" Url="html/Methods_T_OpenIIoT_SDK_IItemProvider.htm">
+            <HelpTOCNode Id="256ef586-dd76-4590-b335-f9f2a5233127" Title="Browse Method " Url="html/Overload_OpenIIoT_SDK_IItemProvider_Browse.htm">
+              <HelpTOCNode Title="Browse Method " Url="html/M_OpenIIoT_SDK_IItemProvider_Browse.htm" />
+              <HelpTOCNode Title="Browse Method (Item)" Url="html/M_OpenIIoT_SDK_IItemProvider_Browse_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="34779eca-f005-4b80-a25c-2b282512f046" Title="BrowseAsync Method " Url="html/Overload_OpenIIoT_SDK_IItemProvider_BrowseAsync.htm">
+              <HelpTOCNode Title="BrowseAsync Method " Url="html/M_OpenIIoT_SDK_IItemProvider_BrowseAsync.htm" />
+              <HelpTOCNode Title="BrowseAsync Method (Item)" Url="html/M_OpenIIoT_SDK_IItemProvider_BrowseAsync_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="Find Method " Url="html/M_OpenIIoT_SDK_IItemProvider_Find.htm" />
+            <HelpTOCNode Title="FindAsync Method " Url="html/M_OpenIIoT_SDK_IItemProvider_FindAsync.htm" />
+            <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_SDK_IItemProvider_Read.htm" />
+            <HelpTOCNode Title="ReadAsync Method " Url="html/M_OpenIIoT_SDK_IItemProvider_ReadAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="cfde783a-0047-4680-9704-426e124fd273" Title="IManager Interface" Url="html/T_OpenIIoT_SDK_IManager.htm">
+          <HelpTOCNode Id="41588c0c-a4e9-4f76-ad19-7748fd4326b4" Title="IManager Properties" Url="html/Properties_T_OpenIIoT_SDK_IManager.htm">
+            <HelpTOCNode Title="AutomaticRestartPending Property " Url="html/P_OpenIIoT_SDK_IManager_AutomaticRestartPending.htm" />
+            <HelpTOCNode Title="ManagerName Property " Url="html/P_OpenIIoT_SDK_IManager_ManagerName.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IManager Methods" Url="html/Methods_T_OpenIIoT_SDK_IManager.htm" />
+          <HelpTOCNode Title="IManager Events" Url="html/Events_T_OpenIIoT_SDK_IManager.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="IProvider Interface" Url="html/T_OpenIIoT_SDK_IProvider.htm" />
+        <HelpTOCNode Id="6a04506d-cb49-4eba-a5ee-b5e3bb018aa7" Title="IStateful Interface" Url="html/T_OpenIIoT_SDK_IStateful.htm">
+          <HelpTOCNode Id="7a42d5fc-3110-4d2d-804f-8e391e81d952" Title="IStateful Properties" Url="html/Properties_T_OpenIIoT_SDK_IStateful.htm">
+            <HelpTOCNode Title="State Property " Url="html/P_OpenIIoT_SDK_IStateful_State.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="bb7504c2-70b7-4a76-8b7e-1826f9743bf2" Title="IStateful Methods" Url="html/Methods_T_OpenIIoT_SDK_IStateful.htm">
+            <HelpTOCNode Title="IsInState Method " Url="html/M_OpenIIoT_SDK_IStateful_IsInState.htm" />
+            <HelpTOCNode Title="Restart Method " Url="html/M_OpenIIoT_SDK_IStateful_Restart.htm" />
+            <HelpTOCNode Title="Start Method " Url="html/M_OpenIIoT_SDK_IStateful_Start.htm" />
+            <HelpTOCNode Title="Stop Method " Url="html/M_OpenIIoT_SDK_IStateful_Stop.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="5d070201-3f32-4e0b-87ca-c86e5e5df09a" Title="IStateful Events" Url="html/Events_T_OpenIIoT_SDK_IStateful.htm">
+            <HelpTOCNode Title="StateChanged Event" Url="html/E_OpenIIoT_SDK_IStateful_StateChanged.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="bda56522-db99-4a11-8e27-9091b77a5eee" Title="ISubscribable Interface" Url="html/T_OpenIIoT_SDK_ISubscribable.htm">
+          <HelpTOCNode Id="6c26a3d0-8ed9-4474-9159-51727bc772e6" Title="ISubscribable Properties" Url="html/Properties_T_OpenIIoT_SDK_ISubscribable.htm">
+            <HelpTOCNode Title="Subscriptions Property " Url="html/P_OpenIIoT_SDK_ISubscribable_Subscriptions.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="e6c873f5-e10a-4948-a739-e56b9f15236b" Title="ISubscribable Methods" Url="html/Methods_T_OpenIIoT_SDK_ISubscribable.htm">
+            <HelpTOCNode Title="Subscribe Method " Url="html/M_OpenIIoT_SDK_ISubscribable_Subscribe.htm" />
+            <HelpTOCNode Title="UnSubscribe Method " Url="html/M_OpenIIoT_SDK_ISubscribable_UnSubscribe.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="5424bcf1-b585-47a6-8a87-1315e404e212" Title="Item Class" Url="html/T_OpenIIoT_SDK_Item.htm">
+          <HelpTOCNode Id="ab8721bc-a5f4-4b8c-ac77-cad04aa71621" Title="Item Constructor " Url="html/Overload_OpenIIoT_SDK_Item__ctor.htm">
+            <HelpTOCNode Title="Item Constructor (String)" Url="html/M_OpenIIoT_SDK_Item__ctor.htm" />
+            <HelpTOCNode Title="Item Constructor (String, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_1.htm" />
+            <HelpTOCNode Title="Item Constructor (String, Item, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_2.htm" />
+            <HelpTOCNode Title="Item Constructor (String, ItemAccessMode, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_5.htm" />
+            <HelpTOCNode Title="Item Constructor (String, String, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_6.htm" />
+            <HelpTOCNode Title="Item Constructor (String, Item, ItemAccessMode, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_3.htm" />
+            <HelpTOCNode Title="Item Constructor (String, String, ItemAccessMode, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_7.htm" />
+            <HelpTOCNode Title="Item Constructor (String, Item, String, ItemAccessMode, IItemProvider)" Url="html/M_OpenIIoT_SDK_Item__ctor_4.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="4feee87b-8eb2-4e81-be2b-5706578ccece" Title="Item Properties" Url="html/Properties_T_OpenIIoT_SDK_Item.htm">
+            <HelpTOCNode Title="AccessMode Property " Url="html/P_OpenIIoT_SDK_Item_AccessMode.htm" />
+            <HelpTOCNode Title="Children Property " Url="html/P_OpenIIoT_SDK_Item_Children.htm" />
+            <HelpTOCNode Title="FQN Property " Url="html/P_OpenIIoT_SDK_Item_FQN.htm" />
+            <HelpTOCNode Title="Guid Property " Url="html/P_OpenIIoT_SDK_Item_Guid.htm" />
+            <HelpTOCNode Title="HasChildren Property " Url="html/P_OpenIIoT_SDK_Item_HasChildren.htm" />
+            <HelpTOCNode Title="IsOrphaned Property " Url="html/P_OpenIIoT_SDK_Item_IsOrphaned.htm" />
+            <HelpTOCNode Title="IsSubscribedToSource Property " Url="html/P_OpenIIoT_SDK_Item_IsSubscribedToSource.htm" />
+            <HelpTOCNode Title="Lock Property " Url="html/P_OpenIIoT_SDK_Item_Lock.htm" />
+            <HelpTOCNode Title="Name Property " Url="html/P_OpenIIoT_SDK_Item_Name.htm" />
+            <HelpTOCNode Title="Parent Property " Url="html/P_OpenIIoT_SDK_Item_Parent.htm" />
+            <HelpTOCNode Title="Path Property " Url="html/P_OpenIIoT_SDK_Item_Path.htm" />
+            <HelpTOCNode Title="Provider Property " Url="html/P_OpenIIoT_SDK_Item_Provider.htm" />
+            <HelpTOCNode Title="Quality Property " Url="html/P_OpenIIoT_SDK_Item_Quality.htm" />
+            <HelpTOCNode Title="Source Property " Url="html/P_OpenIIoT_SDK_Item_Source.htm" />
+            <HelpTOCNode Title="SourceFQN Property " Url="html/P_OpenIIoT_SDK_Item_SourceFQN.htm" />
+            <HelpTOCNode Title="SourceItem Property " Url="html/P_OpenIIoT_SDK_Item_SourceItem.htm" />
+            <HelpTOCNode Title="Timestamp Property " Url="html/P_OpenIIoT_SDK_Item_Timestamp.htm" />
+            <HelpTOCNode Title="Value Property " Url="html/P_OpenIIoT_SDK_Item_Value.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="0e0bbc27-565c-4902-969b-31334aa3501d" Title="Item Methods" Url="html/Methods_T_OpenIIoT_SDK_Item.htm">
+            <HelpTOCNode Title="AddChild Method " Url="html/M_OpenIIoT_SDK_Item_AddChild.htm" />
+            <HelpTOCNode Title="ChangeValue Method " Url="html/M_OpenIIoT_SDK_Item_ChangeValue.htm" />
+            <HelpTOCNode Title="Clone Method " Url="html/M_OpenIIoT_SDK_Item_Clone.htm" />
+            <HelpTOCNode Title="CloneAs Method " Url="html/M_OpenIIoT_SDK_Item_CloneAs.htm" />
+            <HelpTOCNode Id="05982fff-1c44-46d2-ab5c-76ce83c22899" Title="IsAncestor Method " Url="html/Overload_OpenIIoT_SDK_Item_IsAncestor.htm">
+              <HelpTOCNode Title="IsAncestor Method (Item)" Url="html/M_OpenIIoT_SDK_Item_IsAncestor.htm" />
+              <HelpTOCNode Title="IsAncestor Method (Item, Item)" Url="html/M_OpenIIoT_SDK_Item_IsAncestor_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="OnChange Method " Url="html/M_OpenIIoT_SDK_Item_OnChange.htm" />
+            <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_SDK_Item_Read.htm" />
+            <HelpTOCNode Title="ReadAsync Method " Url="html/M_OpenIIoT_SDK_Item_ReadAsync.htm" />
+            <HelpTOCNode Title="ReadFromSource Method " Url="html/M_OpenIIoT_SDK_Item_ReadFromSource.htm" />
+            <HelpTOCNode Title="ReadFromSourceAsync Method " Url="html/M_OpenIIoT_SDK_Item_ReadFromSourceAsync.htm" />
+            <HelpTOCNode Title="RemoveChild Method " Url="html/M_OpenIIoT_SDK_Item_RemoveChild.htm" />
+            <HelpTOCNode Title="SetParent Method " Url="html/M_OpenIIoT_SDK_Item_SetParent.htm" />
+            <HelpTOCNode Title="SourceItemChanged Method " Url="html/M_OpenIIoT_SDK_Item_SourceItemChanged.htm" />
+            <HelpTOCNode Title="SubscribeToSource Method " Url="html/M_OpenIIoT_SDK_Item_SubscribeToSource.htm" />
+            <HelpTOCNode Title="SubscriptionsChanged Method " Url="html/M_OpenIIoT_SDK_Item_SubscriptionsChanged.htm" />
+            <HelpTOCNode Id="277b5b85-309b-4843-adff-a2fa7abd2ca8" Title="ToJson Method " Url="html/Overload_OpenIIoT_SDK_Item_ToJson.htm">
+              <HelpTOCNode Title="ToJson Method " Url="html/M_OpenIIoT_SDK_Item_ToJson.htm" />
+              <HelpTOCNode Title="ToJson Method (DefaultContractResolver)" Url="html/M_OpenIIoT_SDK_Item_ToJson_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="ToString Method " Url="html/M_OpenIIoT_SDK_Item_ToString.htm" />
+            <HelpTOCNode Title="UnsubscribeFromSource Method " Url="html/M_OpenIIoT_SDK_Item_UnsubscribeFromSource.htm" />
+            <HelpTOCNode Title="Write Method " Url="html/M_OpenIIoT_SDK_Item_Write.htm" />
+            <HelpTOCNode Title="WriteAsync Method " Url="html/M_OpenIIoT_SDK_Item_WriteAsync.htm" />
+            <HelpTOCNode Title="WriteToSource Method " Url="html/M_OpenIIoT_SDK_Item_WriteToSource.htm" />
+            <HelpTOCNode Title="WriteToSourceAsync Method " Url="html/M_OpenIIoT_SDK_Item_WriteToSourceAsync.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="51bb2551-8f15-4865-9c95-cbc1c9b172dc" Title="Item Events" Url="html/Events_T_OpenIIoT_SDK_Item.htm">
+            <HelpTOCNode Title="Changed Event" Url="html/E_OpenIIoT_SDK_Item_Changed.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="5e2ab4bb-aff7-49b0-9ce7-5bb1382d26b5" Title="Item Fields" Url="html/Fields_T_OpenIIoT_SDK_Item.htm">
+            <HelpTOCNode Title="childrenLock Field" Url="html/F_OpenIIoT_SDK_Item_childrenLock.htm" />
+            <HelpTOCNode Title="grandchildrenLock Field" Url="html/F_OpenIIoT_SDK_Item_grandchildrenLock.htm" />
+            <HelpTOCNode Title="parentLock Field" Url="html/F_OpenIIoT_SDK_Item_parentLock.htm" />
+            <HelpTOCNode Title="providerLock Field" Url="html/F_OpenIIoT_SDK_Item_providerLock.htm" />
+            <HelpTOCNode Title="sourceItem Field" Url="html/F_OpenIIoT_SDK_Item_sourceItem.htm" />
+            <HelpTOCNode Title="sourceItemLock Field" Url="html/F_OpenIIoT_SDK_Item_sourceItemLock.htm" />
+            <HelpTOCNode Title="valueLock Field" Url="html/F_OpenIIoT_SDK_Item_valueLock.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="ItemAccessMode Enumeration" Url="html/T_OpenIIoT_SDK_ItemAccessMode.htm" />
+        <HelpTOCNode Id="169c1c76-c417-4b3e-8945-a8c59788982f" Title="ItemChangedEventArgs Class" Url="html/T_OpenIIoT_SDK_ItemChangedEventArgs.htm">
+          <HelpTOCNode Title="ItemChangedEventArgs Constructor " Url="html/M_OpenIIoT_SDK_ItemChangedEventArgs__ctor.htm" />
+          <HelpTOCNode Id="ffa3a9e7-6292-4c37-a378-dc09573daf39" Title="ItemChangedEventArgs Properties" Url="html/Properties_T_OpenIIoT_SDK_ItemChangedEventArgs.htm">
+            <HelpTOCNode Title="PreviousQuality Property " Url="html/P_OpenIIoT_SDK_ItemChangedEventArgs_PreviousQuality.htm" />
+            <HelpTOCNode Title="PreviousValue Property " Url="html/P_OpenIIoT_SDK_ItemChangedEventArgs_PreviousValue.htm" />
+            <HelpTOCNode Title="Quality Property " Url="html/P_OpenIIoT_SDK_ItemChangedEventArgs_Quality.htm" />
+            <HelpTOCNode Title="QualityChanged Property " Url="html/P_OpenIIoT_SDK_ItemChangedEventArgs_QualityChanged.htm" />
+            <HelpTOCNode Title="Value Property " Url="html/P_OpenIIoT_SDK_ItemChangedEventArgs_Value.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ItemChangedEventArgs Methods" Url="html/Methods_T_OpenIIoT_SDK_ItemChangedEventArgs.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="855c42ce-7192-46d9-b3fb-1f8eef950ad0" Title="ItemProvider Class" Url="html/T_OpenIIoT_SDK_ItemProvider.htm">
+          <HelpTOCNode Title="ItemProvider Constructor " Url="html/M_OpenIIoT_SDK_ItemProvider__ctor.htm" />
+          <HelpTOCNode Id="66e9f724-a5c4-4747-8dc6-feca707900c5" Title="ItemProvider Properties" Url="html/Properties_T_OpenIIoT_SDK_ItemProvider.htm">
+            <HelpTOCNode Title="ItemProviderName Property " Url="html/P_OpenIIoT_SDK_ItemProvider_ItemProviderName.htm" />
+            <HelpTOCNode Title="ItemRoot Property " Url="html/P_OpenIIoT_SDK_ItemProvider_ItemRoot.htm" />
+            <HelpTOCNode Title="Subscriptions Property " Url="html/P_OpenIIoT_SDK_ItemProvider_Subscriptions.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="eec2951b-656d-439b-98ae-9d67794da2e0" Title="ItemProvider Methods" Url="html/Methods_T_OpenIIoT_SDK_ItemProvider.htm">
+            <HelpTOCNode Id="f650d630-a90d-48fa-b51f-9d87189466c1" Title="Browse Method " Url="html/Overload_OpenIIoT_SDK_ItemProvider_Browse.htm">
+              <HelpTOCNode Title="Browse Method " Url="html/M_OpenIIoT_SDK_ItemProvider_Browse.htm" />
+              <HelpTOCNode Title="Browse Method (Item)" Url="html/M_OpenIIoT_SDK_ItemProvider_Browse_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="81625da6-18aa-4272-84ba-fa5b9811ba7c" Title="BrowseAsync Method " Url="html/Overload_OpenIIoT_SDK_ItemProvider_BrowseAsync.htm">
+              <HelpTOCNode Title="BrowseAsync Method " Url="html/M_OpenIIoT_SDK_ItemProvider_BrowseAsync.htm" />
+              <HelpTOCNode Title="BrowseAsync Method (Item)" Url="html/M_OpenIIoT_SDK_ItemProvider_BrowseAsync_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="f30afa1a-8510-4f5a-961c-b1adad9c5161" Title="Find Method " Url="html/Overload_OpenIIoT_SDK_ItemProvider_Find.htm">
+              <HelpTOCNode Title="Find Method (String)" Url="html/M_OpenIIoT_SDK_ItemProvider_Find_1.htm" />
+              <HelpTOCNode Title="Find Method (Item, String)" Url="html/M_OpenIIoT_SDK_ItemProvider_Find.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="FindAsync Method " Url="html/M_OpenIIoT_SDK_ItemProvider_FindAsync.htm" />
+            <HelpTOCNode Title="Read Method " Url="html/M_OpenIIoT_SDK_ItemProvider_Read.htm" />
+            <HelpTOCNode Title="ReadAsync Method " Url="html/M_OpenIIoT_SDK_ItemProvider_ReadAsync.htm" />
+            <HelpTOCNode Title="Subscribe Method " Url="html/M_OpenIIoT_SDK_ItemProvider_Subscribe.htm" />
+            <HelpTOCNode Title="UnSubscribe Method " Url="html/M_OpenIIoT_SDK_ItemProvider_UnSubscribe.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="71a08cff-4bf9-494c-92ab-c1ef00c27a0c" Title="ItemProvider Fields" Url="html/Fields_T_OpenIIoT_SDK_ItemProvider.htm">
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_SDK_ItemProvider_logger.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="ItemQuality Enumeration" Url="html/T_OpenIIoT_SDK_ItemQuality.htm" />
+        <HelpTOCNode Title="ItemSource Enumeration" Url="html/T_OpenIIoT_SDK_ItemSource.htm" />
+        <HelpTOCNode Id="5c2d1e3d-76b7-49f2-a44e-164dd351ab65" Title="IWriteable Interface" Url="html/T_OpenIIoT_SDK_IWriteable.htm">
+          <HelpTOCNode Id="cb74c25c-ef04-4013-b5ec-a740d21ef597" Title="IWriteable Methods" Url="html/Methods_T_OpenIIoT_SDK_IWriteable.htm">
+            <HelpTOCNode Title="Write Method " Url="html/M_OpenIIoT_SDK_IWriteable_Write.htm" />
+            <HelpTOCNode Title="WriteAsync Method " Url="html/M_OpenIIoT_SDK_IWriteable_WriteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d21e3cfb-f3ed-4b48-a95a-9fbcfda3c778" Title="Manager Class" Url="html/T_OpenIIoT_SDK_Manager.htm">
+          <HelpTOCNode Title="Manager Constructor " Url="html/M_OpenIIoT_SDK_Manager__ctor.htm" />
+          <HelpTOCNode Id="246fdb08-9c10-4e6b-8c24-eff4b2e7e0be" Title="Manager Properties" Url="html/Properties_T_OpenIIoT_SDK_Manager.htm">
+            <HelpTOCNode Title="AutomaticRestartPending Property " Url="html/P_OpenIIoT_SDK_Manager_AutomaticRestartPending.htm" />
+            <HelpTOCNode Title="Dependencies Property " Url="html/P_OpenIIoT_SDK_Manager_Dependencies.htm" />
+            <HelpTOCNode Title="EventProviderName Property " Url="html/P_OpenIIoT_SDK_Manager_EventProviderName.htm" />
+            <HelpTOCNode Title="ManagerName Property " Url="html/P_OpenIIoT_SDK_Manager_ManagerName.htm" />
+            <HelpTOCNode Title="State Property " Url="html/P_OpenIIoT_SDK_Manager_State.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="d8f4044e-24cd-4738-b68a-8d5c2606077f" Title="Manager Methods" Url="html/Methods_T_OpenIIoT_SDK_Manager.htm">
+            <HelpTOCNode Id="04800233-a8d6-41f8-a8b4-c75038905713" Title="ChangeState Method " Url="html/Overload_OpenIIoT_SDK_Manager_ChangeState.htm">
+              <HelpTOCNode Title="ChangeState Method (State)" Url="html/M_OpenIIoT_SDK_Manager_ChangeState.htm" />
+              <HelpTOCNode Title="ChangeState Method (State, StopType)" Url="html/M_OpenIIoT_SDK_Manager_ChangeState_1.htm" />
+              <HelpTOCNode Title="ChangeState Method (State, String, StopType)" Url="html/M_OpenIIoT_SDK_Manager_ChangeState_2.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="DependenciesAreAllInState Method " Url="html/M_OpenIIoT_SDK_Manager_DependenciesAreAllInState.htm" />
+            <HelpTOCNode Title="Dependency(T) Method " Url="html/M_OpenIIoT_SDK_Manager_Dependency__1.htm" />
+            <HelpTOCNode Title="DependencyStateChanged Method " Url="html/M_OpenIIoT_SDK_Manager_DependencyStateChanged.htm" />
+            <HelpTOCNode Id="4598ccb3-6bdb-4239-83c5-25330f7e13d1" Title="Dispose Method " Url="html/Overload_OpenIIoT_SDK_Manager_Dispose.htm">
+              <HelpTOCNode Title="Dispose Method " Url="html/M_OpenIIoT_SDK_Manager_Dispose.htm" />
+              <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_OpenIIoT_SDK_Manager_Dispose_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IsInState Method " Url="html/M_OpenIIoT_SDK_Manager_IsInState.htm" />
+            <HelpTOCNode Title="RegisterDependency(T) Method " Url="html/M_OpenIIoT_SDK_Manager_RegisterDependency__1.htm" />
+            <HelpTOCNode Title="Restart Method " Url="html/M_OpenIIoT_SDK_Manager_Restart.htm" />
+            <HelpTOCNode Title="RestartTimerElapsed Method " Url="html/M_OpenIIoT_SDK_Manager_RestartTimerElapsed.htm" />
+            <HelpTOCNode Title="Setup Method " Url="html/M_OpenIIoT_SDK_Manager_Setup.htm" />
+            <HelpTOCNode Title="Shutdown Method " Url="html/M_OpenIIoT_SDK_Manager_Shutdown.htm" />
+            <HelpTOCNode Title="Start Method " Url="html/M_OpenIIoT_SDK_Manager_Start.htm" />
+            <HelpTOCNode Title="Startup Method " Url="html/M_OpenIIoT_SDK_Manager_Startup.htm" />
+            <HelpTOCNode Title="Stop Method " Url="html/M_OpenIIoT_SDK_Manager_Stop.htm" />
+            <HelpTOCNode Title="Teardown Method " Url="html/M_OpenIIoT_SDK_Manager_Teardown.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="40f4807c-0848-46ea-acad-61f6ee5439fc" Title="Manager Events" Url="html/Events_T_OpenIIoT_SDK_Manager.htm">
+            <HelpTOCNode Title="StateChanged Event" Url="html/E_OpenIIoT_SDK_Manager_StateChanged.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="7e1b10fc-30e6-4fc5-91b5-6dca77972cd7" Title="Manager Fields" Url="html/Fields_T_OpenIIoT_SDK_Manager.htm">
+            <HelpTOCNode Title="dependencies Field" Url="html/F_OpenIIoT_SDK_Manager_dependencies.htm" />
+            <HelpTOCNode Title="logger Field" Url="html/F_OpenIIoT_SDK_Manager_logger.htm" />
+            <HelpTOCNode Title="restartTimer Field" Url="html/F_OpenIIoT_SDK_Manager_restartTimer.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="08794a55-0a68-49ec-8f28-9521c714c42a" Title="ManagerDependencyException Class" Url="html/T_OpenIIoT_SDK_ManagerDependencyException.htm">
+          <HelpTOCNode Id="92864f23-660e-447c-afbb-b7bbd6132086" Title="ManagerDependencyException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerDependencyException__ctor.htm">
+            <HelpTOCNode Title="ManagerDependencyException Constructor " Url="html/M_OpenIIoT_SDK_ManagerDependencyException__ctor.htm" />
+            <HelpTOCNode Title="ManagerDependencyException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerDependencyException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerDependencyException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerDependencyException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerDependencyException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerDependencyException.htm" />
+          <HelpTOCNode Title="ManagerDependencyException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerDependencyException.htm" />
+          <HelpTOCNode Title="ManagerDependencyException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerDependencyException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6aa71328-78a2-4441-8f33-0c18b4280acb" Title="ManagerException Class" Url="html/T_OpenIIoT_SDK_ManagerException.htm">
+          <HelpTOCNode Id="a8251d48-60d9-4bd1-a48d-72c78927762c" Title="ManagerException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerException__ctor.htm">
+            <HelpTOCNode Title="ManagerException Constructor " Url="html/M_OpenIIoT_SDK_ManagerException__ctor.htm" />
+            <HelpTOCNode Title="ManagerException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerException.htm" />
+          <HelpTOCNode Title="ManagerException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerException.htm" />
+          <HelpTOCNode Title="ManagerException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4a06d1d1-6625-4920-8d5f-7305d91db7fa" Title="ManagerInstantiationException Class" Url="html/T_OpenIIoT_SDK_ManagerInstantiationException.htm">
+          <HelpTOCNode Id="847ce07d-40b0-442f-8756-6351c53b436c" Title="ManagerInstantiationException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerInstantiationException__ctor.htm">
+            <HelpTOCNode Title="ManagerInstantiationException Constructor " Url="html/M_OpenIIoT_SDK_ManagerInstantiationException__ctor.htm" />
+            <HelpTOCNode Title="ManagerInstantiationException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerInstantiationException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerInstantiationException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerInstantiationException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerInstantiationException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
+          <HelpTOCNode Title="ManagerInstantiationException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
+          <HelpTOCNode Title="ManagerInstantiationException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="738254e7-dedd-4983-a52d-aaa263d5125e" Title="ManagerNotInitializedException Class" Url="html/T_OpenIIoT_SDK_ManagerNotInitializedException.htm">
+          <HelpTOCNode Id="15124180-951b-42b3-b672-43126049e76b" Title="ManagerNotInitializedException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerNotInitializedException__ctor.htm">
+            <HelpTOCNode Title="ManagerNotInitializedException Constructor " Url="html/M_OpenIIoT_SDK_ManagerNotInitializedException__ctor.htm" />
+            <HelpTOCNode Title="ManagerNotInitializedException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerNotInitializedException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerNotInitializedException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerNotInitializedException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerNotInitializedException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
+          <HelpTOCNode Title="ManagerNotInitializedException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
+          <HelpTOCNode Title="ManagerNotInitializedException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c9d618c9-7f11-4de9-8621-861630275c18" Title="ManagerRegistrationException Class" Url="html/T_OpenIIoT_SDK_ManagerRegistrationException.htm">
+          <HelpTOCNode Id="a188287a-dfe6-4de5-a5b1-bec698b72fb7" Title="ManagerRegistrationException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerRegistrationException__ctor.htm">
+            <HelpTOCNode Title="ManagerRegistrationException Constructor " Url="html/M_OpenIIoT_SDK_ManagerRegistrationException__ctor.htm" />
+            <HelpTOCNode Title="ManagerRegistrationException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerRegistrationException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerRegistrationException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerRegistrationException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerRegistrationException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
+          <HelpTOCNode Title="ManagerRegistrationException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
+          <HelpTOCNode Title="ManagerRegistrationException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="82164de4-4f18-44f4-bea0-d73d9efc9dcf" Title="ManagerSetupException Class" Url="html/T_OpenIIoT_SDK_ManagerSetupException.htm">
+          <HelpTOCNode Id="fc368047-f067-498e-8a25-c974ed179405" Title="ManagerSetupException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerSetupException__ctor.htm">
+            <HelpTOCNode Title="ManagerSetupException Constructor " Url="html/M_OpenIIoT_SDK_ManagerSetupException__ctor.htm" />
+            <HelpTOCNode Title="ManagerSetupException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerSetupException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerSetupException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerSetupException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerSetupException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerSetupException.htm" />
+          <HelpTOCNode Title="ManagerSetupException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerSetupException.htm" />
+          <HelpTOCNode Title="ManagerSetupException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerSetupException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8dce518e-def3-4d8f-b769-20c06599c683" Title="ManagerStartException Class" Url="html/T_OpenIIoT_SDK_ManagerStartException.htm">
+          <HelpTOCNode Id="61c18edc-6230-468d-ae99-81ebb9e8906b" Title="ManagerStartException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerStartException__ctor.htm">
+            <HelpTOCNode Title="ManagerStartException Constructor " Url="html/M_OpenIIoT_SDK_ManagerStartException__ctor.htm" />
+            <HelpTOCNode Title="ManagerStartException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerStartException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerStartException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerStartException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerStartException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerStartException.htm" />
+          <HelpTOCNode Title="ManagerStartException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerStartException.htm" />
+          <HelpTOCNode Title="ManagerStartException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerStartException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="27955e98-fdcf-45bd-9dad-accb7c82355b" Title="ManagerStopException Class" Url="html/T_OpenIIoT_SDK_ManagerStopException.htm">
+          <HelpTOCNode Id="afbb8b11-da50-430d-9860-75e69be72510" Title="ManagerStopException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerStopException__ctor.htm">
+            <HelpTOCNode Title="ManagerStopException Constructor " Url="html/M_OpenIIoT_SDK_ManagerStopException__ctor.htm" />
+            <HelpTOCNode Title="ManagerStopException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerStopException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerStopException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerStopException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerStopException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerStopException.htm" />
+          <HelpTOCNode Title="ManagerStopException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerStopException.htm" />
+          <HelpTOCNode Title="ManagerStopException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerStopException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7214b99e-59be-4398-ba4f-b500ef06edca" Title="ManagerTypeListException Class" Url="html/T_OpenIIoT_SDK_ManagerTypeListException.htm">
+          <HelpTOCNode Id="c51cb7a4-82f7-497f-828d-40920c303da5" Title="ManagerTypeListException Constructor " Url="html/Overload_OpenIIoT_SDK_ManagerTypeListException__ctor.htm">
+            <HelpTOCNode Title="ManagerTypeListException Constructor " Url="html/M_OpenIIoT_SDK_ManagerTypeListException__ctor.htm" />
+            <HelpTOCNode Title="ManagerTypeListException Constructor (String)" Url="html/M_OpenIIoT_SDK_ManagerTypeListException__ctor_1.htm" />
+            <HelpTOCNode Title="ManagerTypeListException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_ManagerTypeListException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ManagerTypeListException Properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerTypeListException.htm" />
+          <HelpTOCNode Title="ManagerTypeListException Methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerTypeListException.htm" />
+          <HelpTOCNode Title="ManagerTypeListException Events" Url="html/Events_T_OpenIIoT_SDK_ManagerTypeListException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="269fa1f7-5829-4864-8a73-39f3d04eb48b" Title="ProviderRegistry Class" Url="html/T_OpenIIoT_SDK_ProviderRegistry.htm">
+          <HelpTOCNode Title="ProviderRegistry Constructor " Url="html/M_OpenIIoT_SDK_ProviderRegistry__ctor.htm" />
+          <HelpTOCNode Id="f2230a10-ccce-4b64-9406-7a7197619040" Title="ProviderRegistry Properties" Url="html/Properties_T_OpenIIoT_SDK_ProviderRegistry.htm">
+            <HelpTOCNode Title="Providers Property " Url="html/P_OpenIIoT_SDK_ProviderRegistry_Providers.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="53bc3c32-0a9d-436e-aa5e-7c7cab266cbb" Title="ProviderRegistry Methods" Url="html/Methods_T_OpenIIoT_SDK_ProviderRegistry.htm">
+            <HelpTOCNode Id="1b0f54fb-8e2a-4cff-9168-beb1f81cce87" Title="Discover Method " Url="html/Overload_OpenIIoT_SDK_ProviderRegistry_Discover.htm">
+              <HelpTOCNode Title="Discover Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_Discover.htm" />
+              <HelpTOCNode Title="Discover(T) Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_Discover__1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="65d1c93c-8e58-49df-b9e2-dd21e0741e89" Title="FindItem Method " Url="html/Overload_OpenIIoT_SDK_ProviderRegistry_FindItem.htm">
+              <HelpTOCNode Title="FindItem Method (String)" Url="html/M_OpenIIoT_SDK_ProviderRegistry_FindItem.htm" />
+              <HelpTOCNode Title="FindItem Method (String, Boolean)" Url="html/M_OpenIIoT_SDK_ProviderRegistry_FindItem_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="GetProviders(T) Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_GetProviders__1.htm" />
+            <HelpTOCNode Title="IsRegistered Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_IsRegistered.htm" />
+            <HelpTOCNode Title="Register Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_Register.htm" />
+            <HelpTOCNode Title="UnRegister Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_UnRegister.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="b70b7ca7-d150-4a3d-8ccc-153f1759d9b9" Title="ProviderRegistry Fields" Url="html/Fields_T_OpenIIoT_SDK_ProviderRegistry.htm">
+            <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_SDK_ProviderRegistry_manager.htm" />
+            <HelpTOCNode Title="providers Field" Url="html/F_OpenIIoT_SDK_ProviderRegistry_providers.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="27b14358-d277-4ba0-bbf1-bafb1aaae3fc" Title="ProviderRegistry(T) Class" Url="html/T_OpenIIoT_SDK_ProviderRegistry_1.htm">
+          <HelpTOCNode Title="ProviderRegistry(T) Constructor " Url="html/M_OpenIIoT_SDK_ProviderRegistry_1__ctor.htm" />
+          <HelpTOCNode Id="4b1ac087-01d2-46c0-82b9-c58931aa9170" Title="ProviderRegistry(T) Properties" Url="html/Properties_T_OpenIIoT_SDK_ProviderRegistry_1.htm">
+            <HelpTOCNode Title="Providers Property " Url="html/P_OpenIIoT_SDK_ProviderRegistry_1_Providers.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="55f5654d-3f75-4487-bfbf-017366f39e9c" Title="ProviderRegistry(T) Methods" Url="html/Methods_T_OpenIIoT_SDK_ProviderRegistry_1.htm">
+            <HelpTOCNode Id="31ae87d7-4f9e-4161-9c5e-3f9f14d0851a" Title="Discover Method " Url="html/Overload_OpenIIoT_SDK_ProviderRegistry_1_Discover.htm">
+              <HelpTOCNode Title="Discover Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_1_Discover.htm" />
+              <HelpTOCNode Title="Discover(T) Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_1_Discover__1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IsRegistered Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_1_IsRegistered.htm" />
+            <HelpTOCNode Title="Register Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_1_Register.htm" />
+            <HelpTOCNode Title="UnRegister Method " Url="html/M_OpenIIoT_SDK_ProviderRegistry_1_UnRegister.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="781517dc-abc6-49fb-ae80-ade37b962557" Title="ProviderRegistry(T) Fields" Url="html/Fields_T_OpenIIoT_SDK_ProviderRegistry_1.htm">
+            <HelpTOCNode Title="manager Field" Url="html/F_OpenIIoT_SDK_ProviderRegistry_1_manager.htm" />
+            <HelpTOCNode Title="providers Field" Url="html/F_OpenIIoT_SDK_ProviderRegistry_1_providers.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Title="State Enumeration" Url="html/T_OpenIIoT_SDK_State.htm" />
+        <HelpTOCNode Id="752910b4-f3fb-4b39-bbfa-7a69e82ec658" Title="StateChangedEventArgs Class" Url="html/T_OpenIIoT_SDK_StateChangedEventArgs.htm">
+          <HelpTOCNode Title="StateChangedEventArgs Constructor " Url="html/M_OpenIIoT_SDK_StateChangedEventArgs__ctor.htm" />
+          <HelpTOCNode Id="4d63fc15-54d9-4526-b177-4b1042b8caf7" Title="StateChangedEventArgs Properties" Url="html/Properties_T_OpenIIoT_SDK_StateChangedEventArgs.htm">
+            <HelpTOCNode Title="Message Property " Url="html/P_OpenIIoT_SDK_StateChangedEventArgs_Message.htm" />
+            <HelpTOCNode Title="PreviousState Property " Url="html/P_OpenIIoT_SDK_StateChangedEventArgs_PreviousState.htm" />
+            <HelpTOCNode Title="State Property " Url="html/P_OpenIIoT_SDK_StateChangedEventArgs_State.htm" />
+            <HelpTOCNode Title="StopType Property " Url="html/P_OpenIIoT_SDK_StateChangedEventArgs_StopType.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="StateChangedEventArgs Methods" Url="html/Methods_T_OpenIIoT_SDK_StateChangedEventArgs.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="StopType Enumeration" Url="html/T_OpenIIoT_SDK_StopType.htm" />
+        <HelpTOCNode Id="1a2cf7df-d1b4-4df4-a3b4-46ed353b0a69" Title="Utility Class" Url="html/T_OpenIIoT_SDK_Utility.htm">
+          <HelpTOCNode Id="7180ed6d-adac-4015-a0a9-26983ea684a0" Title="Utility Methods" Url="html/Methods_T_OpenIIoT_SDK_Utility.htm">
+            <HelpTOCNode Title="Clone(T) Method " Url="html/M_OpenIIoT_SDK_Utility_Clone__1.htm" />
+            <HelpTOCNode Title="ComputeHash Method " Url="html/M_OpenIIoT_SDK_Utility_ComputeHash.htm" />
+            <HelpTOCNode Title="HasCustomAttribute(T) Method " Url="html/M_OpenIIoT_SDK_Utility_HasCustomAttribute__1.htm" />
+            <HelpTOCNode Title="ShortGuid Method " Url="html/M_OpenIIoT_SDK_Utility_ShortGuid.htm" />
+            <HelpTOCNode Title="SubArray(T) Method " Url="html/M_OpenIIoT_SDK_Utility_SubArray__1.htm" />
+            <HelpTOCNode Title="TakeLast(T) Method " Url="html/M_OpenIIoT_SDK_Utility_TakeLast__1.htm" />
+            <HelpTOCNode Title="WildcardToRegex Method " Url="html/M_OpenIIoT_SDK_Utility_WildcardToRegex.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="433e8df6-3183-4054-9798-d69b5a477f02" Title="OpenIIoT.SDK.Configuration" Url="html/N_OpenIIoT_SDK_Configuration.htm">
+        <HelpTOCNode Id="cd45141b-932e-45b6-9c3d-f69a6dd707c9" Title="ConfigurationDefinition Class" Url="html/T_OpenIIoT_SDK_Configuration_ConfigurationDefinition.htm">
+          <HelpTOCNode Id="28fad237-85a3-4c6a-8592-2dba60910994" Title="ConfigurationDefinition Constructor " Url="html/Overload_OpenIIoT_SDK_Configuration_ConfigurationDefinition__ctor.htm">
+            <HelpTOCNode Title="ConfigurationDefinition Constructor " Url="html/M_OpenIIoT_SDK_Configuration_ConfigurationDefinition__ctor.htm" />
+            <HelpTOCNode Title="ConfigurationDefinition Constructor (String, String, Type)" Url="html/M_OpenIIoT_SDK_Configuration_ConfigurationDefinition__ctor_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="bc20a7d5-a048-416a-9572-08e589f924f5" Title="ConfigurationDefinition Properties" Url="html/Properties_T_OpenIIoT_SDK_Configuration_ConfigurationDefinition.htm">
+            <HelpTOCNode Title="Form Property " Url="html/P_OpenIIoT_SDK_Configuration_ConfigurationDefinition_Form.htm" />
+            <HelpTOCNode Title="Model Property " Url="html/P_OpenIIoT_SDK_Configuration_ConfigurationDefinition_Model.htm" />
+            <HelpTOCNode Title="Schema Property " Url="html/P_OpenIIoT_SDK_Configuration_ConfigurationDefinition_Schema.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ConfigurationDefinition Methods" Url="html/Methods_T_OpenIIoT_SDK_Configuration_ConfigurationDefinition.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4190c93a-ec4d-4468-855e-9d1ebb185da8" Title="IConfigurable(T) Interface" Url="html/T_OpenIIoT_SDK_Configuration_IConfigurable_1.htm">
+          <HelpTOCNode Id="caaafa74-46a2-493c-a9d4-71fcb4d5326d" Title="IConfigurable(T) Properties" Url="html/Properties_T_OpenIIoT_SDK_Configuration_IConfigurable_1.htm">
+            <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_SDK_Configuration_IConfigurable_1_Configuration.htm" />
+            <HelpTOCNode Title="ConfigurationDefinition Property " Url="html/P_OpenIIoT_SDK_Configuration_IConfigurable_1_ConfigurationDefinition.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="41907470-9ac9-44ee-a4e9-c914f5c17a45" Title="IConfigurable(T) Methods" Url="html/Methods_T_OpenIIoT_SDK_Configuration_IConfigurable_1.htm">
+            <HelpTOCNode Id="79c99629-9691-414a-8f0d-0876a32edf19" Title="Configure Method " Url="html/Overload_OpenIIoT_SDK_Configuration_IConfigurable_1_Configure.htm">
+              <HelpTOCNode Title="Configure Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurable_1_Configure.htm" />
+              <HelpTOCNode Title="Configure Method (T)" Url="html/M_OpenIIoT_SDK_Configuration_IConfigurable_1_Configure_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurable_1_SaveConfiguration.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="0258fe7b-891d-41b5-9199-572bad21164d" Title="IConfigurationManager Interface" Url="html/T_OpenIIoT_SDK_Configuration_IConfigurationManager.htm">
+          <HelpTOCNode Id="1662df6b-3b7c-4527-8e65-198d1acb6d77" Title="IConfigurationManager Properties" Url="html/Properties_T_OpenIIoT_SDK_Configuration_IConfigurationManager.htm">
+            <HelpTOCNode Title="Configuration Property " Url="html/P_OpenIIoT_SDK_Configuration_IConfigurationManager_Configuration.htm" />
+            <HelpTOCNode Title="ConfigurationFileName Property " Url="html/P_OpenIIoT_SDK_Configuration_IConfigurationManager_ConfigurationFileName.htm" />
+            <HelpTOCNode Title="RegisteredTypes Property " Url="html/P_OpenIIoT_SDK_Configuration_IConfigurationManager_RegisteredTypes.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="21eeba90-f625-47e7-9d30-83128d44d17b" Title="IConfigurationManager Methods" Url="html/Methods_T_OpenIIoT_SDK_Configuration_IConfigurationManager.htm">
+            <HelpTOCNode Title="AddInstanceConfiguration(T) Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_AddInstanceConfiguration__1.htm" />
+            <HelpTOCNode Title="GetInstanceConfiguration(T) Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_GetInstanceConfiguration__1.htm" />
+            <HelpTOCNode Title="IsConfigurable Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_IsConfigurable.htm" />
+            <HelpTOCNode Title="IsConfigured Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_IsConfigured.htm" />
+            <HelpTOCNode Title="IsRegistered Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_IsRegistered.htm" />
+            <HelpTOCNode Title="RegisterType Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_RegisterType.htm" />
+            <HelpTOCNode Title="RegisterTypes Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_RegisterTypes.htm" />
+            <HelpTOCNode Title="RemoveInstanceConfiguration Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_RemoveInstanceConfiguration.htm" />
+            <HelpTOCNode Title="SaveConfiguration Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_SaveConfiguration.htm" />
+            <HelpTOCNode Title="UpdateInstanceConfiguration Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_UpdateInstanceConfiguration.htm" />
+            <HelpTOCNode Title="ValidateConfiguration Method " Url="html/M_OpenIIoT_SDK_Configuration_IConfigurationManager_ValidateConfiguration.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IConfigurationManager Events" Url="html/Events_T_OpenIIoT_SDK_Configuration_IConfigurationManager.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c0fb2d1b-2b03-4790-8273-8635c329b59b" Title="OpenIIoT.SDK.Event" Url="html/N_OpenIIoT_SDK_Event.htm">
+        <HelpTOCNode Id="7b4c6b50-c267-4fb1-9b03-d5b9af799b63" Title="IEventManager Interface" Url="html/T_OpenIIoT_SDK_Event_IEventManager.htm">
+          <HelpTOCNode Id="9992efde-5c0f-41db-ae1e-48c2a2722fbc" Title="IEventManager Properties" Url="html/Properties_T_OpenIIoT_SDK_Event_IEventManager.htm">
+            <HelpTOCNode Title="RegisteredEvents Property " Url="html/P_OpenIIoT_SDK_Event_IEventManager_RegisteredEvents.htm" />
+            <HelpTOCNode Title="RegisteredProviders Property " Url="html/P_OpenIIoT_SDK_Event_IEventManager_RegisteredProviders.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="7e7accf2-dfc6-4f41-89e7-7bbc49a7e525" Title="IEventManager Methods" Url="html/Methods_T_OpenIIoT_SDK_Event_IEventManager.htm">
+            <HelpTOCNode Title="RegisterProvider Method " Url="html/M_OpenIIoT_SDK_Event_IEventManager_RegisterProvider.htm" />
+            <HelpTOCNode Title="RegisterProviders Method " Url="html/M_OpenIIoT_SDK_Event_IEventManager_RegisterProviders.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IEventManager Events" Url="html/Events_T_OpenIIoT_SDK_Event_IEventManager.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="af4f5dd1-0444-43b3-b5b5-ba0c2a64ddf9" Title="OpenIIoT.SDK.Model" Url="html/N_OpenIIoT_SDK_Model.htm">
+        <HelpTOCNode Id="cd6ed94c-47e9-49e2-b26c-6a0ee14e2808" Title="IModelManager Interface" Url="html/T_OpenIIoT_SDK_Model_IModelManager.htm">
+          <HelpTOCNode Id="8596d733-c12a-4dbe-965a-3b6cf918db13" Title="IModelManager Properties" Url="html/Properties_T_OpenIIoT_SDK_Model_IModelManager.htm">
+            <HelpTOCNode Title="Dictionary Property " Url="html/P_OpenIIoT_SDK_Model_IModelManager_Dictionary.htm" />
+            <HelpTOCNode Title="ItemProviders Property " Url="html/P_OpenIIoT_SDK_Model_IModelManager_ItemProviders.htm" />
+            <HelpTOCNode Title="Model Property " Url="html/P_OpenIIoT_SDK_Model_IModelManager_Model.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="7d5d43ef-1456-414b-9c6d-fa74747ea6c3" Title="IModelManager Methods" Url="html/Methods_T_OpenIIoT_SDK_Model_IModelManager.htm">
+            <HelpTOCNode Title="AddItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_AddItem.htm" />
+            <HelpTOCNode Title="AttachItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_AttachItem.htm" />
+            <HelpTOCNode Title="CopyItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_CopyItem.htm" />
+            <HelpTOCNode Title="DeRegisterItemProvider Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_DeRegisterItemProvider.htm" />
+            <HelpTOCNode Title="DiscoverItemProviders Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_DiscoverItemProviders.htm" />
+            <HelpTOCNode Title="FindItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_FindItem.htm" />
+            <HelpTOCNode Title="MoveItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_MoveItem.htm" />
+            <HelpTOCNode Title="RegisterItemProvider Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_RegisterItemProvider.htm" />
+            <HelpTOCNode Title="RemoveItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_RemoveItem.htm" />
+            <HelpTOCNode Title="UpdateItem Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_UpdateItem.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IModelManager Events" Url="html/Events_T_OpenIIoT_SDK_Model_IModelManager.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba291b2f-b02f-4e87-8c4d-beb9415fd57c" Title="OpenIIoT.SDK.Platform" Url="html/N_OpenIIoT_SDK_Platform.htm">
+        <HelpTOCNode Id="e63dcc8d-bdf3-422c-8014-9fdd8b1f5cb8" Title="DirectoryConfigurationException Class" Url="html/T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm">
+          <HelpTOCNode Id="67a29525-23ff-412a-9884-eacc03c67929" Title="DirectoryConfigurationException Constructor " Url="html/Overload_OpenIIoT_SDK_Platform_DirectoryConfigurationException__ctor.htm">
+            <HelpTOCNode Title="DirectoryConfigurationException Constructor " Url="html/M_OpenIIoT_SDK_Platform_DirectoryConfigurationException__ctor.htm" />
+            <HelpTOCNode Title="DirectoryConfigurationException Constructor (String)" Url="html/M_OpenIIoT_SDK_Platform_DirectoryConfigurationException__ctor_1.htm" />
+            <HelpTOCNode Title="DirectoryConfigurationException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_Platform_DirectoryConfigurationException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="DirectoryConfigurationException Properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
+          <HelpTOCNode Title="DirectoryConfigurationException Methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
+          <HelpTOCNode Title="DirectoryConfigurationException Events" Url="html/Events_T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4e1862e3-d0b6-4f5e-a7ac-c5cab4573d31" Title="IPlatform Interface" Url="html/T_OpenIIoT_SDK_Platform_IPlatform.htm">
+          <HelpTOCNode Id="3abcba70-496a-4fbe-b09c-0d04b51afa08" Title="IPlatform Properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_IPlatform.htm">
+            <HelpTOCNode Title="ItemProvider Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatform_ItemProvider.htm" />
+            <HelpTOCNode Title="PlatformType Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatform_PlatformType.htm" />
+            <HelpTOCNode Title="Version Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatform_Version.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="21b91966-ace8-4f87-a48d-7eb48ce494bd" Title="IPlatform Methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_IPlatform.htm">
+            <HelpTOCNode Title="ClearDirectory Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ClearDirectory.htm" />
+            <HelpTOCNode Title="ComputeFileChecksum Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ComputeFileChecksum.htm" />
+            <HelpTOCNode Title="CreateDirectory Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_CreateDirectory.htm" />
+            <HelpTOCNode Title="CreateZip Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_CreateZip.htm" />
+            <HelpTOCNode Title="DeleteDirectory Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_DeleteDirectory.htm" />
+            <HelpTOCNode Title="DeleteFile Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_DeleteFile.htm" />
+            <HelpTOCNode Title="DirectoryExists Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_DirectoryExists.htm" />
+            <HelpTOCNode Title="ExtractZip Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ExtractZip.htm" />
+            <HelpTOCNode Title="ExtractZipFile Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ExtractZipFile.htm" />
+            <HelpTOCNode Title="FileExists Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_FileExists.htm" />
+            <HelpTOCNode Title="ListDirectories Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ListDirectories.htm" />
+            <HelpTOCNode Title="ListFiles Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ListFiles.htm" />
+            <HelpTOCNode Title="ListZipFiles Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ListZipFiles.htm" />
+            <HelpTOCNode Title="ReadFile Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ReadFile.htm" />
+            <HelpTOCNode Title="ReadFileLines Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_ReadFileLines.htm" />
+            <HelpTOCNode Title="WriteFile Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_WriteFile.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="8859d6ee-ff7c-41bd-b28f-4f95e6683535" Title="IPlatformDirectories Interface" Url="html/T_OpenIIoT_SDK_Platform_IPlatformDirectories.htm">
+          <HelpTOCNode Id="3d2222f9-9c96-49f4-93ac-b5de7000791c" Title="IPlatformDirectories Properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_IPlatformDirectories.htm">
+            <HelpTOCNode Title="Archives Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Archives.htm" />
+            <HelpTOCNode Title="Data Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Data.htm" />
+            <HelpTOCNode Title="Logs Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Logs.htm" />
+            <HelpTOCNode Title="Persistence Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Persistence.htm" />
+            <HelpTOCNode Title="Plugins Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Plugins.htm" />
+            <HelpTOCNode Title="Root Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Root.htm" />
+            <HelpTOCNode Title="Temp Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Temp.htm" />
+            <HelpTOCNode Title="Web Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Web.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="be2f9e49-2789-4525-8bce-105d34c76403" Title="IPlatformDirectories Methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_IPlatformDirectories.htm">
+            <HelpTOCNode Title="ToDictionary Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatformDirectories_ToDictionary.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="269149b4-198b-4c94-b60b-8c9020903e91" Title="IPlatformManager Interface" Url="html/T_OpenIIoT_SDK_Platform_IPlatformManager.htm">
+          <HelpTOCNode Id="4da00075-33e9-45da-a161-c2e3072c2a53" Title="IPlatformManager Properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_IPlatformManager.htm">
+            <HelpTOCNode Title="Directories Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformManager_Directories.htm" />
+            <HelpTOCNode Title="Platform Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformManager_Platform.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="IPlatformManager Methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_IPlatformManager.htm" />
+          <HelpTOCNode Title="IPlatformManager Events" Url="html/Events_T_OpenIIoT_SDK_Platform_IPlatformManager.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ad8aa01e-07a2-4ba8-b5c2-8645dd7d1ae3" Title="PlatformException Class" Url="html/T_OpenIIoT_SDK_Platform_PlatformException.htm">
+          <HelpTOCNode Id="600e5225-8ce1-40d0-98a2-3d0675262227" Title="PlatformException Constructor " Url="html/Overload_OpenIIoT_SDK_Platform_PlatformException__ctor.htm">
+            <HelpTOCNode Title="PlatformException Constructor " Url="html/M_OpenIIoT_SDK_Platform_PlatformException__ctor.htm" />
+            <HelpTOCNode Title="PlatformException Constructor (String)" Url="html/M_OpenIIoT_SDK_Platform_PlatformException__ctor_1.htm" />
+            <HelpTOCNode Title="PlatformException Constructor (String, Exception)" Url="html/M_OpenIIoT_SDK_Platform_PlatformException__ctor_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="PlatformException Properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_PlatformException.htm" />
+          <HelpTOCNode Title="PlatformException Methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_PlatformException.htm" />
+          <HelpTOCNode Title="PlatformException Events" Url="html/Events_T_OpenIIoT_SDK_Platform_PlatformException.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="PlatformType Enumeration" Url="html/T_OpenIIoT_SDK_Platform_PlatformType.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="85236334-61c7-49de-a38a-c924e31cc970" Title="OpenIIoT.SDK.Plugin Namespaces" Url="html/G_OpenIIoT_SDK_Plugin.htm">
+        <HelpTOCNode Id="bddbe175-466d-4ab7-9869-8c15d5a61012" Title="OpenIIoT.SDK.Plugin" Url="html/N_OpenIIoT_SDK_Plugin.htm">
+          <HelpTOCNode Id="6995df74-df1d-458f-9a9b-4094dc96268c" Title="IPlugin Interface" Url="html/T_OpenIIoT_SDK_Plugin_IPlugin.htm">
+            <HelpTOCNode Id="31ba6b15-bec8-4be9-86b2-d487e8badb6e" Title="IPlugin Properties" Url="html/Properties_T_OpenIIoT_SDK_Plugin_IPlugin.htm">
+              <HelpTOCNode Title="Fingerprint Property " Url="html/P_OpenIIoT_SDK_Plugin_IPlugin_Fingerprint.htm" />
+              <HelpTOCNode Title="FQN Property " Url="html/P_OpenIIoT_SDK_Plugin_IPlugin_FQN.htm" />
+              <HelpTOCNode Title="Name Property " Url="html/P_OpenIIoT_SDK_Plugin_IPlugin_Name.htm" />
+              <HelpTOCNode Title="PluginType Property " Url="html/P_OpenIIoT_SDK_Plugin_IPlugin_PluginType.htm" />
+              <HelpTOCNode Title="Version Property " Url="html/P_OpenIIoT_SDK_Plugin_IPlugin_Version.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="e726331e-9b0a-44ba-9bbf-7acae5ade148" Title="IPlugin Methods" Url="html/Methods_T_OpenIIoT_SDK_Plugin_IPlugin.htm">
+              <HelpTOCNode Title="SetFingerprint Method " Url="html/M_OpenIIoT_SDK_Plugin_IPlugin_SetFingerprint.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="4208c35e-b26d-4e87-9ebf-8f881349b7dd" Title="IPluginAssembly Interface" Url="html/T_OpenIIoT_SDK_Plugin_IPluginAssembly.htm">
+            <HelpTOCNode Id="765d7828-be21-4238-8926-067c5bdf4413" Title="IPluginAssembly Properties" Url="html/Properties_T_OpenIIoT_SDK_Plugin_IPluginAssembly.htm">
+              <HelpTOCNode Title="Assembly Property " Url="html/P_OpenIIoT_SDK_Plugin_IPluginAssembly_Assembly.htm" />
+              <HelpTOCNode Title="Type Property " Url="html/P_OpenIIoT_SDK_Plugin_IPluginAssembly_Type.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IPluginAssembly Methods" Url="html/Methods_T_OpenIIoT_SDK_Plugin_IPluginAssembly.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="b7590edf-3047-4864-aa32-e2d5d54b8946" Title="IPluginInstance Interface" Url="html/T_OpenIIoT_SDK_Plugin_IPluginInstance.htm">
+            <HelpTOCNode Id="244c5ac6-9e70-41f7-854c-b3b819b6a8af" Title="IPluginInstance Properties" Url="html/Properties_T_OpenIIoT_SDK_Plugin_IPluginInstance.htm">
+              <HelpTOCNode Title="InstanceName Property " Url="html/P_OpenIIoT_SDK_Plugin_IPluginInstance_InstanceName.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="IPluginInstance Methods" Url="html/Methods_T_OpenIIoT_SDK_Plugin_IPluginInstance.htm" />
+            <HelpTOCNode Title="IPluginInstance Events" Url="html/Events_T_OpenIIoT_SDK_Plugin_IPluginInstance.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="PluginType Enumeration" Url="html/T_OpenIIoT_SDK_Plugin_PluginType.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f086ed24-9e6d-4493-9fcc-df384baf2038" Title="OpenIIoT.SDK.Plugin.Connector" Url="html/N_OpenIIoT_SDK_Plugin_Connector.htm">
+          <HelpTOCNode Id="1412c4d0-1f0d-45d6-bd9a-28df527ee0f9" Title="ConnectorAttribute Class" Url="html/T_OpenIIoT_SDK_Plugin_Connector_ConnectorAttribute.htm">
+            <HelpTOCNode Title="ConnectorAttribute Constructor " Url="html/M_OpenIIoT_SDK_Plugin_Connector_ConnectorAttribute__ctor.htm" />
+            <HelpTOCNode Id="045d8d05-594e-4337-94c4-f1683d2f3b8b" Title="ConnectorAttribute Properties" Url="html/Properties_T_OpenIIoT_SDK_Plugin_Connector_ConnectorAttribute.htm">
+              <HelpTOCNode Title="Type Property " Url="html/P_OpenIIoT_SDK_Plugin_Connector_ConnectorAttribute_Type.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="ConnectorAttribute Methods" Url="html/Methods_T_OpenIIoT_SDK_Plugin_Connector_ConnectorAttribute.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ConnectorType Enumeration" Url="html/T_OpenIIoT_SDK_Plugin_Connector_ConnectorType.htm" />
+          <HelpTOCNode Id="da1f8c09-1b96-48a5-af30-4031bab6359a" Title="IConnector Interface" Url="html/T_OpenIIoT_SDK_Plugin_Connector_IConnector.htm">
+            <HelpTOCNode Title="IConnector Properties" Url="html/Properties_T_OpenIIoT_SDK_Plugin_Connector_IConnector.htm" />
+            <HelpTOCNode Title="IConnector Methods" Url="html/Methods_T_OpenIIoT_SDK_Plugin_Connector_IConnector.htm" />
+            <HelpTOCNode Title="IConnector Events" Url="html/Events_T_OpenIIoT_SDK_Plugin_Connector_IConnector.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
