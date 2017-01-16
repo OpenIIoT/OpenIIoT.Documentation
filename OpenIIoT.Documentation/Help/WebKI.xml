@@ -48,23 +48,23 @@
   <HelpKINode Title="ApiResult&lt;T&gt;.StatusCode property" Url="html/P_OpenIIoT_Core_Service_Web_ApiResult_1_StatusCode.htm" />
   <HelpKINode Title="App enumeration member" Url="html/T_OpenIIoT_SDK_Plugin_PluginType.htm" />
   <HelpKINode Title="ApplicationArgumentException class">
-    <HelpKINode Title="ApplicationArgumentException Class" Url="html/T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
-    <HelpKINode Title="about ApplicationArgumentException class" Url="html/T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationArgumentException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
+    <HelpKINode Title="ApplicationArgumentException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationArgumentException.htm" />
+    <HelpKINode Title="about ApplicationArgumentException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationArgumentException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationArgumentException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationArgumentException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationArgumentException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationArgumentException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationArgumentException.ApplicationArgumentException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationArgumentException__ctor.htm" />
+  <HelpKINode Title="ApplicationArgumentException.ApplicationArgumentException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationArgumentException__ctor.htm" />
   <HelpKINode Title="ApplicationInitializationException class">
-    <HelpKINode Title="ApplicationInitializationException Class" Url="html/T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
-    <HelpKINode Title="about ApplicationInitializationException class" Url="html/T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationInitializationException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
+    <HelpKINode Title="ApplicationInitializationException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationInitializationException.htm" />
+    <HelpKINode Title="about ApplicationInitializationException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationInitializationException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationInitializationException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationInitializationException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationInitializationException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationInitializationException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationInitializationException.ApplicationInitializationException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationInitializationException__ctor.htm" />
+  <HelpKINode Title="ApplicationInitializationException.ApplicationInitializationException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationInitializationException__ctor.htm" />
   <HelpKINode Title="ApplicationManager class">
     <HelpKINode Title="ApplicationManager Class" Url="html/T_OpenIIoT_Core_ApplicationManager.htm" />
     <HelpKINode Title="about ApplicationManager class" Url="html/T_OpenIIoT_Core_ApplicationManager.htm" />
@@ -77,8 +77,8 @@
   </HelpKINode>
   <HelpKINode Title="applicationManager field" Url="html/F_OpenIIoT_Core_Program_applicationManager.htm" />
   <HelpKINode Title="ApplicationManager.ApplicationManager constructor">
-    <HelpKINode Title="ApplicationManager Constructor " Url="html/M_OpenIIoT_Core_ApplicationManager__cctor.htm" />
     <HelpKINode Title="ApplicationManager Constructor " Url="html/M_OpenIIoT_Core_ApplicationManager__ctor.htm" />
+    <HelpKINode Title="ApplicationManager Constructor " Url="html/M_OpenIIoT_Core_ApplicationManager__cctor.htm" />
   </HelpKINode>
   <HelpKINode Title="ApplicationManager.GetInstance method" Url="html/M_OpenIIoT_Core_ApplicationManager_GetInstance.htm" />
   <HelpKINode Title="ApplicationManager.GetInstanceName method" Url="html/M_OpenIIoT_Core_ApplicationManager_GetInstanceName.htm" />
@@ -117,50 +117,50 @@
   <HelpKINode Title="ApplicationManager.StopManagers method" Url="html/M_OpenIIoT_Core_ApplicationManager_StopManagers.htm" />
   <HelpKINode Title="ApplicationManager.Terminate method" Url="html/M_OpenIIoT_Core_ApplicationManager_Terminate.htm" />
   <HelpKINode Title="ApplicationManagerException class">
-    <HelpKINode Title="ApplicationManagerException Class" Url="html/T_OpenIIoT_SDK_ApplicationManagerException.htm" />
-    <HelpKINode Title="about ApplicationManagerException class" Url="html/T_OpenIIoT_SDK_ApplicationManagerException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationManagerException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationManagerException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationManagerException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationManagerException.htm" />
+    <HelpKINode Title="ApplicationManagerException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationManagerException.htm" />
+    <HelpKINode Title="about ApplicationManagerException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationManagerException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationManagerException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationManagerException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationManagerException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationManagerException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationManagerException.ApplicationManagerException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationManagerException__ctor.htm" />
+  <HelpKINode Title="ApplicationManagerException.ApplicationManagerException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationManagerException__ctor.htm" />
   <HelpKINode Title="ApplicationShutdownRoutineException class">
-    <HelpKINode Title="ApplicationShutdownRoutineException Class" Url="html/T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
-    <HelpKINode Title="about ApplicationShutdownRoutineException class" Url="html/T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationShutdownRoutineException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
+    <HelpKINode Title="ApplicationShutdownRoutineException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException.htm" />
+    <HelpKINode Title="about ApplicationShutdownRoutineException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationShutdownRoutineException.ApplicationShutdownRoutineException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationShutdownRoutineException__ctor.htm" />
+  <HelpKINode Title="ApplicationShutdownRoutineException.ApplicationShutdownRoutineException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException__ctor.htm" />
   <HelpKINode Title="ApplicationStartException class">
-    <HelpKINode Title="ApplicationStartException Class" Url="html/T_OpenIIoT_SDK_ApplicationStartException.htm" />
-    <HelpKINode Title="about ApplicationStartException class" Url="html/T_OpenIIoT_SDK_ApplicationStartException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationStartException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationStartException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationStartException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationStartException.htm" />
+    <HelpKINode Title="ApplicationStartException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStartException.htm" />
+    <HelpKINode Title="about ApplicationStartException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStartException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationStartException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationStartException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationStartException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationStartException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationStartException.ApplicationStartException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationStartException__ctor.htm" />
+  <HelpKINode Title="ApplicationStartException.ApplicationStartException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationStartException__ctor.htm" />
   <HelpKINode Title="ApplicationStartupRoutineException class">
-    <HelpKINode Title="ApplicationStartupRoutineException Class" Url="html/T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
-    <HelpKINode Title="about ApplicationStartupRoutineException class" Url="html/T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationStartupRoutineException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
+    <HelpKINode Title="ApplicationStartupRoutineException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException.htm" />
+    <HelpKINode Title="about ApplicationStartupRoutineException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationStartupRoutineException.ApplicationStartupRoutineException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationStartupRoutineException__ctor.htm" />
+  <HelpKINode Title="ApplicationStartupRoutineException.ApplicationStartupRoutineException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException__ctor.htm" />
   <HelpKINode Title="ApplicationStopException class">
-    <HelpKINode Title="ApplicationStopException Class" Url="html/T_OpenIIoT_SDK_ApplicationStopException.htm" />
-    <HelpKINode Title="about ApplicationStopException class" Url="html/T_OpenIIoT_SDK_ApplicationStopException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationStopException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ApplicationStopException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ApplicationStopException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ApplicationStopException.htm" />
+    <HelpKINode Title="ApplicationStopException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStopException.htm" />
+    <HelpKINode Title="about ApplicationStopException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStopException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationStopException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ApplicationStopException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ApplicationStopException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ApplicationStopException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ApplicationStopException.ApplicationStopException constructor" Url="html/Overload_OpenIIoT_SDK_ApplicationStopException__ctor.htm" />
+  <HelpKINode Title="ApplicationStopException.ApplicationStopException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ApplicationStopException__ctor.htm" />
   <HelpKINode Title="Archives property">
     <HelpKINode Title="IPlatformDirectories.Archives Property " Url="html/P_OpenIIoT_SDK_Platform_IPlatformDirectories_Archives.htm" />
     <HelpKINode Title="PlatformDirectories.Archives Property " Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Archives.htm" />
@@ -201,8 +201,8 @@
   </HelpKINode>
   <HelpKINode Title="BrowseController.Browse method" Url="html/Overload_OpenIIoT_Core_Service_Web_API_BrowseController_Browse.htm" />
   <HelpKINode Title="BrowseController.BrowseController constructor">
-    <HelpKINode Title="BrowseController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController__ctor.htm" />
     <HelpKINode Title="BrowseController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController__cctor.htm" />
+    <HelpKINode Title="BrowseController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_BrowseController__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="BrowseController.conciseSerializationProperties field" Url="html/F_OpenIIoT_Core_Service_Web_API_BrowseController_conciseSerializationProperties.htm" />
   <HelpKINode Title="BrowseController.JsonFormatter method" Url="html/Overload_OpenIIoT_Core_Service_Web_API_BrowseController_JsonFormatter.htm" />
@@ -297,8 +297,8 @@
   <HelpKINode Title="ConfigurationManager class">
     <HelpKINode Title="ConfigurationManager Class" Url="html/T_OpenIIoT_Core_Configuration_ConfigurationManager.htm" />
     <HelpKINode Title="about ConfigurationManager class" Url="html/T_OpenIIoT_Core_Configuration_ConfigurationManager.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Configuration_ConfigurationManager__cctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Configuration_ConfigurationManager.htm" />
@@ -410,14 +410,14 @@
   <HelpKINode Title="Dependency(Of T) method" Url="html/M_OpenIIoT_SDK_Manager_Dependency__1.htm" />
   <HelpKINode Title="Dependency&lt;T&gt; method" Url="html/M_OpenIIoT_SDK_Manager_Dependency__1.htm" />
   <HelpKINode Title="DependencyNotResolvedException class">
-    <HelpKINode Title="DependencyNotResolvedException Class" Url="html/T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
-    <HelpKINode Title="about DependencyNotResolvedException class" Url="html/T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_DependencyNotResolvedException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
+    <HelpKINode Title="DependencyNotResolvedException Class" Url="html/T_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException.htm" />
+    <HelpKINode Title="about DependencyNotResolvedException class" Url="html/T_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException.htm" />
   </HelpKINode>
-  <HelpKINode Title="DependencyNotResolvedException.DependencyNotResolvedException constructor" Url="html/Overload_OpenIIoT_SDK_DependencyNotResolvedException__ctor.htm" />
+  <HelpKINode Title="DependencyNotResolvedException.DependencyNotResolvedException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException__ctor.htm" />
   <HelpKINode Title="DependencyStateChanged method" Url="html/M_OpenIIoT_SDK_Manager_DependencyStateChanged.htm" />
   <HelpKINode Title="DeRegisterItemProvider method">
     <HelpKINode Title="IModelManager.DeRegisterItemProvider Method " Url="html/M_OpenIIoT_SDK_Model_IModelManager_DeRegisterItemProvider.htm" />
@@ -434,14 +434,14 @@
     <HelpKINode Title="PlatformManager.Directories Property " Url="html/P_OpenIIoT_Core_Platform_PlatformManager_Directories.htm" />
   </HelpKINode>
   <HelpKINode Title="DirectoryConfigurationException class">
-    <HelpKINode Title="DirectoryConfigurationException Class" Url="html/T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
-    <HelpKINode Title="about DirectoryConfigurationException class" Url="html/T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Platform_DirectoryConfigurationException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
+    <HelpKINode Title="DirectoryConfigurationException Class" Url="html/T_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException.htm" />
+    <HelpKINode Title="about DirectoryConfigurationException class" Url="html/T_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException.htm" />
   </HelpKINode>
-  <HelpKINode Title="DirectoryConfigurationException.DirectoryConfigurationException constructor" Url="html/Overload_OpenIIoT_SDK_Platform_DirectoryConfigurationException__ctor.htm" />
+  <HelpKINode Title="DirectoryConfigurationException.DirectoryConfigurationException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException__ctor.htm" />
   <HelpKINode Title="DirectoryExists method">
     <HelpKINode Title="IPlatform.DirectoryExists Method " Url="html/M_OpenIIoT_SDK_Platform_IPlatform_DirectoryExists.htm" />
     <HelpKINode Title="Platform.DirectoryExists Method " Url="html/M_OpenIIoT_Core_Platform_Platform_DirectoryExists.htm" />
@@ -505,8 +505,8 @@
   <HelpKINode Title="EventManager.ConfigurationDefinition property" Url="html/P_OpenIIoT_Core_Event_EventManager_ConfigurationDefinition.htm" />
   <HelpKINode Title="EventManager.Configure method" Url="html/Overload_OpenIIoT_Core_Event_EventManager_Configure.htm" />
   <HelpKINode Title="EventManager.EventManager constructor">
-    <HelpKINode Title="EventManager Constructor " Url="html/M_OpenIIoT_Core_Event_EventManager__cctor.htm" />
     <HelpKINode Title="EventManager Constructor " Url="html/M_OpenIIoT_Core_Event_EventManager__ctor.htm" />
+    <HelpKINode Title="EventManager Constructor " Url="html/M_OpenIIoT_Core_Event_EventManager__cctor.htm" />
   </HelpKINode>
   <HelpKINode Title="EventManager.GetConfigurationDefinition method" Url="html/M_OpenIIoT_Core_Event_EventManager_GetConfigurationDefinition.htm" />
   <HelpKINode Title="EventManager.GetDefaultConfiguration method" Url="html/M_OpenIIoT_Core_Event_EventManager_GetDefaultConfiguration.htm" />
@@ -1164,8 +1164,8 @@
   <HelpKINode Title="ItemHub class">
     <HelpKINode Title="ItemHub Class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm" />
     <HelpKINode Title="about ItemHub class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__cctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_SignalR_ItemHub.htm" />
@@ -1173,8 +1173,8 @@
   <HelpKINode Title="ItemHub.GetLogPrefix method" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub_GetLogPrefix.htm" />
   <HelpKINode Title="ItemHub.hubManager field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_ItemHub_hubManager.htm" />
   <HelpKINode Title="ItemHub.ItemHub constructor">
-    <HelpKINode Title="ItemHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__cctor.htm" />
     <HelpKINode Title="ItemHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__ctor.htm" />
+    <HelpKINode Title="ItemHub Constructor " Url="html/M_OpenIIoT_Core_Service_Web_SignalR_ItemHub__cctor.htm" />
   </HelpKINode>
   <HelpKINode Title="ItemHub.logger field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_ItemHub_logger.htm" />
   <HelpKINode Title="ItemHub.manager field" Url="html/F_OpenIIoT_Core_Service_Web_SignalR_ItemHub_manager.htm" />
@@ -1273,8 +1273,8 @@
   <HelpKINode Title="LogController class">
     <HelpKINode Title="LogController Class" Url="html/T_OpenIIoT_Core_Service_Web_API_LogController.htm" />
     <HelpKINode Title="about LogController class" Url="html/T_OpenIIoT_Core_Service_Web_API_LogController.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_API_LogController.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_API_LogController.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_API_LogController.htm" />
@@ -1282,8 +1282,8 @@
   <HelpKINode Title="LogController.GetLog method" Url="html/M_OpenIIoT_Core_Service_Web_API_LogController_GetLog.htm" />
   <HelpKINode Title="LogController.JsonFormatter method" Url="html/M_OpenIIoT_Core_Service_Web_API_LogController_JsonFormatter.htm" />
   <HelpKINode Title="LogController.LogController constructor">
-    <HelpKINode Title="LogController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__ctor.htm" />
     <HelpKINode Title="LogController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__cctor.htm" />
+    <HelpKINode Title="LogController Constructor " Url="html/M_OpenIIoT_Core_Service_Web_API_LogController__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="LogController.logger field" Url="html/F_OpenIIoT_Core_Service_Web_API_LogController_logger.htm" />
   <HelpKINode Title="LogController.manager field" Url="html/F_OpenIIoT_Core_Service_Web_API_LogController_manager.htm" />
@@ -1314,8 +1314,8 @@
   <HelpKINode Title="LogHub class">
     <HelpKINode Title="LogHub Class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm" />
     <HelpKINode Title="about LogHub class" Url="html/T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub__cctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_Web_SignalR_LogHub__cctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_Core_Service_Web_SignalR_LogHub.htm" />
@@ -1396,97 +1396,97 @@
   <HelpKINode Title="Manager.Teardown method" Url="html/M_OpenIIoT_SDK_Manager_Teardown.htm" />
   <HelpKINode Title="ManagerDependencies property" Url="html/P_OpenIIoT_Core_ApplicationManager_ManagerDependencies.htm" />
   <HelpKINode Title="ManagerDependencyException class">
-    <HelpKINode Title="ManagerDependencyException Class" Url="html/T_OpenIIoT_SDK_ManagerDependencyException.htm" />
-    <HelpKINode Title="about ManagerDependencyException class" Url="html/T_OpenIIoT_SDK_ManagerDependencyException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerDependencyException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerDependencyException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerDependencyException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerDependencyException.htm" />
+    <HelpKINode Title="ManagerDependencyException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerDependencyException.htm" />
+    <HelpKINode Title="about ManagerDependencyException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerDependencyException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerDependencyException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerDependencyException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerDependencyException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerDependencyException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerDependencyException.ManagerDependencyException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerDependencyException__ctor.htm" />
+  <HelpKINode Title="ManagerDependencyException.ManagerDependencyException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerDependencyException__ctor.htm" />
   <HelpKINode Title="ManagerException class">
-    <HelpKINode Title="ManagerException Class" Url="html/T_OpenIIoT_SDK_ManagerException.htm" />
-    <HelpKINode Title="about ManagerException class" Url="html/T_OpenIIoT_SDK_ManagerException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerException.htm" />
+    <HelpKINode Title="ManagerException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerException.htm" />
+    <HelpKINode Title="about ManagerException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerException.ManagerException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerException__ctor.htm" />
+  <HelpKINode Title="ManagerException.ManagerException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerException__ctor.htm" />
   <HelpKINode Title="ManagerInstances property" Url="html/P_OpenIIoT_Core_ApplicationManager_ManagerInstances.htm" />
   <HelpKINode Title="ManagerInstantiationException class">
-    <HelpKINode Title="ManagerInstantiationException Class" Url="html/T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
-    <HelpKINode Title="about ManagerInstantiationException class" Url="html/T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerInstantiationException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
+    <HelpKINode Title="ManagerInstantiationException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerInstantiationException.htm" />
+    <HelpKINode Title="about ManagerInstantiationException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerInstantiationException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerInstantiationException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerInstantiationException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerInstantiationException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerInstantiationException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerInstantiationException.ManagerInstantiationException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerInstantiationException__ctor.htm" />
+  <HelpKINode Title="ManagerInstantiationException.ManagerInstantiationException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerInstantiationException__ctor.htm" />
   <HelpKINode Title="ManagerName property">
     <HelpKINode Title="IManager.ManagerName Property " Url="html/P_OpenIIoT_SDK_IManager_ManagerName.htm" />
     <HelpKINode Title="Manager.ManagerName Property " Url="html/P_OpenIIoT_SDK_Manager_ManagerName.htm" />
   </HelpKINode>
   <HelpKINode Title="ManagerNotInitializedException class">
-    <HelpKINode Title="ManagerNotInitializedException Class" Url="html/T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
-    <HelpKINode Title="about ManagerNotInitializedException class" Url="html/T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerNotInitializedException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
+    <HelpKINode Title="ManagerNotInitializedException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException.htm" />
+    <HelpKINode Title="about ManagerNotInitializedException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerNotInitializedException.ManagerNotInitializedException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerNotInitializedException__ctor.htm" />
+  <HelpKINode Title="ManagerNotInitializedException.ManagerNotInitializedException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException__ctor.htm" />
   <HelpKINode Title="ManagerRegistrationException class">
-    <HelpKINode Title="ManagerRegistrationException Class" Url="html/T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
-    <HelpKINode Title="about ManagerRegistrationException class" Url="html/T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerRegistrationException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
+    <HelpKINode Title="ManagerRegistrationException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerRegistrationException.htm" />
+    <HelpKINode Title="about ManagerRegistrationException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerRegistrationException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerRegistrationException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerRegistrationException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerRegistrationException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerRegistrationException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerRegistrationException.ManagerRegistrationException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerRegistrationException__ctor.htm" />
+  <HelpKINode Title="ManagerRegistrationException.ManagerRegistrationException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerRegistrationException__ctor.htm" />
   <HelpKINode Title="managers field" Url="html/F_OpenIIoT_Core_Program_managers.htm" />
   <HelpKINode Title="Managers property">
     <HelpKINode Title="ApplicationManager.Managers Property " Url="html/P_OpenIIoT_Core_ApplicationManager_Managers.htm" />
     <HelpKINode Title="IApplicationManager.Managers Property " Url="html/P_OpenIIoT_SDK_IApplicationManager_Managers.htm" />
   </HelpKINode>
   <HelpKINode Title="ManagerSetupException class">
-    <HelpKINode Title="ManagerSetupException Class" Url="html/T_OpenIIoT_SDK_ManagerSetupException.htm" />
-    <HelpKINode Title="about ManagerSetupException class" Url="html/T_OpenIIoT_SDK_ManagerSetupException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerSetupException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerSetupException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerSetupException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerSetupException.htm" />
+    <HelpKINode Title="ManagerSetupException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerSetupException.htm" />
+    <HelpKINode Title="about ManagerSetupException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerSetupException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerSetupException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerSetupException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerSetupException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerSetupException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerSetupException.ManagerSetupException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerSetupException__ctor.htm" />
+  <HelpKINode Title="ManagerSetupException.ManagerSetupException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerSetupException__ctor.htm" />
   <HelpKINode Title="ManagerStartException class">
-    <HelpKINode Title="ManagerStartException Class" Url="html/T_OpenIIoT_SDK_ManagerStartException.htm" />
-    <HelpKINode Title="about ManagerStartException class" Url="html/T_OpenIIoT_SDK_ManagerStartException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerStartException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerStartException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerStartException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerStartException.htm" />
+    <HelpKINode Title="ManagerStartException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerStartException.htm" />
+    <HelpKINode Title="about ManagerStartException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerStartException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerStartException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerStartException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerStartException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerStartException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerStartException.ManagerStartException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerStartException__ctor.htm" />
+  <HelpKINode Title="ManagerStartException.ManagerStartException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerStartException__ctor.htm" />
   <HelpKINode Title="ManagerStateChanged method" Url="html/M_OpenIIoT_Core_ApplicationManager_ManagerStateChanged.htm" />
   <HelpKINode Title="ManagerStopException class">
-    <HelpKINode Title="ManagerStopException Class" Url="html/T_OpenIIoT_SDK_ManagerStopException.htm" />
-    <HelpKINode Title="about ManagerStopException class" Url="html/T_OpenIIoT_SDK_ManagerStopException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerStopException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerStopException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerStopException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerStopException.htm" />
+    <HelpKINode Title="ManagerStopException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerStopException.htm" />
+    <HelpKINode Title="about ManagerStopException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerStopException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerStopException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerStopException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerStopException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerStopException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerStopException.ManagerStopException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerStopException__ctor.htm" />
+  <HelpKINode Title="ManagerStopException.ManagerStopException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerStopException__ctor.htm" />
   <HelpKINode Title="ManagerTypeListException class">
-    <HelpKINode Title="ManagerTypeListException Class" Url="html/T_OpenIIoT_SDK_ManagerTypeListException.htm" />
-    <HelpKINode Title="about ManagerTypeListException class" Url="html/T_OpenIIoT_SDK_ManagerTypeListException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_ManagerTypeListException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_ManagerTypeListException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_ManagerTypeListException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_ManagerTypeListException.htm" />
+    <HelpKINode Title="ManagerTypeListException Class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerTypeListException.htm" />
+    <HelpKINode Title="about ManagerTypeListException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerTypeListException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerTypeListException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_ManagerTypeListException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_ManagerTypeListException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_ManagerTypeListException.htm" />
   </HelpKINode>
-  <HelpKINode Title="ManagerTypeListException.ManagerTypeListException constructor" Url="html/Overload_OpenIIoT_SDK_ManagerTypeListException__ctor.htm" />
+  <HelpKINode Title="ManagerTypeListException.ManagerTypeListException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_ManagerTypeListException__ctor.htm" />
   <HelpKINode Title="ManagerTypes property" Url="html/P_OpenIIoT_Core_ApplicationManager_ManagerTypes.htm" />
   <HelpKINode Title="Message property">
     <HelpKINode Title="InvalidPluginArchive.Message Property " Url="html/P_OpenIIoT_Core_Plugin_InvalidPluginArchive_Message.htm" />
@@ -1678,13 +1678,6 @@
   <HelpKINode Title="OpenIIoT.Core.Utility class" Url="html/T_OpenIIoT_Core_Utility.htm" />
   <HelpKINode Title="OpenIIoT.Core.WindowsService class" Url="html/T_OpenIIoT_Core_WindowsService.htm" />
   <HelpKINode Title="OpenIIoT.SDK namespace" Url="html/N_OpenIIoT_SDK.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationArgumentException class" Url="html/T_OpenIIoT_SDK_ApplicationArgumentException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationInitializationException class" Url="html/T_OpenIIoT_SDK_ApplicationInitializationException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationManagerException class" Url="html/T_OpenIIoT_SDK_ApplicationManagerException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationShutdownRoutineException class" Url="html/T_OpenIIoT_SDK_ApplicationShutdownRoutineException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationStartException class" Url="html/T_OpenIIoT_SDK_ApplicationStartException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationStartupRoutineException class" Url="html/T_OpenIIoT_SDK_ApplicationStartupRoutineException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ApplicationStopException class" Url="html/T_OpenIIoT_SDK_ApplicationStopException.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Configuration namespace" Url="html/N_OpenIIoT_SDK_Configuration.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Configuration.ConfigurationDefinition class" Url="html/T_OpenIIoT_SDK_Configuration_ConfigurationDefinition.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Configuration.IConfigurable(Of T) interface" Url="html/T_OpenIIoT_SDK_Configuration_IConfigurable_1.htm" />
@@ -1692,12 +1685,31 @@
   <HelpKINode Title="OpenIIoT.SDK.Configuration.IConfigurationManager interface" Url="html/T_OpenIIoT_SDK_Configuration_IConfigurationManager.htm" />
   <HelpKINode Title="OpenIIoT.SDK.ContractResolver class" Url="html/T_OpenIIoT_SDK_ContractResolver.htm" />
   <HelpKINode Title="OpenIIoT.SDK.ContractResolverType enumeration" Url="html/T_OpenIIoT_SDK_ContractResolverType.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.DependencyNotResolvedException class" Url="html/T_OpenIIoT_SDK_DependencyNotResolvedException.htm" />
   <HelpKINode Title="OpenIIoT.SDK.DiscoverableAttribute class" Url="html/T_OpenIIoT_SDK_DiscoverableAttribute.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Discoverer class" Url="html/T_OpenIIoT_SDK_Discoverer.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Event namespace" Url="html/N_OpenIIoT_SDK_Event.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Event.IEventManager interface" Url="html/T_OpenIIoT_SDK_Event_IEventManager.htm" />
   <HelpKINode Title="OpenIIoT.SDK.EventAttribute class" Url="html/T_OpenIIoT_SDK_EventAttribute.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions namespace" Url="html/N_OpenIIoT_SDK_Exceptions.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationArgumentException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationArgumentException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationInitializationException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationInitializationException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationManagerException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationManagerException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationShutdownRoutineException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationShutdownRoutineException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationStartException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStartException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationStartupRoutineException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStartupRoutineException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ApplicationStopException class" Url="html/T_OpenIIoT_SDK_Exceptions_ApplicationStopException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.DependencyNotResolvedException class" Url="html/T_OpenIIoT_SDK_Exceptions_DependencyNotResolvedException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.DirectoryConfigurationException class" Url="html/T_OpenIIoT_SDK_Exceptions_DirectoryConfigurationException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerDependencyException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerDependencyException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerInstantiationException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerInstantiationException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerNotInitializedException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerNotInitializedException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerRegistrationException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerRegistrationException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerSetupException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerSetupException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerStartException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerStartException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerStopException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerStopException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.ManagerTypeListException class" Url="html/T_OpenIIoT_SDK_Exceptions_ManagerTypeListException.htm" />
+  <HelpKINode Title="OpenIIoT.SDK.Exceptions.PlatformException class" Url="html/T_OpenIIoT_SDK_Exceptions_PlatformException.htm" />
   <HelpKINode Title="OpenIIoT.SDK.IApplicationManager interface" Url="html/T_OpenIIoT_SDK_IApplicationManager.htm" />
   <HelpKINode Title="OpenIIoT.SDK.IEventProvider interface" Url="html/T_OpenIIoT_SDK_IEventProvider.htm" />
   <HelpKINode Title="OpenIIoT.SDK.IExtensible interface" Url="html/T_OpenIIoT_SDK_IExtensible.htm" />
@@ -1714,23 +1726,12 @@
   <HelpKINode Title="OpenIIoT.SDK.ItemSource enumeration" Url="html/T_OpenIIoT_SDK_ItemSource.htm" />
   <HelpKINode Title="OpenIIoT.SDK.IWriteable interface" Url="html/T_OpenIIoT_SDK_IWriteable.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Manager class" Url="html/T_OpenIIoT_SDK_Manager.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerDependencyException class" Url="html/T_OpenIIoT_SDK_ManagerDependencyException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerException class" Url="html/T_OpenIIoT_SDK_ManagerException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerInstantiationException class" Url="html/T_OpenIIoT_SDK_ManagerInstantiationException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerNotInitializedException class" Url="html/T_OpenIIoT_SDK_ManagerNotInitializedException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerRegistrationException class" Url="html/T_OpenIIoT_SDK_ManagerRegistrationException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerSetupException class" Url="html/T_OpenIIoT_SDK_ManagerSetupException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerStartException class" Url="html/T_OpenIIoT_SDK_ManagerStartException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerStopException class" Url="html/T_OpenIIoT_SDK_ManagerStopException.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.ManagerTypeListException class" Url="html/T_OpenIIoT_SDK_ManagerTypeListException.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Model namespace" Url="html/N_OpenIIoT_SDK_Model.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Model.IModelManager interface" Url="html/T_OpenIIoT_SDK_Model_IModelManager.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Platform namespace" Url="html/N_OpenIIoT_SDK_Platform.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.Platform.DirectoryConfigurationException class" Url="html/T_OpenIIoT_SDK_Platform_DirectoryConfigurationException.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Platform.IPlatform interface" Url="html/T_OpenIIoT_SDK_Platform_IPlatform.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Platform.IPlatformDirectories interface" Url="html/T_OpenIIoT_SDK_Platform_IPlatformDirectories.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Platform.IPlatformManager interface" Url="html/T_OpenIIoT_SDK_Platform_IPlatformManager.htm" />
-  <HelpKINode Title="OpenIIoT.SDK.Platform.PlatformException class" Url="html/T_OpenIIoT_SDK_Platform_PlatformException.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Platform.PlatformType enumeration" Url="html/T_OpenIIoT_SDK_Platform_PlatformType.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Plugin namespace" Url="html/N_OpenIIoT_SDK_Plugin.htm" />
   <HelpKINode Title="OpenIIoT.SDK.Plugin.Connector namespace" Url="html/N_OpenIIoT_SDK_Plugin_Connector.htm" />
@@ -1773,8 +1774,8 @@
   <HelpKINode Title="Platform class">
     <HelpKINode Title="Platform Class" Url="html/T_OpenIIoT_Core_Platform_Platform.htm" />
     <HelpKINode Title="about Platform class" Url="html/T_OpenIIoT_Core_Platform_Platform.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Platform_Platform__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Platform_Platform__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Platform_Platform__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Platform_Platform.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Platform_Platform.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_Core_Platform_Platform.htm" />
@@ -1799,8 +1800,8 @@
   <HelpKINode Title="Platform.ListZipFiles method" Url="html/M_OpenIIoT_Core_Platform_Platform_ListZipFiles.htm" />
   <HelpKINode Title="Platform.logger field" Url="html/F_OpenIIoT_Core_Platform_Platform_logger.htm" />
   <HelpKINode Title="Platform.Platform constructor">
-    <HelpKINode Title="Platform Constructor " Url="html/M_OpenIIoT_Core_Platform_Platform__cctor.htm" />
     <HelpKINode Title="Platform Constructor " Url="html/M_OpenIIoT_Core_Platform_Platform__ctor.htm" />
+    <HelpKINode Title="Platform Constructor " Url="html/M_OpenIIoT_Core_Platform_Platform__cctor.htm" />
   </HelpKINode>
   <HelpKINode Title="Platform.PlatformType property" Url="html/P_OpenIIoT_Core_Platform_Platform_PlatformType.htm" />
   <HelpKINode Title="Platform.ReadFile method" Url="html/M_OpenIIoT_Core_Platform_Platform_ReadFile.htm" />
@@ -1811,8 +1812,8 @@
   <HelpKINode Title="PlatformDirectories class">
     <HelpKINode Title="PlatformDirectories Class" Url="html/T_OpenIIoT_Core_Platform_PlatformDirectories.htm" />
     <HelpKINode Title="about PlatformDirectories class" Url="html/T_OpenIIoT_Core_Platform_PlatformDirectories.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Platform_PlatformDirectories.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Platform_PlatformDirectories.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_Core_Platform_PlatformDirectories.htm" />
@@ -1823,8 +1824,8 @@
   <HelpKINode Title="PlatformDirectories.Logs property" Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Logs.htm" />
   <HelpKINode Title="PlatformDirectories.Persistence property" Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Persistence.htm" />
   <HelpKINode Title="PlatformDirectories.PlatformDirectories constructor">
-    <HelpKINode Title="PlatformDirectories Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__ctor.htm" />
     <HelpKINode Title="PlatformDirectories Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__cctor.htm" />
+    <HelpKINode Title="PlatformDirectories Constructor " Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="PlatformDirectories.Plugins property" Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Plugins.htm" />
   <HelpKINode Title="PlatformDirectories.Root property" Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Root.htm" />
@@ -1832,14 +1833,14 @@
   <HelpKINode Title="PlatformDirectories.ToDictionary method" Url="html/M_OpenIIoT_Core_Platform_PlatformDirectories_ToDictionary.htm" />
   <HelpKINode Title="PlatformDirectories.Web property" Url="html/P_OpenIIoT_Core_Platform_PlatformDirectories_Web.htm" />
   <HelpKINode Title="PlatformException class">
-    <HelpKINode Title="PlatformException Class" Url="html/T_OpenIIoT_SDK_Platform_PlatformException.htm" />
-    <HelpKINode Title="about PlatformException class" Url="html/T_OpenIIoT_SDK_Platform_PlatformException.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Platform_PlatformException__ctor.htm" />
-    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Platform_PlatformException.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Platform_PlatformException.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Platform_PlatformException.htm" />
+    <HelpKINode Title="PlatformException Class" Url="html/T_OpenIIoT_SDK_Exceptions_PlatformException.htm" />
+    <HelpKINode Title="about PlatformException class" Url="html/T_OpenIIoT_SDK_Exceptions_PlatformException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_PlatformException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_SDK_Exceptions_PlatformException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_SDK_Exceptions_PlatformException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_OpenIIoT_SDK_Exceptions_PlatformException.htm" />
   </HelpKINode>
-  <HelpKINode Title="PlatformException.PlatformException constructor" Url="html/Overload_OpenIIoT_SDK_Platform_PlatformException__ctor.htm" />
+  <HelpKINode Title="PlatformException.PlatformException constructor" Url="html/Overload_OpenIIoT_SDK_Exceptions_PlatformException__ctor.htm" />
   <HelpKINode Title="PlatformManager class">
     <HelpKINode Title="PlatformManager Class" Url="html/T_OpenIIoT_Core_Platform_PlatformManager.htm" />
     <HelpKINode Title="about PlatformManager class" Url="html/T_OpenIIoT_Core_Platform_PlatformManager.htm" />
@@ -1967,8 +1968,8 @@
   <HelpKINode Title="PluginManager class">
     <HelpKINode Title="PluginManager Class" Url="html/T_OpenIIoT_Core_Plugin_PluginManager.htm" />
     <HelpKINode Title="about PluginManager class" Url="html/T_OpenIIoT_Core_Plugin_PluginManager.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Plugin_PluginManager__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Plugin_PluginManager__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Plugin_PluginManager__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_Core_Plugin_PluginManager.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Plugin_PluginManager.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginManager.htm" />
@@ -2084,8 +2085,8 @@
   <HelpKINode Title="PluginTypeManager&lt;T&gt; class">
     <HelpKINode Title="PluginTypeManager(T) Class" Url="html/T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm" />
     <HelpKINode Title="about PluginTypeManager&lt;T&gt; class" Url="html/T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Plugin_PluginTypeManager_1.htm" />
@@ -2098,8 +2099,8 @@
   <HelpKINode Title="PluginTypeManager&lt;T&gt;.logger field" Url="html/F_OpenIIoT_Core_Plugin_PluginTypeManager_1_logger.htm" />
   <HelpKINode Title="PluginTypeManager&lt;T&gt;.manager field" Url="html/F_OpenIIoT_Core_Plugin_PluginTypeManager_1_manager.htm" />
   <HelpKINode Title="PluginTypeManager&lt;T&gt;.PluginTypeManager constructor">
-    <HelpKINode Title="PluginTypeManager(T) Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__ctor.htm" />
     <HelpKINode Title="PluginTypeManager(T) Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__cctor.htm" />
+    <HelpKINode Title="PluginTypeManager(T) Constructor " Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="PluginTypeManager&lt;T&gt;.Restart method" Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1_Restart.htm" />
   <HelpKINode Title="PluginTypeManager&lt;T&gt;.Start method" Url="html/M_OpenIIoT_Core_Plugin_PluginTypeManager_1_Start.htm" />
@@ -2126,8 +2127,8 @@
   <HelpKINode Title="Program class">
     <HelpKINode Title="Program Class" Url="html/T_OpenIIoT_Core_Program.htm" />
     <HelpKINode Title="about Program class" Url="html/T_OpenIIoT_Core_Program.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Program__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Program__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Program__ctor.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Program.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Program.htm" />
   </HelpKINode>
@@ -2137,8 +2138,8 @@
   <HelpKINode Title="Program.managers field" Url="html/F_OpenIIoT_Core_Program_managers.htm" />
   <HelpKINode Title="Program.ProcessArguments method" Url="html/M_OpenIIoT_Core_Program_ProcessArguments.htm" />
   <HelpKINode Title="Program.Program constructor">
-    <HelpKINode Title="Program Constructor " Url="html/M_OpenIIoT_Core_Program__ctor.htm" />
     <HelpKINode Title="Program Constructor " Url="html/M_OpenIIoT_Core_Program__cctor.htm" />
+    <HelpKINode Title="Program Constructor " Url="html/M_OpenIIoT_Core_Program__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="Program.Shutdown method" Url="html/M_OpenIIoT_Core_Program_Shutdown.htm" />
   <HelpKINode Title="Program.Start method" Url="html/M_OpenIIoT_Core_Program_Start.htm" />
@@ -2396,8 +2397,8 @@
   <HelpKINode Title="ServiceManager class">
     <HelpKINode Title="ServiceManager Class" Url="html/T_OpenIIoT_Core_Service_ServiceManager.htm" />
     <HelpKINode Title="about ServiceManager class" Url="html/T_OpenIIoT_Core_Service_ServiceManager.htm" />
-    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_ServiceManager__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_ServiceManager__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_OpenIIoT_Core_Service_ServiceManager__ctor.htm" />
     <HelpKINode Title="events" Url="html/Events_T_OpenIIoT_Core_Service_ServiceManager.htm" />
     <HelpKINode Title="fields" Url="html/Fields_T_OpenIIoT_Core_Service_ServiceManager.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_OpenIIoT_Core_Service_ServiceManager.htm" />
@@ -2740,8 +2741,8 @@
   <HelpKINode Title="WebService.Stop method" Url="html/M_OpenIIoT_Core_Service_Web_WebService_Stop.htm" />
   <HelpKINode Title="WebService.URL property" Url="html/P_OpenIIoT_Core_Service_Web_WebService_URL.htm" />
   <HelpKINode Title="WebService.WebService constructor">
-    <HelpKINode Title="WebService Constructor " Url="html/M_OpenIIoT_Core_Service_Web_WebService__cctor.htm" />
     <HelpKINode Title="WebService Constructor " Url="html/M_OpenIIoT_Core_Service_Web_WebService__ctor.htm" />
+    <HelpKINode Title="WebService Constructor " Url="html/M_OpenIIoT_Core_Service_Web_WebService__cctor.htm" />
   </HelpKINode>
   <HelpKINode Title="WebServiceConfiguration class">
     <HelpKINode Title="WebServiceConfiguration Class" Url="html/T_OpenIIoT_Core_Service_Web_WebServiceConfiguration.htm" />
