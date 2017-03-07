@@ -44,7 +44,7 @@
     <NamespaceGrouping>True</NamespaceGrouping>
     <SyntaxFilters>Standard</SyntaxFilters>
     <SdkLinkTarget>Blank</SdkLinkTarget>
-    <RootNamespaceTitle>OpenIIoT Namespaces</RootNamespaceTitle>
+    <RootNamespaceTitle>Namespaces</RootNamespaceTitle>
     <RootNamespaceContainer>True</RootNamespaceContainer>
     <PresentationStyle>VS2013</PresentationStyle>
     <Preliminary>False</Preliminary>
@@ -73,14 +73,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Content" />
+    <Folder Include="Content\Architecture" />
     <Folder Include="Content\VersionHistory" />
     <Folder Include="icons" />
     <Folder Include="media" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Content\VersionHistory\v1.0.0.0.aml" />
+    <None Include="Content\Architecture\Architecture.aml" />
+    <None Include="Content\VersionHistory\v0.5.0.0.aml" />
     <None Include="Content\VersionHistory\VersionHistory.aml" />
-    <None Include="Content\Welcome.aml" />
+    <None Include="Content\Introduction.aml" />
   </ItemGroup>
   <ItemGroup>
     <ContentLayout Include="ContentLayout.content" />
