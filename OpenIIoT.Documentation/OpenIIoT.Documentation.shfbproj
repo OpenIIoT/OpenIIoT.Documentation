@@ -13,7 +13,7 @@
     <RootNamespace>Documentation</RootNamespace>
     <Name>OpenIIoT.Documentation</Name>
     <!-- SHFB properties -->
-    <FrameworkVersion>.NET Framework 4.5</FrameworkVersion>
+    <FrameworkVersion>.NET Framework 4.6.1</FrameworkVersion>
     <OutputPath>.\Help\</OutputPath>
     <HtmlHelpName>Documentation</HtmlHelpName>
     <Language>en-US</Language>
@@ -27,11 +27,10 @@
       <Argument Key="maxVersionParts" Value="" xmlns="" />
     </TransformComponentArguments>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\OpenIIoT.Core\bin\Debug\OpenIIoT.exe" />
-      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\OpenIIoT.SDK\bin\Debug\OpenIIoT.SDK.dll" />
-      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\OpenIIoT.Core\bin\Debug\OpenIIoT.SDK.xml" />
-      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\OpenIIoT.Core\bin\Debug\OpenIIoT.SDK.dll" />
-      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\OpenIIoT.Core\bin\Debug\OpenIIoT.XML" />
+      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\Source\OpenIIoT.Core\bin\Debug\OpenIIoT.exe" />
+      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\Source\OpenIIoT.Core\bin\Debug\OpenIIoT.XML" />
+      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\Source\OpenIIoT.SDK\bin\Debug\OpenIIoT.SDK.dll" />
+      <DocumentationSource sourceFile="..\..\OpenIIoT.Core\Source\OpenIIoT.SDK\bin\Debug\OpenIIoT.SDK.xml" />
     </DocumentationSources>
     <BuildAssemblerVerbosity>OnlyWarningsAndErrors</BuildAssemblerVerbosity>
     <HelpFileFormat>Website</HelpFileFormat>
@@ -51,7 +50,20 @@
     <NamingMethod>MemberName</NamingMethod>
     <HelpTitle>OpenIIoT</HelpTitle>
     <ContentPlacement>AboveNamespaces</ContentPlacement>
-    <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Internals, Privates, PrivateFields, Protected, SealedProtected, ProtectedInternalAsProtected</VisibleItems>
+    <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, Internals, Privates, PrivateFields, Protected, SealedProtected, ProtectedInternalAsProtected</VisibleItems>
+    <SaveComponentCacheCapacity>100</SaveComponentCacheCapacity>
+    <PlugInConfigurations>
+      <PlugInConfig id="Assembly Binding Redirection" enabled="True">
+        <configuration useGAC="false">
+          <assemblyBinding />
+          <ignoreIfUnresolved>
+            <assemblyIdentity name="BusinessObjects.Licensing.KeycodeDecoder" />
+            <assemblyIdentity name="Microsoft.VisualStudio.TestTools.UITest.Playback" />
+            <assemblyIdentity name="System.Web.Http" />
+          </ignoreIfUnresolved>
+        </configuration>
+      </PlugInConfig>
+    </PlugInConfigurations>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
@@ -93,6 +105,10 @@
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
       <HintPath>lib\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <HintPath>lib\System.Net.Http.dll</HintPath>
       <Private>True</Private>
     </Reference>
   </ItemGroup>
